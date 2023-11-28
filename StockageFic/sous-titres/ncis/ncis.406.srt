@@ -1,0 +1,3451 @@
+1
+00:00:09,741 --> 00:00:13,826
+Pas mal pour une reine qui est censée être morte depuis quelques milliers d'années.
+
+2
+00:00:35,986 --> 00:00:38,818
+Bon sang, tu m'as vraiment fait peur, Erik.
+
+3
+00:00:38,819 --> 00:00:40,454
+Tu ne connais pas le mot "frapper" ?
+
+4
+00:00:40,626 --> 00:00:43,760
+La dernière bataille de Custer. Charmant.
+
+5
+00:00:43,761 --> 00:00:45,911
+Au fait, la fête ne commence pas avant une heure.
+
+6
+00:00:45,912 --> 00:00:47,111
+Sarah...
+
+7
+00:00:48,331 --> 00:00:49,592
+Erik ?
+
+8
+00:00:54,593 --> 00:00:54,756
+L
+
+9
+00:00:54,756 --> 00:00:54,919
+La
+
+10
+00:00:54,919 --> 00:00:55,082
+La T
+
+11
+00:00:55,082 --> 00:00:55,245
+La Te
+
+12
+00:00:55,245 --> 00:00:55,408
+La Tea
+
+13
+00:00:55,408 --> 00:00:55,571
+La Team
+
+14
+00:00:55,571 --> 00:00:55,734
+La Team-
+
+15
+00:00:55,734 --> 00:00:55,897
+La Team-N
+
+16
+00:00:55,897 --> 00:00:56,060
+La Team-NC
+
+17
+00:00:56,060 --> 00:00:56,223
+La Team-NCI
+
+18
+00:00:56,223 --> 00:00:56,386
+La Team-NCIS
+
+19
+00:00:56,386 --> 00:00:56,549
+La Team-NCIS.
+
+20
+00:00:56,549 --> 00:00:56,712
+La Team-NCIS.c
+
+21
+00:00:56,712 --> 00:00:56,875
+La Team-NCIS.co
+
+22
+00:00:56,875 --> 00:00:57,038
+La Team-NCIS.com
+
+23
+00:00:57,038 --> 00:00:57,201
+La Team-NCIS.com p
+
+24
+00:00:57,201 --> 00:00:57,364
+La Team-NCIS.com pr
+
+25
+00:00:57,364 --> 00:00:57,527
+La Team-NCIS.com pré
+
+26
+00:00:57,527 --> 00:00:57,690
+La Team-NCIS.com prés
+
+27
+00:00:57,690 --> 00:00:57,853
+La Team-NCIS.com prése
+
+28
+00:00:57,853 --> 00:00:58,016
+La Team-NCIS.com présen
+
+29
+00:00:58,016 --> 00:00:58,179
+La Team-NCIS.com présent
+
+30
+00:00:58,179 --> 00:00:58,342
+La Team-NCIS.com présente
+
+31
+00:00:58,342 --> 00:00:58,986
+La Team-NCIS.com présente :
+
+32
+00:00:59,831 --> 00:01:04,014
+NCIS Saison 4 Episode 6 :
+Witch Hunt. (notv)
+
+33
+00:01:04,724 --> 00:01:06,454
+Script : FRM
+
+34
+00:01:06,939 --> 00:01:09,333
+Synch : Orion for Team-NCIS.com
+
+35
+00:01:09,767 --> 00:01:13,152
+Traduction : ShalimarFox, g.snake, Gaillots, Leda.
+
+36
+00:01:13,793 --> 00:01:17,478
+Relecture: Moustou, Mickey et BadGOne.
+
+37
+00:01:18,012 --> 00:01:40,520
+www.Team-NCIS.com
+
+38
+00:01:58,535 --> 00:02:00,387
+T'as pas prévu de partir tôt, n'est-ce pas ?
+
+39
+00:02:00,388 --> 00:02:01,917
+Et si je le fais ?
+
+40
+00:02:02,463 --> 00:02:04,197
+Je ne te le conseillerais pas.
+
+41
+00:02:04,933 --> 00:02:06,227
+Tu sais quel jour on est ?
+
+42
+00:02:06,228 --> 00:02:07,376
+Mardi.
+
+43
+00:02:07,458 --> 00:02:09,162
+C'est Halloween, Ziva.
+
+44
+00:02:09,163 --> 00:02:10,124
+C'est un jour férié américain...
+
+45
+00:02:10,125 --> 00:02:13,517
+Je sais, on porte des déguisements idiots et on mendie pour des bonbons.
+
+46
+00:02:13,518 --> 00:02:16,556
+J'imagine que ça pourrait être une fête DiNozzo nationale.
+
+47
+00:02:17,251 --> 00:02:19,502
+Tu imagines mal. Je ne fête pas Halloween.
+
+48
+00:02:19,503 --> 00:02:20,972
+Je vois.
+
+49
+00:02:21,198 --> 00:02:22,621
+C'est encore ton père ?
+
+50
+00:02:22,622 --> 00:02:25,788
+Je ne fête pas Halloween parce que depuis que je suis devenu flic
+
+51
+00:02:25,925 --> 00:02:28,704
+des choses mystérieuses arrivent toujours le 31 octobre.
+
+52
+00:02:28,705 --> 00:02:30,113
+Définis "mystérieuse".
+
+53
+00:02:30,114 --> 00:02:33,232
+On affronte des pillages, des décapitations,
+
+54
+00:02:33,233 --> 00:02:35,402
+des mutilations de bétail
+
+55
+00:02:35,738 --> 00:02:38,462
+et McGee devient étrange et bleu.
+
+56
+00:02:40,100 --> 00:02:41,041
+Quoi ?
+
+57
+00:02:41,042 --> 00:02:42,649
+Qu'est-ce qu'il y a dessous ta chemise ?
+
+58
+00:02:44,095 --> 00:02:45,250
+Mon T-shirt.
+
+59
+00:02:45,251 --> 00:02:46,306
+D'accord, il ment.
+
+60
+00:02:46,307 --> 00:02:47,635
+Ouais.
+
+61
+00:02:48,063 --> 00:02:49,570
+Oh, ouais.
+
+62
+00:02:56,000 --> 00:02:58,804
+Je savais que tu jouais une fée sur ce jeu en ligne,
+
+63
+00:02:58,805 --> 00:03:00,493
+mais t'habiller comme elle ?
+
+64
+00:03:00,809 --> 00:03:04,272
+C'est un elfe des neiges. Et je vais à une fête costumée, O.K. ?
+
+65
+00:03:04,273 --> 00:03:06,711
+C'est loin d'être O.K., bizut.
+
+66
+00:03:06,984 --> 00:03:08,821
+En fait, je dirais que c'est...
+
+67
+00:03:08,822 --> 00:03:10,929
+passer un niveau dans le geek.
+
+68
+00:03:10,930 --> 00:03:13,371
+C'est triste, je suis d'accord.
+
+69
+00:03:13,372 --> 00:03:19,101
+J'ai de suite senti tout le respect quitter mon corps dès que j'ai enfilé ça.
+
+70
+00:03:19,481 --> 00:03:21,617
+Normalement, tu aurais raison, mais...
+
+71
+00:03:21,618 --> 00:03:24,105
+... tu n'as pas encore rencontré ma reine de glace.
+
+72
+00:03:24,106 --> 00:03:26,691
+Tu te moques de moi ?
+
+73
+00:03:30,583 --> 00:03:33,312
+Ai-je aussi mentionné qu'elle est pom-pom girl pour les Redskins ?
+
+74
+00:03:33,561 --> 00:03:34,489
+Très impressionnant.
+
+75
+00:03:34,490 --> 00:03:36,951
+C'est une femme très belle. Comment tu l'as trouvée ?
+
+76
+00:03:36,952 --> 00:03:38,559
+Rencontrée à la boutique Armani.
+
+77
+00:03:38,560 --> 00:03:41,051
+On a découvert qu'on jouait sur le même serveur de jeu.
+
+78
+00:03:41,052 --> 00:03:43,140
+Depuis quand tu peux te permettre de porter de l'Armani ?
+
+79
+00:03:44,003 --> 00:03:45,382
+Vos affaires.
+
+80
+00:03:52,749 --> 00:03:54,068
+Oh, mon Dieu.
+
+81
+00:03:54,447 --> 00:03:56,026
+C'est à McGee.
+
+82
+00:03:56,785 --> 00:03:59,377
+Je vais à une fête costumée plus tard dans la soirée.
+
+83
+00:04:00,881 --> 00:04:02,658
+Plus maintenant, Seigneur Elf.
+
+84
+00:04:02,659 --> 00:04:06,588
+Le général Custer a été tué, et il y a un squelette mort dans son salon.
+
+85
+00:04:06,589 --> 00:04:08,452
+Qu'est-ce que je t'ai dis ? Halloween.
+
+86
+00:04:12,022 --> 00:04:14,021
+Non, attends, attends, Sharon, c'est...
+
+87
+00:04:14,197 --> 00:04:16,155
+Et le week-end prochain ?
+
+88
+00:04:16,285 --> 00:04:17,796
+Ecoute, ce n’est pas ma faute.
+
+89
+00:04:17,797 --> 00:04:20,144
+Mon pauvre petit McGee.
+
+90
+00:04:20,145 --> 00:04:22,538
+Il y aura d'autres reines elfe en ligne.
+
+91
+00:04:22,539 --> 00:04:23,799
+Elle a raison.
+
+92
+00:04:23,918 --> 00:04:27,487
+Bien sûr elles ne seront pas pom-pom girl pour les Redskins et elles pèseront probablement quelques kilos de plus.
+
+93
+00:04:27,488 --> 00:04:30,025
+Pour ne pas mentionner qu'il y a de bonnes chances que ce soient en réalité des hommes.
+
+94
+00:04:30,026 --> 00:04:31,260
+Mais si tu joues assez longtemps...
+
+95
+00:04:31,261 --> 00:04:32,609
+Tout peut arriver.
+
+96
+00:04:32,610 --> 00:04:35,250
+Le type habillé comme Custer est le sergent d'état-major Erik Niles.
+
+97
+00:04:35,251 --> 00:04:37,585
+La police locale est à la recherche de sa femme et sa fille.
+
+98
+00:04:37,586 --> 00:04:41,505
+La traînée de sang va de sa maison à celle du voisin qui a passé l'appel.
+
+99
+00:04:41,506 --> 00:04:43,277
+Tony, Ziva, prenez sa déposition.
+
+100
+00:04:43,278 --> 00:04:45,954
+McGee, commence à examiner le salon du sergent.
+
+101
+00:04:45,955 --> 00:04:47,601
+Et il y a un...
+
+102
+00:04:47,621 --> 00:04:50,392
+inconnu mort là-bas habillé comme un squelette.
+
+103
+00:04:53,273 --> 00:04:54,922
+Qu'est-ce qui leur est arrivé ?
+
+104
+00:04:54,991 --> 00:04:55,783
+Halloween.
+
+105
+00:04:55,784 --> 00:04:57,403
+Désolé, nous sommes en retard,
+
+106
+00:04:57,422 --> 00:05:00,196
+mais nous avions une petite altercation avec quelques jeunes du coin.
+
+107
+00:05:00,197 --> 00:05:02,410
+Oui, je peux voir ça, docteur.
+
+108
+00:05:02,411 --> 00:05:03,509
+Vous les avez bien mémorisés ?
+
+109
+00:05:03,510 --> 00:05:05,115
+Nous avons fait mieux que ça.
+
+110
+00:05:05,116 --> 00:05:07,535
+Libérez les captifs, M. Palmer.
+
+111
+00:05:08,223 --> 00:05:09,631
+On a des ennuis ?
+
+112
+00:05:09,632 --> 00:05:10,941
+Où on est ?
+
+113
+00:05:10,991 --> 00:05:12,309
+On a dit qu'on était désolé.
+
+114
+00:05:12,310 --> 00:05:13,610
+C'est vrai.
+
+115
+00:05:14,738 --> 00:05:15,856
+Nettoyez ça.
+
+116
+00:05:15,857 --> 00:05:16,825
+Bon boulot, Palmer.
+
+117
+00:05:16,826 --> 00:05:18,053
+C'était pas moi, Tony.
+
+118
+00:05:18,054 --> 00:05:20,668
+Dr Mallard les a poursuivis sur trois pâtés de maisons.
+
+119
+00:05:20,669 --> 00:05:23,720
+S'il vous plaît, c'est pas si impressionnant.
+
+120
+00:05:23,785 --> 00:05:26,218
+Ce n'est pas comme s'ils étaient de vrais ninjas.
+
+121
+00:05:31,100 --> 00:05:33,808
+J'ai d'abord cru qu'il jouait la comédie.
+
+122
+00:05:33,977 --> 00:05:36,099
+La dernière bataille du général Custer, tout ça ?
+
+123
+00:05:36,100 --> 00:05:37,943
+Vous avez enlevé sa veste. Pourquoi ?
+
+124
+00:05:37,944 --> 00:05:39,421
+Pour vérifier s'il y avait d'autres blessures.
+
+125
+00:05:39,422 --> 00:05:40,500
+Il n'y en avait pas.
+
+126
+00:05:40,501 --> 00:05:43,172
+Juste une simple blessure par balle qui a entaillé son artère carotide.
+
+127
+00:05:43,173 --> 00:05:45,646
+Je suis médecin, pédiatre...
+
+128
+00:05:46,456 --> 00:05:50,396
+Ça explique pourquoi il est venu jusqu'ici. Vous lui avez probablement sauvé la vie, docteur.
+
+129
+00:05:50,403 --> 00:05:53,920
+Je l'ai stabilisé du mieux je pouvais jusqu'à ce que le SAMU arrive.
+
+130
+00:05:54,129 --> 00:05:56,431
+Et c'est Leslie.
+
+131
+00:05:59,032 --> 00:06:00,781
+Vous a-t-il dit quoi que ce soit ?
+
+132
+00:06:01,100 --> 00:06:04,399
+Il a essayé. Je pense que c'était le nom de sa fille.
+
+133
+00:06:04,400 --> 00:06:05,548
+Sarah.
+
+134
+00:06:05,549 --> 00:06:08,801
+J'espère qu'elle était avec sa mère quand...
+
+135
+00:06:09,309 --> 00:06:11,717
+c'est arrivé.
+
+136
+00:06:22,045 --> 00:06:23,774
+Non, ce n’est pas effrayant.
+
+137
+00:06:59,179 --> 00:07:00,161
+Palmer !
+
+138
+00:07:00,162 --> 00:07:01,495
+Quelque chose ne va pas ?
+
+139
+00:07:01,496 --> 00:07:02,886
+Tu veux te faire tuer ?
+
+140
+00:07:02,887 --> 00:07:04,400
+Non.
+
+141
+00:07:06,138 --> 00:07:07,661
+Il y a quelqu'un dans cette pièce.
+
+142
+00:07:07,720 --> 00:07:10,072
+Tu veux dire à part le mort en squelette ?
+
+143
+00:07:10,251 --> 00:07:12,793
+Oui, à part le mort en squelette.
+
+144
+00:07:17,086 --> 00:07:18,937
+Rien à signaler à la cave, patron.
+
+145
+00:07:18,988 --> 00:07:19,920
+Ecoute, je sais ce que j'ai vu.
+
+146
+00:07:19,921 --> 00:07:22,292
+Quelqu'un a ramassé les douilles et a essayé d'essuyer le sang.
+
+147
+00:07:22,293 --> 00:07:24,946
+Qui, bizut, les fées des scènes de crime ? Il n'y a personne ici.
+
+148
+00:07:24,947 --> 00:07:27,200
+Fais venir Ducky ici. On perd du temps.
+
+149
+00:07:27,427 --> 00:07:29,507
+Patron, je suis désolé, mais je jure, qu'ici...
+
+150
+00:07:29,508 --> 00:07:31,596
+Qu'est-ce que tu fais de ça, McGee ?
+
+151
+00:07:32,727 --> 00:07:34,575
+Il y a des signes évidents de lutte.
+
+152
+00:07:34,576 --> 00:07:37,114
+Un agresseur mort. Pas sûr de comment sa tête a pris cette position, cependant.
+
+153
+00:07:37,115 --> 00:07:38,242
+Pas sûr ?
+
+154
+00:07:38,924 --> 00:07:41,159
+Viens, laisse-moi te montrer. Allonge-toi.
+
+155
+00:07:41,454 --> 00:07:44,117
+Tony m’avait déjà parlé de la fois où vous lui avez expliqué cette technique...
+
+156
+00:07:44,118 --> 00:07:46,488
+Ouais, vous parlez de ce genre de choses entre vous ?
+
+157
+00:07:46,489 --> 00:07:48,065
+On apprend en ressentant, McGee.
+
+158
+00:07:48,066 --> 00:07:50,828
+Voici comment les marines font taire les sentinelles ennemies.
+
+159
+00:07:50,829 --> 00:07:53,069
+30 kg de pression et ensuite...
+
+160
+00:07:53,070 --> 00:07:54,625
+Craque !
+
+161
+00:07:55,279 --> 00:07:58,100
+Donc le sergent Niles l'a descendu en se battant.
+
+162
+00:07:58,585 --> 00:07:59,861
+Tu vois ?
+
+163
+00:08:00,235 --> 00:08:02,245
+Les éclaboussures de sang sur le mur.
+
+164
+00:08:06,205 --> 00:08:08,701
+Il était à peu près où je me trouve en ce moment
+
+165
+00:08:08,702 --> 00:08:10,193
+quand on lui a tiré dessus.
+
+166
+00:08:10,404 --> 00:08:12,183
+La balle l'a atteint...
+
+167
+00:08:13,141 --> 00:08:15,389
+Ça veut dire que le tireur se trouvait quelque part par là.
+
+168
+00:08:15,576 --> 00:08:17,901
+Là où sont les douilles.
+
+169
+00:08:17,902 --> 00:08:19,194
+Enfin, étaient.
+
+170
+00:08:19,597 --> 00:08:21,765
+- Donc deux agresseurs.
+- Au moins.
+
+171
+00:08:21,816 --> 00:08:24,189
+Oui, la cause de la mort est assez évidente.
+
+172
+00:08:24,190 --> 00:08:25,756
+Mais on ne sait jamais.
+
+173
+00:08:25,757 --> 00:08:30,194
+J'ai eu une affaire une fois où un homme décédé d'une défaillance cardiaque
+
+174
+00:08:30,195 --> 00:08:31,953
+avait un pic à glace
+
+175
+00:08:31,954 --> 00:08:36,302
+planté dans son crâne 4 heures après l'heure du décès.
+
+176
+00:08:36,303 --> 00:08:39,653
+Sa femme avait découvert qu'elle ne figurait pas dans son testament.
+
+177
+00:08:39,654 --> 00:08:40,421
+Bonne nouvelle, patron.
+
+178
+00:08:40,422 --> 00:08:42,904
+Un gamin a vu une voiture quitter le domicile du sergent vers l'heure du crime
+
+179
+00:08:42,905 --> 00:08:44,199
+Ziva prend son signalement.
+
+180
+00:08:44,200 --> 00:08:47,508
+Voyons voir.
+
+181
+00:08:50,869 --> 00:08:52,613
+Quelque chose vient de me toucher le pied.
+
+182
+00:08:52,984 --> 00:08:54,614
+Quelque chose sous le canapé.
+
+183
+00:08:54,833 --> 00:08:57,355
+Peut-être que c'est, la fée des scènes de crimes, Tony.
+
+184
+00:09:00,945 --> 00:09:02,844
+Je déteste Halloween.
+
+185
+00:09:11,558 --> 00:09:12,875
+C'est un Roomba.
+
+186
+00:09:12,876 --> 00:09:14,342
+C'est un aspirateur automatique,
+
+187
+00:09:14,343 --> 00:09:17,080
+il se sert de ses capteurs pour nettoyer le sol lorsque les propriétaires sont absents.
+
+188
+00:09:17,081 --> 00:09:20,805
+Oui, mais ton Roomba est sur le point d'interférer avec ta scène de crime.
+
+189
+00:09:27,203 --> 00:09:29,398
+Cette saleté a aspiré les douilles.
+
+190
+00:09:29,644 --> 00:09:31,423
+Je t'avais dit que je n’étais pas fou.
+
+191
+00:09:32,652 --> 00:09:33,760
+Emballe-les.
+
+192
+00:09:39,450 --> 00:09:41,099
+Je pense que c'était une Kuruma gris métallisé.
+
+193
+00:09:41,100 --> 00:09:43,742
+La porte a claqué et il est simplement parti.
+
+194
+00:09:44,217 --> 00:09:45,413
+Merci beaucoup.
+
+195
+00:09:51,438 --> 00:09:53,987
+Le gamin a vu une voiture ressemblant à une Kuruma quitter la scène.
+
+196
+00:09:53,988 --> 00:09:56,071
+Je ne connais pas très bien ce modèle.
+
+197
+00:09:56,423 --> 00:09:58,993
+"Kuruma" signifie "voiture" en japonais, Ziva.
+
+198
+00:09:58,994 --> 00:10:01,474
+Le signalement de ta voiture, c'est une voiture.
+
+199
+00:10:01,475 --> 00:10:02,814
+Bon travail, officier David.
+
+200
+00:10:02,815 --> 00:10:05,426
+Kuruma est le nom d'une voiture dans GTA 3.
+
+201
+00:10:05,427 --> 00:10:07,638
+C'est une Chrysler Sebring sedan.
+
+202
+00:10:07,639 --> 00:10:09,632
+McGeek sauve la mise.
+
+203
+00:10:09,653 --> 00:10:11,019
+Je vais émettre un avis de recherche.
+
+204
+00:10:11,020 --> 00:10:12,393
+Trouvez la femme du sergent et...
+
+205
+00:10:12,394 --> 00:10:13,441
+Erik.
+
+206
+00:10:15,877 --> 00:10:17,056
+Oh, mon Dieu.
+
+207
+00:10:17,403 --> 00:10:19,486
+Est-ce...
+
+208
+00:10:19,593 --> 00:10:21,186
+Est-ce mon...
+
+209
+00:10:21,187 --> 00:10:22,950
+- Est-ce mon mari là ?
+- Ce n'est pas lui.
+
+210
+00:10:22,951 --> 00:10:26,190
+Ce n'est pas votre mari.
+
+211
+00:10:27,003 --> 00:10:28,031
+O.K. ?
+
+212
+00:10:29,303 --> 00:10:30,370
+Je suis sa sœur.
+
+213
+00:10:30,477 --> 00:10:34,334
+On était à l'école pour préparer la fête d'Halloween quand la police est arrivée.
+
+214
+00:10:34,335 --> 00:10:35,956
+Sa fille est-elle toujours là-bas ?
+
+215
+00:10:35,957 --> 00:10:38,503
+Sarah ? Elle était avec Erik.
+
+216
+00:10:38,504 --> 00:10:40,286
+Alerte "Amber", j'y vais, patron.
+
+217
+00:10:46,657 --> 00:10:48,149
+Je vais bien maintenant.
+
+218
+00:10:49,031 --> 00:10:52,340
+Quand ils ont dit qu'Erik avait été tué et quand j'ai vu le corps...
+
+219
+00:10:53,691 --> 00:10:57,671
+Mme Niles, votre mari est à Bethesda. Il est en chirurgie.
+
+220
+00:10:57,672 --> 00:10:59,211
+Et on va vous emmener le voir.
+
+221
+00:10:59,542 --> 00:11:01,439
+On a juste besoin de vous poser quelques questions.
+
+222
+00:11:01,475 --> 00:11:02,598
+Laurie...
+
+223
+00:11:03,465 --> 00:11:04,868
+Sarah a disparu.
+
+224
+00:11:04,946 --> 00:11:06,369
+Tu veux dire qu'elle a été kidnappée.
+
+225
+00:11:06,370 --> 00:11:07,905
+Ils n'en sont pas sûrs pour le moment.
+
+226
+00:11:07,906 --> 00:11:10,543
+Mme Niles, votre fille a peut-être simplement pris peur et s'est enfuie.
+
+227
+00:11:10,544 --> 00:11:13,626
+Peut-être y'a t’il un ami ou un parent chez qui elle aurait pu aller ?
+
+228
+00:11:13,627 --> 00:11:15,424
+Non, non, elle...
+
+229
+00:11:15,425 --> 00:11:18,102
+Elle m'aurait appelée sur mon portable.
+
+230
+00:11:18,609 --> 00:11:19,772
+Ils ont pris ma petite fille.
+
+231
+00:11:19,773 --> 00:11:23,372
+Ils la retrouveront, Laurie, on doit juste rester optimistes, O.K. ?
+
+232
+00:11:24,836 --> 00:11:26,887
+Ça pourrait être elle.
+
+233
+00:11:27,737 --> 00:11:29,684
+Pouvez-vous mettre le haut-parleur ?
+
+234
+00:11:31,798 --> 00:11:32,548
+Allô ?
+
+235
+00:11:32,549 --> 00:11:34,080
+Maman !
+
+236
+00:11:34,188 --> 00:11:35,604
+Bébé, tu vas bien ?
+
+237
+00:11:35,605 --> 00:11:37,179
+Ils ont fait du mal à papa.
+
+238
+00:11:37,180 --> 00:11:39,652
+J'ai essayé d'appeler la police, mais le monsieur...
+
+239
+00:11:39,653 --> 00:11:41,269
+Écoute-moi, Sarah.
+
+240
+00:11:41,270 --> 00:11:43,702
+Tout va bien se passer. Tu dois juste...
+
+241
+00:11:43,703 --> 00:11:45,146
+<i>On a votre fille.</i>
+
+242
+00:11:45,501 --> 00:11:48,836
+<i>Si vous voulez la revoir vivante, vous allez faire exactement ce que je vous dis.</i>
+
+243
+00:11:48,837 --> 00:11:50,797
+Je rappellerai pour les détails.
+
+244
+00:12:03,673 --> 00:12:06,542
+Je me suis déguisé une fois en squelette dans ma jeunesse.
+
+245
+00:12:06,543 --> 00:12:11,697
+Saviez-vous que la tradition d'Halloween venait d'Écosse ?
+
+246
+00:12:11,698 --> 00:12:16,414
+De même que des sports raffinés tels que le golf et le curling.
+
+247
+00:12:16,415 --> 00:12:19,171
+Je n'appellerais pas quelque chose qui utilise un balai un sport, Ducky.
+
+248
+00:12:19,172 --> 00:12:23,408
+Tony, le curling fait référence aux échecs sur glace,
+
+249
+00:12:23,409 --> 00:12:28,410
+parce que ça nécessite beaucoup de tactique et d'anticipation.
+
+250
+00:12:28,411 --> 00:12:30,674
+Relax, Ducky, j'adore l'Écosse.
+
+251
+00:12:30,675 --> 00:12:31,849
+Sean Connery,
+
+252
+00:12:31,850 --> 00:12:34,293
+le meilleur James Bond de tous.
+
+253
+00:12:34,696 --> 00:12:36,131
+Je pensais qu'il était irlandais.
+
+254
+00:12:36,862 --> 00:12:39,859
+Dans "Darby O'Gill et les farfadets".
+
+255
+00:12:39,860 --> 00:12:42,958
+Il a pris un faux accent irlandais, ça s'appelle jouer la comédie.
+
+256
+00:12:43,359 --> 00:12:47,247
+La cause préliminaire du décès est un coup violent porté au cou.
+
+257
+00:12:47,248 --> 00:12:49,464
+Cependant, une fois que j'aurais fait le...
+
+258
+00:12:49,465 --> 00:12:52,017
+Ce type est notre seul lien avec la fillette disparue.
+
+259
+00:12:52,018 --> 00:12:53,375
+J'ai besoin d'une identification.
+
+260
+00:12:53,376 --> 00:12:55,968
+Pour l'instant, il reste un inconnu.
+
+261
+00:12:55,969 --> 00:12:58,691
+Il n'a pas d'identité, il n'a pas de tatouage,
+
+262
+00:12:58,692 --> 00:13:00,940
+pas de marques distinctives. Tiens.
+
+263
+00:13:00,941 --> 00:13:02,498
+Et ses empreintes ?
+
+264
+00:13:02,499 --> 00:13:05,458
+M. Palmer les a montées au labo d'Abby,
+
+265
+00:13:05,459 --> 00:13:08,698
+bien qu'elle soit absente, et qu'elle ne réponde pas au téléphone.
+
+266
+00:13:08,699 --> 00:13:10,563
+Halloween est une nuit assez importante pour Abby.
+
+267
+00:13:10,564 --> 00:13:12,559
+Chaque nuit est une nuit d'Halloween pour Abby.
+
+268
+00:13:12,642 --> 00:13:15,559
+Ah, vous voilà. Est-elle là maintenant ?
+
+269
+00:13:15,560 --> 00:13:16,542
+Oh, elle est là.
+
+270
+00:13:16,543 --> 00:13:18,101
+Et elle est déguisée.
+
+271
+00:13:18,102 --> 00:13:20,747
+Ah, ouais ? C'est comment ?
+
+272
+00:13:20,878 --> 00:13:24,075
+Croyez-moi, vous ne voudriez pas que je vous gâche la surprise.
+
+273
+00:13:39,572 --> 00:13:41,497
+Pardon les gars, je suis en retard.
+
+274
+00:13:41,498 --> 00:13:43,560
+Je n'entendais pas mon téléphone sonner à la soirée.
+
+275
+00:13:43,561 --> 00:13:45,651
+J'aurais juré qu'un cimetière serait un peu plus silencieux.
+
+276
+00:13:45,652 --> 00:13:47,479
+C'est horrible pour cette petite fille.
+
+277
+00:13:47,480 --> 00:13:49,173
+Je veux dire, kidnappée à Halloween.
+
+278
+00:13:49,174 --> 00:13:50,772
+Complètement flippant.
+
+279
+00:13:51,503 --> 00:13:53,881
+Je fais une recherche des empreintes digitales de notre squelette dans l'AFIS.
+
+280
+00:13:53,882 --> 00:13:55,563
+Je commence par la Virginie et le Maryland
+
+281
+00:13:55,564 --> 00:13:58,853
+et ensuite dans un sous-ensemble de tous les agresseurs d'enfants connus de la côte Est.
+
+282
+00:13:58,854 --> 00:14:01,843
+J'ai une alerte "Amber" en cours, pas encore de résultats.
+
+283
+00:14:03,101 --> 00:14:04,880
+Nous devons la retrouver.
+
+284
+00:14:06,250 --> 00:14:08,088
+Pourquoi vous me regardez comme ça ?
+
+285
+00:14:08,089 --> 00:14:10,126
+J'ai de la nourriture entre les dents ou quoi ?
+
+286
+00:14:11,750 --> 00:14:14,385
+Je m'en tiendrai simplement au "ou quoi".
+
+287
+00:14:14,460 --> 00:14:17,739
+On doit comparer la photo du mort avec les photos de l'identité judiciaire.
+
+288
+00:14:21,667 --> 00:14:22,878
+Donne.
+
+289
+00:14:26,223 --> 00:14:28,263
+L'appareil photo, McGee.
+
+290
+00:14:28,264 --> 00:14:30,067
+L'appareil photo. Désolé.
+
+291
+00:14:35,999 --> 00:14:38,324
+On doit émettre un avis de recherche.
+
+292
+00:14:38,791 --> 00:14:41,807
+Voir si quelqu'un reconnaît notre gars.
+
+293
+00:14:41,882 --> 00:14:44,146
+McGee, qu'est-ce qui ne va pas ?
+
+294
+00:14:44,147 --> 00:14:46,528
+T'as l'air à côté de tes pompes ?
+
+295
+00:14:46,529 --> 00:14:48,673
+Rien, c'est juste que...
+
+296
+00:14:48,674 --> 00:14:50,413
+tu es différente.
+
+297
+00:14:50,619 --> 00:14:53,493
+Il veut dire ton déguisement d'Halloween, Marilyn.
+
+298
+00:14:55,489 --> 00:14:56,395
+D'accord.
+
+299
+00:14:56,396 --> 00:14:57,274
+Mignon, pas vrai ?
+
+300
+00:14:57,275 --> 00:14:58,833
+- Ouais.
+- Ouais.
+
+301
+00:15:01,700 --> 00:15:02,746
+DiNozzo.
+
+302
+00:15:02,747 --> 00:15:04,884
+Le poste de police de Woodbridge a un gamin disant
+
+303
+00:15:04,885 --> 00:15:07,055
+qu'il a peut-être aperçu la Sebring dans le voisinage.
+
+304
+00:15:07,056 --> 00:15:08,629
+O.K., je m'en charge.
+
+305
+00:15:08,630 --> 00:15:11,088
+On a aussi des photos de notre squelette sans maquillage.
+
+306
+00:15:11,089 --> 00:15:12,095
+Envoie-les.
+
+307
+00:15:12,096 --> 00:15:14,148
+Pour voir si la femme peut l'identifier.
+
+308
+00:15:14,678 --> 00:15:16,444
+Comment va le sergent ?
+
+309
+00:15:16,445 --> 00:15:18,262
+Toujours en chirurgie. Selon les médecins,
+
+310
+00:15:18,263 --> 00:15:20,201
+on ne pourra pas l'interroger avant demain.
+
+311
+00:15:20,202 --> 00:15:21,591
+Ce sera trop tard.
+
+312
+00:15:21,592 --> 00:15:22,658
+<i>Ouais.</i>
+
+313
+00:15:22,749 --> 00:15:24,004
+<i>Les ravisseurs ont rappelé ?</i>
+
+314
+00:15:24,005 --> 00:15:26,593
+Non, mais je me pose des questions.
+
+315
+00:15:26,594 --> 00:15:28,077
+Si elle est toujours en vie ?
+
+316
+00:15:28,078 --> 00:15:29,061
+Non.
+
+317
+00:15:29,062 --> 00:15:32,290
+Que peuvent-ils bien vouloir à un marine engagé qui gagne moins
+
+318
+00:15:32,291 --> 00:15:34,189
+de 32 000 dollars par an.
+
+319
+00:15:34,190 --> 00:15:36,332
+Ouais, je me posais à peu près la même question.
+
+320
+00:15:36,391 --> 00:15:37,635
+Trouve la réponse.
+
+321
+00:15:39,661 --> 00:15:41,718
+Combien de temps dois-je rester assise ici ?
+
+322
+00:15:42,193 --> 00:15:45,277
+Ils font tout ce qu’ils peuvent pour nous, Laurie.
+
+323
+00:15:45,560 --> 00:15:47,225
+Vous devez essayer de rester calme.
+
+324
+00:15:47,226 --> 00:15:48,893
+C'est facile à dire pour vous.
+
+325
+00:15:49,272 --> 00:15:51,573
+Avez-vous des enfants, officier David ?
+
+326
+00:15:51,582 --> 00:15:54,808
+Non. Mais je sais ce que c'est de perdre un membre de ma famille.
+
+327
+00:15:57,601 --> 00:15:58,596
+Je suis désolée, je ne voulais pas dire que...
+
+328
+00:15:58,597 --> 00:16:00,864
+C'est gentil. Merci.
+
+329
+00:16:01,078 --> 00:16:02,524
+Sarah ira bien.
+
+330
+00:16:02,525 --> 00:16:04,901
+Laurie, tu dois y croire.
+
+331
+00:16:05,637 --> 00:16:07,453
+Notre squelette est un inconnu.
+
+332
+00:16:12,848 --> 00:16:14,166
+Elle l'a identifié ?
+
+333
+00:16:14,167 --> 00:16:15,720
+Je ne le lui ai pas encore montré.
+
+334
+00:16:15,721 --> 00:16:17,284
+Apparemment, tout ce que je lui dis la fait pleurer.
+
+335
+00:16:17,285 --> 00:16:18,459
+Ziva...
+
+336
+00:16:19,094 --> 00:16:20,932
+...son mari est dans un état critique.
+
+337
+00:16:20,933 --> 00:16:22,320
+Sa fille a été enlevée.
+
+338
+00:16:22,321 --> 00:16:24,909
+Je sais, je ne suis pas très bonne avec les pleurs, avec les femmes qui...
+
+339
+00:16:24,910 --> 00:16:26,759
+Moi non plus.
+
+340
+00:16:27,556 --> 00:16:29,735
+Je crois également qu'elle nous cache quelque chose.
+
+341
+00:16:29,842 --> 00:16:31,816
+Elle semble perturbée.
+
+342
+00:16:31,931 --> 00:16:32,761
+Comme...
+
+343
+00:16:32,762 --> 00:16:34,098
+Comme si elle garde quelque chose pour elle.
+
+344
+00:16:34,099 --> 00:16:35,998
+Je vais te montrer quelque chose.
+
+345
+00:16:37,730 --> 00:16:39,238
+Une chemise.
+
+346
+00:16:40,507 --> 00:16:42,781
+Notre sergent ne vivait pas ici.
+
+347
+00:16:44,179 --> 00:16:45,441
+C'est une question ou une affirmation ?
+
+348
+00:16:45,442 --> 00:16:46,877
+En fait, c'est plus une...
+
+349
+00:16:46,878 --> 00:16:48,817
+Tu veux que je découvre pourquoi.
+
+350
+00:16:51,564 --> 00:16:54,699
+Vous avez vu la Sebring allant dans cette direction ?
+
+351
+00:16:54,700 --> 00:16:56,775
+Non, non.
+
+352
+00:16:56,776 --> 00:16:58,770
+Quoi ? C'est un Allemand ?
+
+353
+00:16:58,771 --> 00:17:00,197
+Parlez-vous all...
+Il est allemand ?
+
+354
+00:17:00,198 --> 00:17:01,425
+Non.
+
+355
+00:17:04,196 --> 00:17:06,348
+Je pense qu'il dit "deux personnes".
+
+356
+00:17:07,356 --> 00:17:08,887
+Deux personnes où ?
+
+357
+00:17:11,259 --> 00:17:12,460
+Qu'est-ce que c'est, une plaque d'égout ?
+
+358
+00:17:12,461 --> 00:17:15,602
+Ils déplacent une plaque d'égout ? C'est un râteau ?
+
+359
+00:17:17,007 --> 00:17:19,188
+Ouais, non, il a juste dit que tu étais mauvais aux devinettes.
+
+360
+00:17:19,189 --> 00:17:20,880
+D'accord, vire ça.
+
+361
+00:17:21,864 --> 00:17:23,664
+Mec, tu as bousillé mon costume !
+
+362
+00:17:23,665 --> 00:17:26,249
+Tu veux être poursuivi pour obstruction à une enquête fédérale ?
+
+363
+00:17:27,955 --> 00:17:30,013
+Alors parle, zombie.
+
+364
+00:17:30,014 --> 00:17:30,461
+O.K. écoutez.
+
+365
+00:17:30,462 --> 00:17:31,452
+J'ai vu une Sebring, O.K. ?
+
+366
+00:17:31,453 --> 00:17:33,496
+Et je pense qu'il y avait deux personnes dedans.
+
+367
+00:17:33,958 --> 00:17:35,435
+Elle allait dans quelle direction ?
+
+368
+00:17:35,436 --> 00:17:36,394
+Par là.
+
+369
+00:17:36,395 --> 00:17:39,522
+Ouais, elle a coupé le virage et a renversé les bottes de paille.
+
+370
+00:17:39,523 --> 00:17:41,252
+D'accord, montre-moi.
+
+371
+00:17:44,500 --> 00:17:46,199
+Ne fais pas le malin.
+
+372
+00:17:46,200 --> 00:17:47,063
+O.K., écoutez.
+
+373
+00:17:47,064 --> 00:17:50,732
+Elle est rentrée dans ce tas, O.K. ? Puis elle est partie par là.
+
+374
+00:17:50,733 --> 00:17:51,994
+Vous avez vu la plaque ?
+
+375
+00:17:51,995 --> 00:17:55,160
+Mec, je peux à peine vous voir tous les deux avec tout ce maquillage.
+
+376
+00:18:00,098 --> 00:18:01,350
+Merci.
+
+377
+00:18:10,551 --> 00:18:14,032
+T'as l'heure de la mort de ce gros potiron, Charlie Brown ?
+
+378
+00:18:15,096 --> 00:18:16,822
+Je pense avoir mieux que ça.
+
+379
+00:18:16,823 --> 00:18:18,993
+La voiture a laissé une marque dessus.
+
+380
+00:18:25,263 --> 00:18:27,572
+Voici la personne qui s'est battue avec votre mari.
+
+381
+00:18:27,573 --> 00:18:30,083
+Désolée, agent Gibbs, je ne le reconnais pas.
+
+382
+00:18:30,084 --> 00:18:32,810
+Réfléchis, Laurie. Tu l'as peut-être déjà vu dans un magasin.
+
+383
+00:18:32,811 --> 00:18:34,533
+J'ai dit que je ne le connais pas !
+
+384
+00:18:35,706 --> 00:18:37,541
+Est-ce que je peux parler à Erik ?
+
+385
+00:18:38,318 --> 00:18:40,070
+Bien sûr. Il est toujours en chirurgie.
+
+386
+00:18:40,071 --> 00:18:42,311
+Quand il sortira, nous l'appellerons.
+
+387
+00:18:43,181 --> 00:18:45,679
+Tout va bien se passer. On doit avoir foi.
+
+388
+00:18:45,680 --> 00:18:47,555
+Arrête de me toucher !
+
+389
+00:19:11,802 --> 00:19:13,349
+Je sais ce que vous traversez, Laurie.
+
+390
+00:19:14,002 --> 00:19:15,349
+Je sais...
+
+391
+00:19:18,038 --> 00:19:19,268
+Je sais qu'il n'y a rien que je puisse dire...
+
+392
+00:19:19,269 --> 00:19:21,496
+On vous a déjà enlevé votre fille ?
+
+393
+00:19:25,743 --> 00:19:27,195
+Enlevée, non.
+
+394
+00:19:29,052 --> 00:19:31,034
+Je promets de faire tout ce que je peux faire
+
+395
+00:19:31,035 --> 00:19:33,216
+pour vous ramener votre fille sauve à la maison.
+
+396
+00:19:35,205 --> 00:19:37,144
+Je vous crois, agent Gibbs.
+
+397
+00:19:38,365 --> 00:19:40,464
+J'espère juste que ça suffira.
+
+398
+00:19:51,098 --> 00:19:52,784
+"L'Armée des morts" était impressionnant.
+
+399
+00:19:52,785 --> 00:19:54,691
+C'est un blasphème cinématographique.
+
+400
+00:19:54,692 --> 00:19:57,774
+Des zombies rapides ? C'est pour ça qu'on ne refait pas les classiques.
+
+401
+00:19:57,775 --> 00:19:59,807
+"La Chose" de John Carpenter.
+
+402
+00:19:59,808 --> 00:20:02,050
+Il y a toujours une exception à chaque règle.
+
+403
+00:20:02,051 --> 00:20:03,156
+"La mouche".
+
+404
+00:20:03,157 --> 00:20:04,222
+Peut-être deux.
+
+405
+00:20:04,223 --> 00:20:06,356
+N'as-tu pas dit qu'Al Pacino dans "Scarface" était le meilleur...
+
+406
+00:20:06,357 --> 00:20:08,797
+O.K. mais à mon avis :
+
+407
+00:20:08,798 --> 00:20:10,387
+les zombies devraient être lents.
+
+408
+00:20:10,388 --> 00:20:14,301
+Tony, il n'y a rien d'effrayant à ce qu'un zombie traîne son cul dans les parages.
+
+409
+00:20:14,302 --> 00:20:17,482
+Un zombie n'est pas un zombie à moins qu'il ne traîne son cul dans les parages.
+
+410
+00:20:17,483 --> 00:20:20,842
+Tu as aimé "28 Jours Plus Tard". Ces zombies allaient vraiment vite.
+
+411
+00:20:20,843 --> 00:20:24,183
+O.K. ça suffit avec les zombies !
+
+412
+00:20:24,184 --> 00:20:26,517
+On a trouvé une marque sur le légume ou pas ?
+
+413
+00:20:26,518 --> 00:20:27,929
+Techniquement, c'est un fruit.
+
+414
+00:20:27,930 --> 00:20:31,766
+On a fini le rendu au balayage laser de la surface du potiron.
+
+415
+00:20:31,767 --> 00:20:34,380
+McGee, peux-tu inverser l'image ?
+
+416
+00:20:34,381 --> 00:20:36,815
+Dès que tu as fini de me déshabiller du regard.
+
+417
+00:20:38,210 --> 00:20:40,780
+Et augmente le gamma.
+
+418
+00:20:40,903 --> 00:20:42,680
+Et augmente le contraste.
+
+419
+00:20:42,835 --> 00:20:44,588
+Et renverse-le.
+
+420
+00:20:45,415 --> 00:20:46,358
+"Potirons sensationnels !"
+(Smashing pumpkins)
+
+421
+00:20:46,359 --> 00:20:48,664
+C'est le côté gauche d'une plaque d'immatriculation de Virginie.
+
+422
+00:20:48,665 --> 00:20:51,131
+Joli boulot, Abs. Dépêche-toi, McGee !
+
+423
+00:20:51,132 --> 00:20:54,944
+Je compare les quatre premières lettres avec la base de données des Chrysler Sebring.
+
+424
+00:20:56,077 --> 00:20:57,920
+Et on a un vainqueur.
+
+425
+00:20:58,303 --> 00:21:02,886
+La voiture est enregistrée auprès d'une société de location à Catlett en Virginie.
+
+426
+00:21:02,887 --> 00:21:05,308
+Oui ! DiNozzo l'a fait encore.
+
+427
+00:21:05,309 --> 00:21:07,655
+Je pense que tu voulais dire "Abby et moi l'avons fait".
+
+428
+00:21:08,106 --> 00:21:09,577
+C'était pourquoi ?
+
+429
+00:21:09,578 --> 00:21:10,624
+Les jours
+
+430
+00:21:10,625 --> 00:21:13,479
+où tu t'excitais sur les pom-pom girls sont finis.
+
+431
+00:21:13,480 --> 00:21:17,115
+D'accord, trouvez qui a loué cette voiture. Je suis sur le point de rendre sa nuit à Gibbs.
+
+432
+00:21:17,116 --> 00:21:19,082
+Attends une seconde, Tony.
+
+433
+00:21:19,093 --> 00:21:20,731
+Il n'y a pas de nom.
+
+434
+00:21:20,732 --> 00:21:23,145
+La voiture a été déclarée volée il y a trois jours.
+
+435
+00:21:25,200 --> 00:21:29,374
+Notre sergent a emménagé dans les casernes pour célibataires de Quantico il y a trois semaines.
+
+436
+00:21:29,375 --> 00:21:30,400
+Problèmes maritaux ?
+
+437
+00:21:30,401 --> 00:21:33,438
+D'après quelqu'un appelé "Commé...
+
+438
+00:21:33,439 --> 00:21:36,097
+Rage", il a surpris sa femme en train de le tromper.
+
+439
+00:21:36,098 --> 00:21:38,378
+"Commérage" n'est pas une personne, Ziva.
+
+440
+00:21:38,379 --> 00:21:41,212
+Les commérages signifient des ragots chez nous.
+
+441
+00:21:41,213 --> 00:21:44,184
+Et après vous vous demandez pourquoi j'ai des problèmes de langage.
+
+442
+00:21:47,702 --> 00:21:49,573
+O.K. restez calme.
+
+443
+00:21:49,574 --> 00:21:51,401
+Dites-lui que vous voulez parler à Sarah.
+
+444
+00:21:51,666 --> 00:21:53,040
+Vous pouvez faire ça pour moi, Laurie ?
+
+445
+00:21:53,041 --> 00:21:54,452
+O.K.
+
+446
+00:21:58,820 --> 00:21:59,770
+Sarah ?
+
+447
+00:21:59,771 --> 00:22:01,140
+<i>Essayez encore.</i>
+
+448
+00:22:01,141 --> 00:22:04,369
+Je veux parler à ma fille maintenant ou je raccroche.
+
+449
+00:22:04,370 --> 00:22:06,786
+<i>Raccrochez et elle meurt, Mme Niles.</i>
+
+450
+00:22:11,478 --> 00:22:13,393
+Je veux lui parler maintenant.
+
+451
+00:22:13,432 --> 00:22:14,827
+<i>On fait un marché.</i>
+
+452
+00:22:14,878 --> 00:22:16,764
+<i>Si vous voulez la revoir vivante,</i>
+
+453
+00:22:16,765 --> 00:22:18,027
+<i>ça va se payer.</i>
+
+454
+00:22:18,028 --> 00:22:21,514
+Quoi que ce soit, quoi que vous vouliez, je le ferai.
+
+455
+00:22:21,667 --> 00:22:23,305
+Je vous donne ma parole.
+
+456
+00:22:23,306 --> 00:22:25,633
+<i>100 000 $ en petites coupures.</i>
+
+457
+00:22:25,999 --> 00:22:28,034
+<i>Vous avez jusqu'à l'aube.</i>
+
+458
+00:22:28,061 --> 00:22:29,830
+Oui, O.K. maintenant...
+
+459
+00:22:29,831 --> 00:22:32,124
+Maintenant, s'il vous plaît, laissez-moi parler à ma fille.
+
+460
+00:22:32,125 --> 00:22:35,257
+<i>L'argent d'abord, et après vous pourrez lui parler.</i>
+
+461
+00:22:41,202 --> 00:22:42,941
+Effrayée, ma petite chérie ?
+
+462
+00:22:44,304 --> 00:22:45,491
+Bien.
+
+463
+00:22:46,430 --> 00:22:47,825
+Tu devrais l'être.
+
+464
+00:22:55,631 --> 00:22:57,596
+<i>L'appel n’a pas été assez long pour le tracer.</i>
+
+465
+00:22:57,597 --> 00:23:01,800
+On aura une autre chance quand il rappellera pour nous dire où déposer la rançon.
+
+466
+00:23:01,801 --> 00:23:02,967
+Laurie...
+
+467
+00:23:04,097 --> 00:23:05,744
+J'aimerais vous parler...
+
+468
+00:23:05,947 --> 00:23:07,118
+...seule.
+
+469
+00:23:07,665 --> 00:23:08,874
+C'est O.K. chérie.
+
+470
+00:23:08,875 --> 00:23:12,276
+Je reste ici si tu as besoin de moi. Je ne pars pas.
+
+471
+00:23:19,463 --> 00:23:22,809
+Dis à DiNozzo que je veux l'identité de l'inconnu dans une heure.
+
+472
+00:23:25,877 --> 00:23:30,405
+On n’a pas 100 000 $ qui dorment au sous-sol, agent Gibbs.
+
+473
+00:23:31,504 --> 00:23:35,352
+Peut-être que mes parents les auront, mais ça prendra du temps.
+
+474
+00:23:35,353 --> 00:23:37,138
+Ouais, on peut vous aider pour ça.
+
+475
+00:23:37,576 --> 00:23:39,022
+Mais j'ai besoin de quelques réponses d'abord.
+
+476
+00:23:39,023 --> 00:23:40,983
+- Tout ce que vous voulez.
+- Asseyez-vous.
+
+477
+00:23:45,458 --> 00:23:50,023
+Laurie, pourquoi votre mari est parti de la maison pour allez vivre à la base ?
+
+478
+00:23:50,024 --> 00:23:51,294
+Qu'est-ce que ça a à voir ?
+
+479
+00:23:51,295 --> 00:23:53,748
+Peut-être rien, mais je dois le savoir.
+
+480
+00:23:57,295 --> 00:23:59,234
+On avait quelques problèmes.
+
+481
+00:23:59,448 --> 00:24:02,010
+Erik a voulu une période de séparation.
+
+482
+00:24:03,557 --> 00:24:04,545
+Pourquoi ?
+
+483
+00:24:05,923 --> 00:24:07,534
+J'ai fait une erreur.
+
+484
+00:24:07,769 --> 00:24:10,923
+Une erreur stupide il y a huit ans.
+
+485
+00:24:11,537 --> 00:24:13,244
+Quel genre d'erreur ?
+
+486
+00:24:15,155 --> 00:24:16,587
+Laurie, écoutez,
+
+487
+00:24:16,775 --> 00:24:18,852
+j'ai été marié quatre fois.
+
+488
+00:24:19,375 --> 00:24:21,711
+J'ai fait toutes les erreurs possibles.
+
+489
+00:24:24,592 --> 00:24:26,613
+Juste avant notre mariage,
+
+490
+00:24:26,614 --> 00:24:28,169
+Erik, il...
+
+491
+00:24:28,170 --> 00:24:31,215
+Il a rompu pour quelques semaines.
+
+492
+00:24:31,738 --> 00:24:33,845
+J'avais vu un ancien petit ami.
+
+493
+00:24:34,120 --> 00:24:37,449
+C'était un flirt stupide. J'ai prétendu qu'il ne s'était rien passé.
+
+494
+00:24:37,450 --> 00:24:39,714
+Erik n'est pas le père biologique de votre fille ?
+
+495
+00:24:39,715 --> 00:24:40,924
+Je ne sais pas.
+
+496
+00:24:40,925 --> 00:24:43,335
+Mais même si je le savais, ça n'aurait pas d'importance.
+
+497
+00:24:43,546 --> 00:24:45,456
+Comment votre mari l'a-t-il découvert ?
+
+498
+00:24:45,835 --> 00:24:47,220
+Mon ex petit-copain,
+
+499
+00:24:47,221 --> 00:24:52,059
+Le mois dernier, il est venu et a demandé un test de paternité.
+
+500
+00:24:52,934 --> 00:24:55,113
+Quand j'ai refusé, il m'a menacée.
+
+501
+00:24:55,940 --> 00:24:58,065
+Son nom ? Son adresse ?
+
+502
+00:24:58,156 --> 00:24:59,815
+Robert Miller.
+
+503
+00:25:00,381 --> 00:25:02,322
+Je ne connais pas son adresse.
+
+504
+00:25:02,323 --> 00:25:03,229
+Il vit en Virginie ?
+
+505
+00:25:03,230 --> 00:25:05,296
+- A l'époque oui.
+- Âge,
+
+506
+00:25:05,403 --> 00:25:07,579
+poids, couleur des yeux et des cheveux ?
+
+507
+00:25:07,580 --> 00:25:09,431
+On peut le retrouver par son permis de conduire.
+
+508
+00:25:09,829 --> 00:25:11,800
+Il a 28 ans.
+
+509
+00:25:12,853 --> 00:25:14,930
+Brun, yeux verts.
+
+510
+00:25:14,931 --> 00:25:17,219
+À peu près 80 kg.
+
+511
+00:25:27,393 --> 00:25:28,647
+Laurie,
+
+512
+00:25:28,648 --> 00:25:30,704
+qu'est-ce que vous ne me dites pas ?
+
+513
+00:25:32,580 --> 00:25:34,535
+C'est de ma faute.
+
+514
+00:25:35,087 --> 00:25:37,048
+Laurie ?
+
+515
+00:25:37,917 --> 00:25:39,496
+Tout va bien ici ?
+
+516
+00:25:41,677 --> 00:25:43,144
+Non...
+
+517
+00:25:44,461 --> 00:25:47,148
+J'ai détruit ma famille.
+
+518
+00:25:47,149 --> 00:25:49,895
+Ne pensez-vous pas qu'elle en a eu assez ?
+
+519
+00:25:50,336 --> 00:25:51,893
+Miller pourrait-il avoir fait ceci ?
+
+520
+00:25:51,894 --> 00:25:53,663
+Peut-être...
+
+521
+00:25:53,664 --> 00:25:55,390
+Je ne sais pas.
+
+522
+00:25:55,593 --> 00:25:58,507
+Je veux juste que mon bébé revienne.
+
+523
+00:26:01,505 --> 00:26:03,151
+Elle te dit ça seulement maintenant ?
+
+524
+00:26:03,152 --> 00:26:06,433
+Que je sois une femme ne signifie pas qu'elle me dise tout, Tony.
+
+525
+00:26:06,434 --> 00:26:09,945
+Robert Miller... Il y a plus de 300 résultats rien que dans les 3 états pris en compte.
+
+526
+00:26:09,946 --> 00:26:12,692
+Restreins la recherche avec nos indications, bizut.
+
+527
+00:26:15,549 --> 00:26:18,079
+Il reste une centaine de Robert Miller en liste.
+
+528
+00:26:18,528 --> 00:26:20,850
+On a ses relevés téléphoniques, pas vrai ?
+
+529
+00:26:21,046 --> 00:26:22,380
+Depuis qu'on a mis sa ligne sur écoute.
+
+530
+00:26:22,381 --> 00:26:25,359
+Alors vérifie si un Robert Miller a appelé le mois dernier.
+
+531
+00:26:25,610 --> 00:26:28,105
+Abby a raison, je suis vraiment à côté de la plaque.
+
+532
+00:26:28,106 --> 00:26:30,722
+Je pense qu'elle parlait de tes abdos, McFlanby.
+
+533
+00:26:32,484 --> 00:26:36,386
+Trois appels il y a environ un mois. Passés depuis son téléphone fixe.
+
+534
+00:26:36,387 --> 00:26:39,058
+Passés depuis son téléphone fixe. Trois appels le mois dernier.
+
+535
+00:26:39,059 --> 00:26:41,121
+Ma sœur tient à peine debout.
+
+536
+00:26:41,122 --> 00:26:42,802
+Y a-t-il moyen qu'elle puisse se reposer ?
+
+537
+00:26:42,803 --> 00:26:43,551
+Bien sûr.
+
+538
+00:26:43,552 --> 00:26:44,931
+On a une adresse.
+
+539
+00:26:47,216 --> 00:26:48,230
+Garde un œil sur elles.
+
+540
+00:26:48,231 --> 00:26:50,232
+Si les kidnappeurs rappellent, dis-leur qu'il n'y aura pas
+
+541
+00:26:50,233 --> 00:26:51,785
+d'argent tant qu'on n'aura pas parlé à la fillette.
+
+542
+00:26:53,951 --> 00:26:56,715
+<i>La dernière fois que j'ai fêté Halloween, j'étais un astronaute.</i>
+
+543
+00:26:56,716 --> 00:26:57,999
+Le quartier dans lequel j'ai grandi...
+
+544
+00:26:58,000 --> 00:27:00,656
+Ce n'était pas vraiment un quartier.
+
+545
+00:27:00,657 --> 00:27:02,487
+Il y avait ces propriétés avec des manoirs
+
+546
+00:27:02,488 --> 00:27:06,225
+en plein milieu et des allées vraiment longues.
+
+547
+00:27:06,376 --> 00:27:07,781
+Ça rendait Halloween vraiment embêtant.
+
+548
+00:27:07,782 --> 00:27:09,361
+Il fallait beaucoup marcher.
+
+549
+00:27:09,407 --> 00:27:11,553
+Mon Dieu, mes pieds étaient fatigués cette nuit-là.
+
+550
+00:27:11,765 --> 00:27:13,210
+Les chiens aboyaient.
+
+551
+00:27:13,211 --> 00:27:15,627
+Ouais, j'imagine que ça craint vraiment de naître riche comme ça.
+
+552
+00:27:15,628 --> 00:27:18,234
+Mon déguisement était génial, en plus.
+
+553
+00:27:18,396 --> 00:27:19,800
+Méchamment génial.
+
+554
+00:27:19,867 --> 00:27:21,731
+J'étais un spationaute.
+
+555
+00:27:21,743 --> 00:27:23,439
+Pas d'aération, par contre.
+
+556
+00:27:23,440 --> 00:27:24,611
+Je grillais.
+
+557
+00:27:24,655 --> 00:27:28,051
+Je transpirais comme Roger Federer après un match de tennis en 5 sets.
+
+558
+00:27:28,102 --> 00:27:29,503
+Et je puais.
+
+559
+00:27:29,531 --> 00:27:31,200
+Je puais comme du fromage.
+
+560
+00:27:31,201 --> 00:27:35,125
+Mec, quelle prise. Je me suis tiré avec plus de sucreries que je ne pouvais en transporter.
+
+561
+00:27:35,126 --> 00:27:38,074
+Je pense que cette histoire va se terminer bientôt.
+
+562
+00:27:38,075 --> 00:27:39,634
+Mais quand je suis rentré à la maison,
+
+563
+00:27:39,901 --> 00:27:42,279
+mon vieux m'a tout fait jeter.
+
+564
+00:27:42,456 --> 00:27:43,752
+Même les pommes.
+
+565
+00:27:43,753 --> 00:27:45,828
+Il s'inquiétait pour tes dents.
+
+566
+00:27:48,941 --> 00:27:49,862
+Non, j'avais...
+
+567
+00:27:49,863 --> 00:27:52,372
+fabriqué mon costume d'astronaute...
+
+568
+00:27:52,373 --> 00:27:56,241
+avec une de ses combinaisons de ski griffées à 3000 $.
+
+569
+00:27:57,382 --> 00:27:59,904
+Je pense que je n'ai pas pu m'asseoir avant Noël.
+
+570
+00:28:00,502 --> 00:28:02,081
+Le bon vieux temps, bizut.
+
+571
+00:28:02,748 --> 00:28:04,034
+Le bon vieux temps.
+
+572
+00:28:15,900 --> 00:28:17,202
+Kuruma.
+
+573
+00:28:17,429 --> 00:28:18,760
+Les plaques correspondent.
+
+574
+00:28:19,454 --> 00:28:21,275
+C'est la voiture que Miller a volée.
+
+575
+00:28:21,276 --> 00:28:22,751
+C'est son immeuble.
+
+576
+00:28:22,752 --> 00:28:25,389
+2ème étage, appartement 207.
+
+577
+00:28:25,390 --> 00:28:27,904
+Halloween n'est pas si terrible que ça après tout.
+
+578
+00:28:28,920 --> 00:28:31,174
+Quelque chose a brûlé récemment là-dedans.
+
+579
+00:28:32,584 --> 00:28:34,224
+Elle se consume encore.
+
+580
+00:28:34,385 --> 00:28:36,108
+Ouvre le coffre, McGee.
+
+581
+00:28:52,266 --> 00:28:54,532
+Allons attraper cet enfoiré.
+
+582
+00:28:58,650 --> 00:29:00,450
+<i>Qu'est-ce qu'il y a ?</i>
+
+583
+00:29:12,876 --> 00:29:14,415
+Agents fédéraux !
+
+584
+00:29:15,341 --> 00:29:17,272
+Bien joué !
+
+585
+00:29:21,304 --> 00:29:23,597
+Jolis déguisements de groupe les gars, mais...
+
+586
+00:29:23,598 --> 00:29:25,973
+vous avez mal écrit CSI sur vos casquettes.
+
+587
+00:29:26,450 --> 00:29:27,896
+Robert Miller ?
+
+588
+00:29:27,897 --> 00:29:30,153
+Quelqu'un est de mauvaise humeur.
+
+589
+00:29:31,056 --> 00:29:33,790
+Juste là, avec les femelles aliens bleues.
+
+590
+00:29:37,452 --> 00:29:39,934
+Ce n’est pas facile d'être un légume-racine, pas vrai ?
+
+591
+00:29:42,202 --> 00:29:43,493
+Robert Miller ?
+
+592
+00:29:44,698 --> 00:29:47,900
+<i>Hab Sosli' guch !</i>
+
+593
+00:29:47,901 --> 00:29:51,066
+Patron, il vient de dire : "Ta mère a un front lisse".
+
+594
+00:29:51,067 --> 00:29:53,466
+C'est une insulte Klingon.
+
+595
+00:29:53,669 --> 00:29:54,675
+Tu parles Klingon ?
+
+596
+00:29:54,676 --> 00:29:56,738
+Pas couramment, mais oui.
+
+597
+00:29:57,013 --> 00:29:58,326
+Agents fédéraux.
+
+598
+00:29:58,327 --> 00:30:00,521
+<i>Zeghbe Thlinganpu !</i>
+
+599
+00:30:01,036 --> 00:30:03,897
+Maintenant il dit : "Les Klingons ne se rendent pas."
+
+600
+00:30:06,014 --> 00:30:07,585
+Êtes-vous Robert Miller ?
+
+601
+00:30:08,334 --> 00:30:09,908
+Qui êtes-vous les gars ?
+
+602
+00:30:10,799 --> 00:30:12,261
+Ouais, ouais !
+
+603
+00:30:12,262 --> 00:30:14,070
+Sarah Niles... où est-elle ?
+
+604
+00:30:14,500 --> 00:30:16,317
+C'est cette garce qui vous envoie ici.
+
+605
+00:30:16,318 --> 00:30:19,000
+Mon avocat dit que j'ai le droit de savoir si c'est ma fille.
+
+606
+00:30:19,001 --> 00:30:21,089
+J'essaie juste de faire ce qui est juste.
+
+607
+00:30:21,090 --> 00:30:23,745
+Si c'est ma fille, je veux simplement faire partie de sa vie.
+
+608
+00:30:23,746 --> 00:30:25,941
+Elle me ressemble vraiment.
+
+609
+00:30:26,999 --> 00:30:29,932
+Quoi ? À part les fausses dents et les protubérances sur le front.
+
+610
+00:30:29,933 --> 00:30:31,548
+C'est pour ça que vous l'avez kidnappée ?
+
+611
+00:30:31,549 --> 00:30:32,802
+Je n'ai kidnappé personne.
+
+612
+00:30:32,803 --> 00:30:35,778
+La voiture qui a été utilisée est garée en bas dehors.
+
+613
+00:30:35,779 --> 00:30:38,288
+Je n'ai aucune idée de ce dont vous parlez.
+
+614
+00:30:38,289 --> 00:30:40,650
+Je suis resté ici toute la journée avec mes amis à me préparer pour cette soirée.
+
+615
+00:30:40,651 --> 00:30:41,448
+Vous pouvez leur demander.
+
+616
+00:30:41,449 --> 00:30:43,222
+Patron, aucun signe de Sarah.
+
+617
+00:30:43,223 --> 00:30:44,432
+Vous voyez ? Je vous l'ai dit.
+
+618
+00:30:44,433 --> 00:30:46,902
+La seule chose que je déteste plus qu'Halloween ce sont les Klingons.
+
+619
+00:30:46,903 --> 00:30:49,962
+Écoutez, demandez-leur, O.K. ? Demandez au type avec le chapeau en forme de fromage. Demandez...
+
+620
+00:30:49,963 --> 00:30:52,901
+au vampire. À David Lee Roth. À l'homme-carotte, demandez-lui.
+
+621
+00:30:52,902 --> 00:30:55,222
+Ça a assez duré. Il se trouve que je suis avocat.
+
+622
+00:30:55,223 --> 00:30:59,021
+Parfait, la seule chose que je déteste plus que les Klingons ce sont les avocats.
+
+623
+00:30:59,022 --> 00:31:01,371
+Je n'ai rien fait, d'accord ?
+
+624
+00:31:01,710 --> 00:31:03,591
+C'est Laurie qui m'a menacé.
+
+625
+00:31:03,592 --> 00:31:05,528
+Elle m'a dit que son mari...
+
+626
+00:31:06,123 --> 00:31:08,474
+Son mari allait me tuer si je ne la laissais pas tranquille.
+
+627
+00:31:08,475 --> 00:31:09,753
+Demandez-lui.
+
+628
+00:31:09,754 --> 00:31:11,099
+DiNozzo.
+
+629
+00:31:18,936 --> 00:31:19,499
+Ziva.
+
+630
+00:31:19,500 --> 00:31:21,466
+Le patron veut parler à la mère.
+
+631
+00:31:28,791 --> 00:31:30,005
+Mme Niles ?
+
+632
+00:31:30,006 --> 00:31:32,404
+L'agent Gibbs a besoin de vous parler.
+
+633
+00:32:05,550 --> 00:32:08,551
+Le général Kang pleure, ou c'est juste de la sueur ?
+
+634
+00:32:10,234 --> 00:32:13,251
+Une demi-heure tout seul dans une pièce avec un Gibbs en colère...
+
+635
+00:32:13,252 --> 00:32:15,068
+Même les Klingons ont leurs limites.
+
+636
+00:32:15,069 --> 00:32:18,125
+- Qu'est-ce qu'il lui a fait ?
+- Il l'a regardé, la plupart du temps.
+
+637
+00:32:18,459 --> 00:32:20,400
+Peut-être que c'est une nouvelle technique d'interrogation.
+
+638
+00:32:20,401 --> 00:32:23,352
+Ça semble fonctionner. Ça me fout carrément les jetons.
+
+639
+00:32:23,446 --> 00:32:24,341
+T'as vérifié son alibi ?
+
+640
+00:32:24,342 --> 00:32:25,875
+Selon 6 personnes,
+
+641
+00:32:25,876 --> 00:32:28,931
+Worf ici présent, était à la soirée quand la fillette a été kidnappée.
+
+642
+00:32:28,932 --> 00:32:31,010
+On ne devrait pas le dire à Gibbs ?
+
+643
+00:32:31,221 --> 00:32:33,096
+Je ne sais pas, bizut.
+
+644
+00:32:33,116 --> 00:32:36,575
+Tu as découvert comment la voiture du kidnappeur s'est retrouvée devant son appartement ?
+
+645
+00:32:36,576 --> 00:32:38,251
+Il a pu engager quelqu'un pour la kidnapper.
+
+646
+00:32:38,252 --> 00:32:40,181
+Ou il s'est fait piéger.
+
+647
+00:32:40,583 --> 00:32:42,837
+J'essaie de coopérer agent Gibbs.
+
+648
+00:32:46,030 --> 00:32:47,825
+Vous allez dire quelque chose ?
+
+649
+00:32:54,449 --> 00:32:56,407
+J'ai foiré, Ducky.
+
+650
+00:32:56,762 --> 00:32:58,932
+Je savais que la femme du sergent cachait quelque chose.
+
+651
+00:32:58,933 --> 00:33:01,248
+Qu'elle ne nous disait pas toute la vérité.
+
+652
+00:33:01,249 --> 00:33:02,692
+Et tu sais ce que j'ai fait ?
+
+653
+00:33:02,794 --> 00:33:05,423
+Je me suis laissée aller à être désolée pour elle.
+
+654
+00:33:05,424 --> 00:33:08,087
+Tu sais ce que ça fait de moi ?
+
+655
+00:33:08,088 --> 00:33:10,190
+- Un être humain.
+- Un chimpanzé !
+
+656
+00:33:10,191 --> 00:33:12,044
+Je pense qu'elle veut dire un "pigeon", docteur.
+
+657
+00:33:12,045 --> 00:33:14,183
+Tu vois, un chimpanzé n'est qu'un animal, Ziva,
+
+658
+00:33:14,184 --> 00:33:17,071
+alors qu'un pigeon est aussi une personne dont il est facile de tirer avantage
+
+659
+00:33:17,072 --> 00:33:19,520
+- ou de tromper...
+- M. Palmer...
+
+660
+00:33:19,521 --> 00:33:20,422
+Je ne suis pas en train de dire que...
+
+661
+00:33:20,423 --> 00:33:23,104
+Voulez-vous nous laisser seuls un moment ?
+
+662
+00:33:26,587 --> 00:33:28,063
+Il a de bonnes intentions.
+
+663
+00:33:28,122 --> 00:33:29,485
+Il a raison.
+
+664
+00:33:29,840 --> 00:33:32,056
+Tu es trop dure avec toi.
+
+665
+00:33:32,057 --> 00:33:34,004
+J'ai laissé Laurie Niles et sa sœur
+
+666
+00:33:34,005 --> 00:33:36,324
+sortir par la fenêtre de la chambre en plein milieu
+
+667
+00:33:36,325 --> 00:33:37,968
+de notre enquête.
+
+668
+00:33:37,969 --> 00:33:40,571
+Peut-être qu'ils devraient m'envoyer défiler ?
+
+669
+00:33:40,572 --> 00:33:43,332
+La question que nous devrions nous poser...
+
+670
+00:33:43,333 --> 00:33:45,109
+C'est, pourquoi ? Ziva.
+
+671
+00:33:45,110 --> 00:33:49,354
+2/3 des enlèvements d'enfants sont l'œuvre de la famille biologique.
+
+672
+00:33:49,355 --> 00:33:51,187
+Elle a kidnappé son propre enfant.
+
+673
+00:33:51,188 --> 00:33:54,224
+Tu sais ce qu'on dit à propos des mamans ours et de leurs oursons ?
+
+674
+00:33:54,225 --> 00:33:56,001
+Elles les mangent quand elles sont à court de nourriture.
+
+675
+00:33:56,002 --> 00:33:58,626
+Je l'ai vu dans un documentaire, Tony...
+
+676
+00:33:58,685 --> 00:34:00,528
+M'a forcé à regarder "L'Homme-Grizzly" ?
+
+677
+00:34:00,529 --> 00:34:03,656
+Je parlais de la nature protectrice de la mère
+
+678
+00:34:03,657 --> 00:34:05,418
+quand ses petits sont menacés.
+
+679
+00:34:05,419 --> 00:34:07,703
+Il n'y a pas de plus dangereuse créature sur Terre.
+
+680
+00:34:07,704 --> 00:34:08,846
+Je suis d'accord.
+
+681
+00:34:08,847 --> 00:34:12,238
+Elles mangeaient aussi le caméraman et sa copine.
+
+682
+00:34:12,239 --> 00:34:14,136
+Oui, c'est absolument affreux.
+
+683
+00:34:14,137 --> 00:34:15,132
+C'est ce que j'ai dit à Tony.
+
+684
+00:34:15,133 --> 00:34:17,202
+Je pense que Laurie Niles
+
+685
+00:34:17,203 --> 00:34:19,733
+a dû essayer de protéger sa fille.
+
+686
+00:34:19,755 --> 00:34:22,141
+Le mari voulait divorcer.
+
+687
+00:34:22,142 --> 00:34:25,626
+Un autre homme prétendait être le père.
+
+688
+00:34:25,878 --> 00:34:29,290
+Elle ne voulait pas perdre ou partager la garde de Sarah.
+
+689
+00:34:29,291 --> 00:34:31,302
+C'est une possibilité.
+
+690
+00:34:31,892 --> 00:34:33,367
+Qu'en pense Gibbs ?
+
+691
+00:34:34,780 --> 00:34:36,319
+Difficile à dire.
+
+692
+00:34:36,456 --> 00:34:38,819
+Il ne me parle plus.
+
+693
+00:34:38,950 --> 00:34:40,851
+Reprends-toi, ma chère. Ça pourrait être pire.
+
+694
+00:34:42,136 --> 00:34:43,196
+Comment ?
+
+695
+00:34:43,599 --> 00:34:45,330
+Il pourrait être un ours.
+
+696
+00:34:51,909 --> 00:34:54,216
+Vous savez, on perd notre temps.
+
+697
+00:34:55,200 --> 00:34:58,642
+En ce moment, il y a quelqu'un dehors avec ma fille faisant Dieu sait quoi.
+
+698
+00:34:59,600 --> 00:35:01,117
+Prétendue.
+
+699
+00:35:02,069 --> 00:35:03,176
+Quoi ?
+
+700
+00:35:03,617 --> 00:35:06,104
+Prétendue fille, Miller.
+
+701
+00:35:06,900 --> 00:35:11,111
+Que je sois son père ou pas, elle reste la fille de Laurie.
+
+702
+00:35:11,112 --> 00:35:13,525
+Je m'inquiète quand même de ce qui peut lui arriver.
+
+703
+00:35:15,508 --> 00:35:17,170
+Je vous crois.
+
+704
+00:35:17,480 --> 00:35:19,914
+Alors, qu'est-ce que on fait assis là ?
+
+705
+00:35:19,974 --> 00:35:21,888
+Vous êtes assis là, moi j'attends.
+
+706
+00:35:21,889 --> 00:35:23,370
+Vous attendez quoi ?
+
+707
+00:35:30,810 --> 00:35:31,712
+Parle-moi, Abs.
+
+708
+00:35:31,713 --> 00:35:34,125
+- J'ai une identité pour toi, Gibbs.
+- J'arrive.
+
+709
+00:35:34,216 --> 00:35:35,870
+- J'ai vérifié l'alibi de Miller.
+- Il n'y est pour rien.
+
+710
+00:35:35,871 --> 00:35:37,162
+Je sais.
+
+711
+00:35:37,325 --> 00:35:38,337
+On peut savoir comment ?
+
+712
+00:35:38,338 --> 00:35:40,052
+J'ai passé 40 minutes avec lui.
+
+713
+00:35:40,053 --> 00:35:41,319
+Oui, mais vous l'avez juste fixé.
+
+714
+00:35:41,320 --> 00:35:43,099
+Vous avez déjà essayé de lire sur le visage d'un Klingon, McGee ?
+
+715
+00:35:43,100 --> 00:35:44,966
+Ce n'est pas franchement facile.
+
+716
+00:35:45,400 --> 00:35:47,245
+<i>J'ai identifié notre squelette.</i>
+
+717
+00:35:47,246 --> 00:35:49,457
+Notre mort n'est plus un inconnu.
+
+718
+00:35:49,458 --> 00:35:52,228
+Je l'ai retrouvé dans la base des permis de conduire.
+
+719
+00:35:52,442 --> 00:35:53,584
+Lee Varon.
+
+720
+00:35:53,585 --> 00:35:56,039
+Il a 38 ans et il vient de Fredericksburg en Virginie.
+
+721
+00:35:56,040 --> 00:35:58,599
+- Pas de casier.
+- Je veux tout savoir de ce gars de sa naissance
+
+722
+00:35:58,600 --> 00:36:01,800
+jusqu'au moment où Ducky a cassé son sternum.
+
+723
+00:36:01,947 --> 00:36:03,296
+Ouais ! On y va, patron !
+
+724
+00:36:03,297 --> 00:36:04,485
+- D'accord !
+- D'accord.
+
+725
+00:36:08,153 --> 00:36:09,753
+Pas mal pour une blonde.
+
+726
+00:36:09,754 --> 00:36:12,031
+Tu sais, il n'y a pas de preuves statistiques qui disent que les blondes
+
+727
+00:36:12,032 --> 00:36:13,929
+ont des Q.I. moins élevés que les autres couleurs de cheveux.
+
+728
+00:36:13,930 --> 00:36:15,237
+Je te crois sur parole, Abs.
+
+729
+00:36:15,238 --> 00:36:17,618
+J'ai autre chose... Si ça t'intéresse...
+
+730
+00:36:17,619 --> 00:36:19,070
+M. le Président.
+
+731
+00:36:20,315 --> 00:36:23,884
+J'ai fait des tests sur le morceau de papier brûlé trouvé dans la voiture du kidnappeur.
+
+732
+00:36:23,885 --> 00:36:26,557
+Il n'y avait pas d'empreintes mais j'ai trouvé des traces de produits chimiques.
+
+733
+00:36:26,558 --> 00:36:27,391
+De l'encre ?
+
+734
+00:36:27,392 --> 00:36:28,102
+Oui.
+
+735
+00:36:28,103 --> 00:36:31,425
+Et je lui ai appliqué mon produit chimique spécial et unique,
+
+736
+00:36:31,426 --> 00:36:33,482
+passé au scanner quelques fois,
+
+737
+00:36:33,483 --> 00:36:34,870
+et on obtient...
+
+738
+00:36:36,179 --> 00:36:37,343
+Ceci.
+
+739
+00:36:37,750 --> 00:36:41,446
+Ce miracle qui nous sépare des autres espèces de primates.
+
+740
+00:36:45,643 --> 00:36:47,526
+L'écriture est très moche.
+
+741
+00:36:47,593 --> 00:36:49,010
+L'adresse de Miller.
+
+742
+00:36:49,011 --> 00:36:52,196
+Qui a sûrement été donnée au kidnappeur par la femme du sergent.
+
+743
+00:36:52,197 --> 00:36:53,494
+Elle n'a pas kidnappé sa fille.
+
+744
+00:36:53,495 --> 00:36:55,136
+Alors où est Laurie Niles, Gibbs ?
+
+745
+00:36:55,137 --> 00:36:56,870
+La dernière fois que je l'ai vue, avec toi.
+
+746
+00:36:56,871 --> 00:36:59,521
+O.K. j'admets que j'ai foiré celle-là.
+
+747
+00:36:59,594 --> 00:37:01,682
+Mais pourquoi s'est-elle enfuie ?
+
+748
+00:37:02,074 --> 00:37:03,696
+Elle cachait quelque chose.
+
+749
+00:37:03,697 --> 00:37:06,533
+- Donc tu es d'accord avec moi ?
+- Oh, ouais !
+
+750
+00:37:06,534 --> 00:37:08,447
+Tu as vraiment bien foiré !
+
+751
+00:37:09,231 --> 00:37:10,986
+Y a-t-il quelque chose que je devrais savoir ?
+
+752
+00:37:11,256 --> 00:37:13,842
+Je pense qu'il va me dévorer.
+
+753
+00:37:15,098 --> 00:37:18,007
+Et ils disent que les blondes ont tous les avantages...
+
+754
+00:37:19,478 --> 00:37:21,438
+<i>Notre squelette mort a servi dans l'armée de l'air.</i>
+
+755
+00:37:21,439 --> 00:37:24,310
+Renvoyé sans ménagement en 2003.
+
+756
+00:37:24,311 --> 00:37:26,218
+A fait un an d'université publique.
+
+757
+00:37:26,219 --> 00:37:28,509
+Il était vigile, patron. Il travaillait pour une firme d'avocats,
+
+758
+00:37:28,510 --> 00:37:30,507
+Kapp et Associés, à Annandale en Virginie.
+
+759
+00:37:30,508 --> 00:37:35,099
+Laurie Niles travaille aussi pour Kapp et Associés, Gibbs, elle est leur directeur financier.
+
+760
+00:37:35,100 --> 00:37:35,911
+Donc elle le connaissait.
+
+761
+00:37:35,912 --> 00:37:36,502
+Oui.
+
+762
+00:37:36,503 --> 00:37:37,861
+Elle l'a engagé pour enlever sa fille.
+
+763
+00:37:37,862 --> 00:37:39,400
+Je veux dire, c'est la seule solution logique.
+
+764
+00:37:39,401 --> 00:37:40,761
+Il y a une autre possibilité.
+
+765
+00:37:40,762 --> 00:37:43,643
+Ils l'ont kidnappée parce qu'ils voulaient obtenir quelque chose de Laurie.
+
+766
+00:37:43,644 --> 00:37:45,019
+Comme quoi ?
+
+767
+00:37:45,957 --> 00:37:48,124
+J'ai une réponse sur mon avis de recherche.
+
+768
+00:37:48,125 --> 00:37:49,944
+Ouais et... McGee ?
+
+769
+00:37:50,108 --> 00:37:53,764
+Et c'est bizarre parce que je viens de le lancer.
+
+770
+00:37:54,729 --> 00:37:56,987
+C'est le véhicule de Varon et il s'est déplacé.
+
+771
+00:37:57,780 --> 00:37:59,564
+Un flic qui le suit ?
+
+772
+00:37:59,565 --> 00:38:01,650
+Non, l'alerte a été générée électroniquement.
+
+773
+00:38:01,651 --> 00:38:03,773
+C'est sa puce électronique pour les péages.
+
+774
+00:38:03,774 --> 00:38:05,375
+Il se balade pas mal pour un mort.
+
+775
+00:38:05,376 --> 00:38:08,265
+Il a quitté Woodridge juste après que Laurie et sa soeur aient disparu.
+
+776
+00:38:08,266 --> 00:38:10,840
+Il est allé jusqu'à Manassas, pas très loin de l'appartement de Miller.
+
+777
+00:38:10,841 --> 00:38:12,388
+La dernière position date d'il y a 5 minutes.
+
+778
+00:38:12,389 --> 00:38:15,835
+Annandale, juste à côté de Kapp et Associés.
+
+779
+00:38:18,907 --> 00:38:20,182
+On y est.
+
+780
+00:38:23,857 --> 00:38:25,796
+Ça vient du costume de Sarah.
+
+781
+00:38:29,524 --> 00:38:30,752
+R.A.S.
+
+782
+00:38:31,349 --> 00:38:34,133
+Les plaques correspondent à celles de la voiture du squelette dans le parking.
+
+783
+00:38:37,461 --> 00:38:38,649
+Vous deux,
+
+784
+00:38:38,652 --> 00:38:39,912
+trouvez la petite fille.
+
+785
+00:38:55,137 --> 00:38:58,131
+Dans le dernier bureau.
+
+786
+00:38:58,132 --> 00:39:00,070
+Contact visuel avec les deux sœurs.
+
+787
+00:39:00,071 --> 00:39:01,618
+Il y aussi un homme blanc,
+
+788
+00:39:01,619 --> 00:39:05,658
+environ 35 ans, qui les tient en otage avec une arme semi-automatique.
+
+789
+00:39:05,659 --> 00:39:08,101
+Tu as identifié la petite fille ?
+
+790
+00:39:08,256 --> 00:39:11,181
+Négatif. Je ne vois que le côté gauche de la pièce, patron.
+
+791
+00:39:20,502 --> 00:39:21,977
+Je suis entrée.
+
+792
+00:39:22,911 --> 00:39:24,761
+L'argent de l'assurance est là.
+
+793
+00:39:24,762 --> 00:39:26,288
+Les 3 millions.
+
+794
+00:39:26,289 --> 00:39:29,080
+Vous n'avez plus qu'à les transférer sur ces comptes et ce sera fini.
+
+795
+00:39:29,081 --> 00:39:30,294
+Je veux ma fille d'abord.
+
+796
+00:39:30,295 --> 00:39:32,582
+Vous l'aurez quand vous aurez transféré l'argent.
+
+797
+00:39:34,432 --> 00:39:36,794
+Vous avez été intelligente jusqu'à maintenant, Mme Niles.
+
+798
+00:39:36,947 --> 00:39:39,120
+Vous avez joué le jeu pour protéger votre petite princesse.
+
+799
+00:39:39,121 --> 00:39:41,257
+Je n'aimerais pas vous voir tout gâcher.
+
+800
+00:39:41,308 --> 00:39:43,236
+Vous avez tiré sur mon mari.
+
+801
+00:39:43,237 --> 00:39:44,771
+Je n'avais pas le choix.
+
+802
+00:39:44,772 --> 00:39:46,700
+On était supposé le kidnapper lui et la fille mais...
+
+803
+00:39:46,701 --> 00:39:48,563
+il a choisi de résister.
+
+804
+00:39:49,365 --> 00:39:51,334
+Ne faîtes pas la même erreur.
+
+805
+00:39:52,317 --> 00:39:54,808
+Comment je peux savoir que vous n'allez pas vous contenter
+
+806
+00:39:54,809 --> 00:39:56,781
+de nous tuer quand j'aurai transféré l'argent ?
+
+807
+00:39:56,782 --> 00:39:57,971
+Je vous tuerai si vous ne le faîtes pas.
+
+808
+00:39:57,972 --> 00:40:00,287
+Écoute, on est arrivées jusque-là, Laurie.
+
+809
+00:40:00,288 --> 00:40:02,346
+Fais-le qu'on en finisse.
+
+810
+00:40:02,347 --> 00:40:03,642
+S'il te plaît.
+
+811
+00:40:05,214 --> 00:40:07,395
+Le NCIS va le découvrir.
+
+812
+00:40:07,396 --> 00:40:10,006
+J'ai vu ces flics de la marine se balader toute la nuit...
+
+813
+00:40:10,077 --> 00:40:11,163
+ils sont largués.
+
+814
+00:40:11,164 --> 00:40:12,857
+Maintenant, transférez le foutu fric.
+
+815
+00:40:12,858 --> 00:40:15,454
+Agents fédéraux ! Jetez votre arme !
+
+816
+00:40:25,097 --> 00:40:26,580
+Ils ont toujours Sarah.
+
+817
+00:40:26,581 --> 00:40:28,835
+Si elle est dans le bâtiment on la trouvera.
+
+818
+00:40:37,656 --> 00:40:39,214
+Personne dans le couloir.
+
+819
+00:40:44,085 --> 00:40:45,249
+R.A.S.
+
+820
+00:41:05,273 --> 00:41:06,532
+Laurie.
+
+821
+00:41:06,579 --> 00:41:07,854
+Salut !
+
+822
+00:41:08,103 --> 00:41:10,387
+On est des amis de ta maman. On est ici pour te ramener chez toi.
+
+823
+00:41:10,388 --> 00:41:12,895
+On a la petite fille. Je répète on a la petite fille.
+
+824
+00:41:12,896 --> 00:41:15,163
+Attendez ! Attendez !
+
+825
+00:41:16,692 --> 00:41:18,048
+On a Sarah.
+
+826
+00:41:18,049 --> 00:41:21,440
+Quand on aura sécurisé la bâtiment vous et votre sœur pourrez la voir.
+
+827
+00:41:22,685 --> 00:41:25,550
+Ce n'est pas ma sœur !
+
+828
+00:41:25,551 --> 00:41:27,330
+Elle est des leurs !
+
+829
+00:41:27,331 --> 00:41:32,690
+Elle m'a dit que si je ne vous mentais pas ils tueraient mon bébé !
+
+830
+00:41:33,387 --> 00:41:34,226
+Stop !
+
+831
+00:41:34,227 --> 00:41:36,568
+Ils ne voulaient que ce stupide fric !
+
+832
+00:41:36,569 --> 00:41:37,812
+Pistolet !
+
+833
+00:41:40,338 --> 00:41:41,831
+Sarah !
+
+834
+00:41:41,832 --> 00:41:43,371
+Maman !
+
+835
+00:41:44,521 --> 00:41:46,481
+Oh, mon bébé !
+
+836
+00:41:47,920 --> 00:41:49,907
+Je t'aime tant !
+
+837
+00:41:51,368 --> 00:41:54,247
+- Je suis tellement heureuse que tu ailles bien !
+- Oh, Maman...
+
+838
+00:41:54,248 --> 00:41:56,734
+On dirait qu'elle n'a pas de sœur.
+
+839
+00:41:57,755 --> 00:41:59,350
+Halloween, Ziva.
+
+840
+00:41:59,452 --> 00:42:01,735
+Réjouis-toi que ça n'arrive qu'une fois par an.
+
+841
+00:42:02,445 --> 00:42:05,081
+Le ciel est bleu, l'herbe est verte...
+
+842
+00:42:05,082 --> 00:42:07,394
+pouvons-nous avoir notre Halloween ?
+
+843
+00:42:07,395 --> 00:42:10,125
+C'est comme ça que nous disions
+"un bonbon ou un sort" en Ecosse.
+
+844
+00:42:10,126 --> 00:42:10,959
+Merci.
+
+845
+00:42:10,960 --> 00:42:13,946
+Mais de rien, votre Grandeur.
+
+846
+00:42:14,133 --> 00:42:16,640
+On a encore beaucoup de bureaux à faire.
+
+847
+00:42:18,404 --> 00:42:19,815
+Vous n'étiez pas obligés de faire ça.
+
+848
+00:42:19,816 --> 00:42:22,546
+Chaque enfant mérite un joyeux Halloween.
+
+849
+00:42:23,360 --> 00:42:26,450
+Votre mari est réveillé et vous demande avec votre fille.
+
+850
+00:42:26,451 --> 00:42:28,866
+Il y a une voiture qui vous attend quand vous serez prêtes.
+
+851
+00:42:28,867 --> 00:42:33,383
+S'il vous plaît, dîtes à l'agent Gibbs à quel point j'apprécie qu'il ait tenu sa parole.
+
+852
+00:42:33,741 --> 00:42:36,614
+Et que je suis désolée de lui avoir menti mais...
+
+853
+00:42:36,687 --> 00:42:39,423
+- J'essayais juste de protéger...
+- Croyez-moi.
+
+854
+00:42:39,781 --> 00:42:41,056
+Il le sait.
+
+855
+00:42:47,697 --> 00:42:49,356
+Regardez ça !
+
+856
+00:42:51,968 --> 00:42:52,461
+<i>Un bonbon ou un sort !</i>
+
+857
+00:42:53,462 --> 00:42:55,491
+<i>Papa ! Regarde ! J'ai plein de bonbons !</i>
+
+858
+00:42:57,190 --> 00:43:07,093
+www.Team-NCIS.com
+

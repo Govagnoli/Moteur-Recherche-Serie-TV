@@ -1,0 +1,3681 @@
+1
+00:01:19,620 --> 00:01:21,170
+Agent Fédéral ! halte !
+
+2
+00:01:22,400 --> 00:01:23,820
+Les mains en l'air ! Maintenant !
+
+3
+00:01:31,120 --> 00:01:32,730
+Eschel ?
+
+4
+00:01:37,278 --> 00:01:37,337
+L
+
+5
+00:01:37,337 --> 00:01:37,396
+La
+
+6
+00:01:37,396 --> 00:01:37,455
+La T
+
+7
+00:01:37,455 --> 00:01:37,514
+La Te
+
+8
+00:01:37,514 --> 00:01:37,573
+La Tea
+
+9
+00:01:37,573 --> 00:01:37,632
+La Team
+
+10
+00:01:37,632 --> 00:01:37,691
+La Team-
+
+11
+00:01:37,691 --> 00:01:37,750
+La Team-N
+
+12
+00:01:37,750 --> 00:01:37,809
+La Team-NC
+
+13
+00:01:37,809 --> 00:01:37,868
+La Team-NCI
+
+14
+00:01:37,868 --> 00:01:37,927
+La Team-NCIS
+
+15
+00:01:37,927 --> 00:01:37,986
+La Team-NCIS p
+
+16
+00:01:37,986 --> 00:01:38,045
+La Team-NCIS pr
+
+17
+00:01:38,045 --> 00:01:38,104
+La Team-NCIS pré
+
+18
+00:01:38,104 --> 00:01:38,163
+La Team-NCIS prés
+
+19
+00:01:38,163 --> 00:01:38,222
+La Team-NCIS prése
+
+20
+00:01:38,222 --> 00:01:38,281
+La Team-NCIS présen
+
+21
+00:01:38,281 --> 00:01:38,340
+La Team-NCIS présent
+
+22
+00:01:38,340 --> 00:01:38,399
+La Team-NCIS présente
+
+23
+00:01:38,399 --> 00:01:43,628
+La Team-NCIS présente :
+
+24
+00:01:44,176 --> 00:01:51,496
+NCIS Saison 4 Episode 1
+Shalom VF
+
+25
+00:01:52,011 --> 00:01:56,855
+Script : FRM
+Synchro: BadGOne
+
+26
+00:01:56,922 --> 00:02:03,080
+Traducteurs :ShalimarFox,  g.snake, samylo, TheKind, BadGOne.
+
+27
+00:02:03,937 --> 00:02:07,718
+Relecture : Mickey, Moustou, T|T|.
+
+28
+00:02:08,956 --> 00:02:25,442
+www.Team-NCIS.com
+
+29
+00:02:28,750 --> 00:02:29,390
+Manqué.
+
+30
+00:02:30,340 --> 00:02:32,225
+Il est déjà là? Il est arrivé ?
+
+31
+00:02:32,720 --> 00:02:35,480
+Abby, tu crois que je jouerais à ce jeu si c'était le cas?
+
+32
+00:02:38,903 --> 00:02:41,363
+Je t'appellerai dès qu'il sera là, d'accord ? C'est promis.
+
+33
+00:02:41,960 --> 00:02:42,959
+Et si son vol était retardé ?
+
+34
+00:02:42,960 --> 00:02:45,003
+Ou pire. Et s'il avait manqué sa correspondance ?
+
+35
+00:02:45,050 --> 00:02:46,829
+Eh bien, alors, il sera là demain.
+
+36
+00:02:46,830 --> 00:02:47,839
+C'est pas assez bien, McGee.
+
+37
+00:02:47,840 --> 00:02:49,409
+Une équipe a besoin d'un leader.
+
+38
+00:02:49,410 --> 00:02:50,419
+Il est notre ciment.
+
+39
+00:02:50,420 --> 00:02:52,329
+Il est notre colonne vertébrale.
+
+40
+00:02:52,413 --> 00:02:56,011
+Sans lui, nous sommes comme le phylum cnidaria.
+
+41
+00:02:57,060 --> 00:02:57,769
+La méduse.
+
+42
+00:02:57,770 --> 00:02:58,827
+Exactement.
+
+43
+00:03:00,727 --> 00:03:02,200
+Tu insinues que je suis invertébré ?
+
+44
+00:03:03,409 --> 00:03:04,832
+Bien sûr que non, Timmy.
+
+45
+00:03:06,493 --> 00:03:07,748
+Je vais vérifier son vol.
+
+46
+00:03:08,410 --> 00:03:10,543
+Abby, tu mets du sucre partout sur mon clavier.
+
+47
+00:03:10,560 --> 00:03:11,681
+Quel est ton problème ?
+
+48
+00:03:12,250 --> 00:03:14,029
+Mon problème, Abby, c'est que
+
+49
+00:03:14,030 --> 00:03:17,781
+tu as encore vraiment, vraiment
+exagéré sur ce truc sucré.
+
+50
+00:03:18,133 --> 00:03:19,539
+Eh bien, je mange pour deux.
+
+51
+00:03:21,630 --> 00:03:22,640
+Détends-toi.
+
+52
+00:03:22,960 --> 00:03:26,329
+Je faisais référence au phénomène
+qui mange bio là-bas.
+
+53
+00:03:26,980 --> 00:03:28,260
+Chaque fois je passe devant son bureau,
+
+54
+00:03:28,340 --> 00:03:31,760
+j'ai cette irrésistible envie
+de lui enfonçer un cheeseburger au fond de la gorge.
+
+55
+00:03:32,210 --> 00:03:33,518
+Je pense qu'elle est du genre chaude.
+
+56
+00:03:33,640 --> 00:03:34,689
+Oh, tu penses qu'elle est chaude ?
+
+57
+00:03:34,690 --> 00:03:36,974
+Ouais, tu sais, pour une bizut.
+
+58
+00:03:37,330 --> 00:03:40,455
+Vous réalisez tous les deux
+que je peux vous entendre, pas vrai ?
+
+59
+00:03:41,640 --> 00:03:42,773
+maintenant oui,
+
+60
+00:03:42,860 --> 00:03:45,233
+agent très spéciale Lee.
+
+61
+00:03:46,440 --> 00:03:47,769
+Son vol s'est posé à l'heure.
+
+62
+00:03:47,770 --> 00:03:49,007
+Où est-il ?
+
+63
+00:03:53,270 --> 00:03:55,089
+Oh, yay ! Tu es rentré !
+
+64
+00:03:55,090 --> 00:03:56,719
+Bon retour parmi nous.
+
+65
+00:03:56,720 --> 00:03:58,500
+Tu m'as manqué.
+
+66
+00:03:59,880 --> 00:04:01,089
+Tu m'as manqué aussi, Abby.
+
+67
+00:04:01,090 --> 00:04:02,039
+Est-ce que tu t'es amusé ?
+
+68
+00:04:02,040 --> 00:04:04,673
+Es-tu allé dans ce bar branché de Düsseldorf ?
+
+69
+00:04:04,850 --> 00:04:06,204
+Tu sais, j'ai essayé, mais,
+
+70
+00:04:06,204 --> 00:04:09,166
+la conférence sur la sécurité nous a assez occupé.
+
+71
+00:04:10,560 --> 00:04:13,476
+-J'ai du mal à respirer, Abby.
+-Oh, je suis désolée.
+
+72
+00:04:14,924 --> 00:04:16,681
+-Regarde
+-McGee.
+
+73
+00:04:16,980 --> 00:04:18,823
+Regardes toi.
+
+74
+00:04:19,910 --> 00:04:20,950
+Comme tu as grandi.
+
+75
+00:04:21,060 --> 00:04:23,018
+Alors, qu'est ce que j'ai raté
+ces deux dernières semaines ?
+
+76
+00:04:23,186 --> 00:04:24,749
+Eh bien, rien je ne pouvais pas traiter seul, patron.
+
+77
+00:04:24,750 --> 00:04:28,575
+Bien, quand je pense que le directeur
+n'avait aucune foi en toi.
+
+78
+00:04:29,160 --> 00:04:30,399
+Qu'est-ce que tu veux dire par le Directeur...
+
+79
+00:04:30,400 --> 00:04:33,403
+Tous autour de moi.
+Je suis revenu avec des cadeaux.
+
+80
+00:04:36,700 --> 00:04:38,330
+Pour la jolie dame.
+
+81
+00:04:38,960 --> 00:04:41,089
+Oh ! Tony, c'est magnifique.
+
+82
+00:04:41,090 --> 00:04:43,160
+Pour info, c'est hors de prix.
+
+83
+00:04:43,460 --> 00:04:45,114
+L'euro est plus fort que d'habitude.
+
+84
+00:04:45,280 --> 00:04:47,474
+Pour mon agent de terrain le plus expérimenté...
+
+85
+00:04:50,710 --> 00:04:53,344
+Le Very Best of de David Hasselhoff.
+
+86
+00:04:54,871 --> 00:04:56,269
+Tu ne l'aimes pas ?
+
+87
+00:04:56,270 --> 00:05:00,220
+Je répète, le very Best of de David Hasselhoff.
+
+88
+00:05:03,550 --> 00:05:05,169
+C'était pour quoi ça ?
+
+89
+00:05:05,170 --> 00:05:06,930
+Tu écoutes Yanni.
+
+90
+00:05:07,030 --> 00:05:09,814
+Et tu as un jeu non autorisé sur ton ordinateur.
+
+91
+00:05:10,480 --> 00:05:12,069
+D'accord, c'est ton jeu, Tony.
+
+92
+00:05:12,070 --> 00:05:13,879
+Ouais, et tu n'aurais pas du battre mon meilleur score.
+
+93
+00:05:13,880 --> 00:05:16,458
+Et pour Ziva...
+
+94
+00:05:17,180 --> 00:05:19,157
+Das lederhosen.
+( costume traditionnel Allemand)
+
+95
+00:05:19,540 --> 00:05:20,956
+Une taille unique.
+
+96
+00:05:21,000 --> 00:05:21,939
+Où est la...
+
+97
+00:05:21,940 --> 00:05:23,639
+petite Israélienne ? En retard, monsieur.
+
+98
+00:05:23,640 --> 00:05:25,257
+Pour la deuxième fois cette semaine.
+
+99
+00:05:25,410 --> 00:05:27,031
+Agent Lee.
+
+100
+00:05:27,400 --> 00:05:31,207
+Ma bizut surveillante d'entrée préférée.
+
+101
+00:05:31,530 --> 00:05:35,596
+Je parie que vous vous demandez
+ce que le tout nouveau membre de l'Équipe DiNozzo va recevoir.
+
+102
+00:05:35,970 --> 00:05:38,533
+Eh bien, nous avons gardé le meilleur pour la fin.
+
+103
+00:05:40,180 --> 00:05:42,910
+Ce n'était pas facile de passer la douane, mais...
+
+104
+00:05:46,410 --> 00:05:47,590
+Une agrafeuse ?
+
+105
+00:05:49,843 --> 00:05:51,189
+C'est une agrafeuse allemande.
+
+106
+00:05:51,190 --> 00:05:54,144
+Mais c'est indiqué "Made in China," monsieur.
+
+107
+00:05:55,458 --> 00:05:56,914
+Oh, ouais.
+
+108
+00:05:57,098 --> 00:05:59,059
+Eh bien, l'Allemagne, l'Eurasie, la Chine.
+
+109
+00:05:59,060 --> 00:06:01,353
+C'est une commune globale, Lee. Vous vous y ferez.
+
+110
+00:06:01,550 --> 00:06:02,829
+Elle est en retard de plus d'une heure, monsieur.
+
+111
+00:06:02,830 --> 00:06:05,207
+C'est inhabituel même pour elle.
+
+112
+00:06:05,290 --> 00:06:07,575
+Qu'est-ce que je vous ai dit
+au sujet de l'inquiétude, bizut ?
+
+113
+00:06:07,608 --> 00:06:09,399
+Que c'est... votre travail.
+
+114
+00:06:09,400 --> 00:06:10,569
+Vous voyez, vous apprenez.
+
+115
+00:06:10,570 --> 00:06:13,131
+Mais elle ne répond pas... pardon, monsieur.
+
+116
+00:06:13,180 --> 00:06:15,751
+Elle ne répond pas non plus à son téléphone portable.
+
+117
+00:06:16,269 --> 00:06:19,592
+D'accord, il y a une seule chose
+que vous devez savoir sur l'Officier David.
+
+118
+00:06:19,659 --> 00:06:20,931
+Ne pas la mettre en colère.
+
+119
+00:06:20,997 --> 00:06:22,510
+Donc, techniquement, en réalité, il y a deux choses.
+
+120
+00:06:22,989 --> 00:06:24,395
+L'autre est ...
+
+121
+00:06:25,031 --> 00:06:26,939
+qu'elle peut prendre soin d'elle-même.
+
+122
+00:06:27,150 --> 00:06:29,052
+Je ne peux pas attendre plus longtemps !
+
+123
+00:06:29,080 --> 00:06:30,139
+Je veux voir l'officier Bashan ou
+
+124
+00:06:30,140 --> 00:06:32,926
+je commence par vos mains et je ne m'arrêterai pas avant -
+
+125
+00:06:32,990 --> 00:06:34,729
+Officier David, qu'est ce que je vous ai dit
+
+126
+00:06:34,730 --> 00:06:36,630
+sur le fait de terroriser mes hommes ?
+
+127
+00:06:38,520 --> 00:06:40,470
+Laissez-nous seuls s'il vous plaît.
+
+128
+00:06:45,550 --> 00:06:47,686
+Venez, Ziva, asseyez-vous.
+
+129
+00:06:51,690 --> 00:06:55,749
+Ok, quel est le problème ?
+
+130
+00:06:55,900 --> 00:06:57,891
+Pourquoi je n'ai pas été informé de cette opération ?
+
+131
+00:06:57,940 --> 00:06:59,319
+Je suppose que la réponse la plus simple serait,
+
+132
+00:06:59,320 --> 00:07:00,969
+que votre père n'a pas voulu que vous le sachiez.
+
+133
+00:07:00,970 --> 00:07:03,678
+Et il se demande pourquoi je lui parle à peine désormais, Michael ?
+
+134
+00:07:03,912 --> 00:07:07,008
+A mon sens, un fait qu'il regrette beaucoup, Ziva.
+
+135
+00:07:07,059 --> 00:07:08,160
+Vraiment beaucoup.
+
+136
+00:07:08,750 --> 00:07:12,757
+J'ai passé une année à établir des relations de confiance avec le NCIS.
+
+137
+00:07:12,841 --> 00:07:15,117
+Comment suggérez-vous que je leur explique celà ?
+
+138
+00:07:15,255 --> 00:07:17,729
+Je réalise que cela vous met
+dans une mauvais posture, mais, Ziva...
+
+139
+00:07:17,730 --> 00:07:19,548
+Ils ont carrément merdé.
+
+140
+00:07:19,582 --> 00:07:21,071
+Et vous devriez bien le savoir.
+
+141
+00:07:21,138 --> 00:07:24,406
+Les Américains peuvent être assez pudiques dans leurs attitudes, Ziva.
+
+142
+00:07:24,506 --> 00:07:26,369
+Vous appelez ce qui est arrivé pudique ?
+
+143
+00:07:26,581 --> 00:07:27,820
+Ça dépend.
+
+144
+00:07:27,887 --> 00:07:30,120
+Avez-vous ou pas couché avec lui ?
+
+145
+00:07:31,980 --> 00:07:32,669
+Qui ?
+
+146
+00:07:32,670 --> 00:07:35,443
+Anthony DiNozzo, votre nouveau chef d'équipe.
+
+147
+00:07:36,220 --> 00:07:37,962
+Pourquoi me demandez-vous ça ?
+
+148
+00:07:37,979 --> 00:07:39,299
+Pour commencer, depuis trois mois,
+
+149
+00:07:39,368 --> 00:07:43,422
+Ziva, il vient à votre appartement
+au moins une nuit par semaine.
+
+150
+00:07:49,676 --> 00:07:51,852
+Mon père vous a demandé de m'espionner ?
+
+151
+00:07:53,800 --> 00:07:56,169
+Je supposais que c'était la raison de votre visite.
+
+152
+00:07:56,170 --> 00:07:58,915
+Eh bien, vous supposez mal, Officier Bashan.
+
+153
+00:07:59,233 --> 00:08:00,499
+Je suis ici car il y a une heure,
+
+154
+00:08:00,789 --> 00:08:04,421
+une équipe d'assassins du Mossad a tué trois personnes à Georgetown.
+
+155
+00:08:05,728 --> 00:08:07,989
+Nous n'avons aucune opération en cours à Georgetown...
+
+156
+00:08:07,990 --> 00:08:09,689
+Michael, ne me mentez pas
+
+157
+00:08:09,690 --> 00:08:10,329
+J'y étais.
+
+158
+00:08:10,330 --> 00:08:11,653
+J'ai essayé d'empêcher ça.
+
+159
+00:08:11,710 --> 00:08:14,347
+Qu'avez-vous vu exactement ?
+
+160
+00:08:18,321 --> 00:08:19,978
+L'officier Namir Eschel.
+
+161
+00:08:21,610 --> 00:08:24,301
+- Non. Impossible.
+- Je lui ai parlé.
+
+162
+00:08:24,450 --> 00:08:26,142
+Je... Je l'ai laissé partir.
+
+163
+00:08:33,790 --> 00:08:35,250
+Ligne sécurisée pour Tel-Aviv.
+
+164
+00:08:37,260 --> 00:08:38,969
+Je dois parler au directeur.
+
+165
+00:08:38,970 --> 00:08:40,150
+Tout de suite.
+
+166
+00:08:41,230 --> 00:08:42,598
+Dites-lui...
+
+167
+00:08:44,660 --> 00:08:46,556
+Dites-lui que cela concerne la famille.
+
+168
+00:08:49,620 --> 00:08:52,773
+Réalisez-vous que j'ai failli tirer sur Eschel aujourd'hui ?
+
+169
+00:08:53,540 --> 00:08:55,334
+Namir Eschel est mort, Ziva.
+
+170
+00:08:57,270 --> 00:09:01,069
+Votre père et moi avons assisté à ses funérailles il y a six mois.
+
+171
+00:09:04,110 --> 00:09:06,869
+Ziva, simplement, euh, appelle-nous dès que tu as ce message.
+
+172
+00:09:06,870 --> 00:09:10,705
+Nous ne sommes pas inquiets. Donne-nous juste un coup de fil, s'il te plaît.
+
+173
+00:09:11,760 --> 00:09:13,588
+Ok, maintenant je commence à m'inquiéter.
+
+174
+00:09:13,930 --> 00:09:15,345
+Tu crois qu'elle va bien ?
+
+175
+00:09:15,430 --> 00:09:18,512
+Eh bien, si elle allait bien, elle serait là, McGee.
+
+176
+00:09:19,440 --> 00:09:22,588
+La question est : Que ferait Gibbs dans une situation comme celle-là ?
+
+177
+00:09:22,638 --> 00:09:23,667
+Il la retrouverait, Tony.
+
+178
+00:09:23,701 --> 00:09:25,425
+J'y travaille, Directeur.
+
+179
+00:09:25,475 --> 00:09:26,981
+Travaillez plus.
+
+180
+00:09:27,690 --> 00:09:31,236
+La police vient juste de trouver sa voiture sur un trottoir à Georgetown.
+
+181
+00:09:31,286 --> 00:09:33,801
+En fait, rien d'inhabituel quand Ziva conduit.
+
+182
+00:09:33,851 --> 00:09:37,784
+Ouais, j'ai traversé toute l'Europe de l'Est avec elle, je suis au courant, McGee.
+
+183
+00:09:38,280 --> 00:09:40,094
+Mais d'après mon expérience,
+
+184
+00:09:41,430 --> 00:09:45,205
+le FBI ne s'intéresse habituellement pas aux simples accidents de circulation.
+
+185
+00:09:45,288 --> 00:09:47,782
+Tony, c'est pas le type qui a essayé de te boucler pour meurtre ?
+
+186
+00:09:47,815 --> 00:09:50,319
+Oui, c'est lui, et merci de faire ressurgir de douloureux souvenirs, McGee.
+
+187
+00:09:50,320 --> 00:09:51,959
+Vous saviez qu'ils arrivaient, Directeur ?
+
+188
+00:09:51,960 --> 00:09:52,919
+Du calme, Tony.
+
+189
+00:09:52,920 --> 00:09:54,949
+J'ai été avertie il y a seulement deux minutes.
+
+190
+00:09:54,950 --> 00:09:56,179
+Que veulent-ils à Ziva ?
+
+191
+00:09:56,246 --> 00:09:57,769
+Nous allons tout de suite le savoir.
+
+192
+00:09:58,010 --> 00:09:59,460
+Ensemble.
+
+193
+00:10:00,160 --> 00:10:02,079
+Agent Sacks, Directeur Shepard.
+
+194
+00:10:02,080 --> 00:10:03,284
+Directeur Shepard.
+
+195
+00:10:07,029 --> 00:10:08,669
+Nous avons confirmé votre rapport.
+
+196
+00:10:08,750 --> 00:10:11,280
+L'homme qui a été tué est Abdul Wazir,
+
+197
+00:10:11,330 --> 00:10:13,640
+un ancien colonel de l'armée syrienne.
+
+198
+00:10:14,480 --> 00:10:17,330
+Recherché pour crimes contre l'état d'Israël.
+
+199
+00:10:17,380 --> 00:10:19,866
+On dirait que je ne suis pas la seule à qui mon père cache des choses.
+
+200
+00:10:19,899 --> 00:10:21,991
+Ce n'était pas une opération autorisée, Ziva.
+
+201
+00:10:22,041 --> 00:10:23,631
+Nous n'avons rien à voir avec ça.
+
+202
+00:10:23,698 --> 00:10:24,585
+Officiellement vous voulez dire.
+
+203
+00:10:24,636 --> 00:10:25,757
+Officiellement
+
+204
+00:10:25,774 --> 00:10:27,217
+et officieusement.
+
+205
+00:10:27,251 --> 00:10:29,259
+Nous savions qu'il était entre les mains des américains.
+
+206
+00:10:29,292 --> 00:10:33,585
+Ils lui offraient une protection en échange d'informations
+sur les cellules d'Al-Qaïda en Irak.
+
+207
+00:10:33,636 --> 00:10:35,460
+Une protection contre quoi ?
+
+208
+00:10:37,824 --> 00:10:38,469
+Nous.
+
+209
+00:10:38,470 --> 00:10:40,368
+Et les deux hommes qui l'escortaient ?
+
+210
+00:10:40,418 --> 00:10:41,992
+Des agents du FBI.
+
+211
+00:10:42,059 --> 00:10:43,200
+Grand Dieu, Michael.
+
+212
+00:10:43,460 --> 00:10:46,296
+Apparement, Eschel a mis en scène sa propre mort.
+
+213
+00:10:46,346 --> 00:10:49,693
+Il agit sans ordre, prend ses propres décisions.
+
+214
+00:10:49,744 --> 00:10:52,879
+Ou peut-être est-ce simplement une couverture que mon père lui a préparée.
+
+215
+00:10:52,946 --> 00:10:54,019
+Croyez-vous vraiment qu'il mettrait en danger
+
+216
+00:10:54,020 --> 00:10:56,879
+nos relations avec les américains comme çà ?
+
+217
+00:10:56,929 --> 00:10:59,875
+Il y a des jours où je ne sais plus que croire, Michael.
+
+218
+00:11:01,730 --> 00:11:05,394
+Vous n'avez pas encore été autorisée à partir, officier David.
+
+219
+00:11:05,940 --> 00:11:07,469
+Je dois contacter le NCIS.
+
+220
+00:11:07,503 --> 00:11:09,247
+Vos ordres sont de rester ici
+
+221
+00:11:09,264 --> 00:11:12,461
+jusqu'à ce que nous ayons élaboré une stratégie pour régler ça.
+
+222
+00:11:12,494 --> 00:11:13,939
+Eschel a tué deux américains
+
+223
+00:11:13,940 --> 00:11:15,304
+et un homme sous leur garde
+
+224
+00:11:15,354 --> 00:11:17,965
+Notre stratégie est simple. Le trouver et le tuer.
+
+225
+00:11:18,350 --> 00:11:19,609
+Il y a des complications.
+
+226
+00:11:19,610 --> 00:11:21,429
+Dont le NCIS pourrait nous affranchir.
+
+227
+00:11:21,463 --> 00:11:24,458
+Vous avez laissé votre voiture sur la scène de crime ce matin.
+
+228
+00:11:24,525 --> 00:11:26,729
+Elle était en rade. J'essayais d'empêcher l'attaque..
+
+229
+00:11:26,730 --> 00:11:29,002
+Les américains ne l'entendent pas de cette oreille.
+
+230
+00:11:29,190 --> 00:11:30,090
+Le directeur Shepard m'écoutera.
+
+231
+00:11:34,250 --> 00:11:35,650
+Ziva.
+
+232
+00:11:38,110 --> 00:11:42,118
+Le FBI a déjà émis un mandat d'arrêt contre toi.
+
+233
+00:11:42,410 --> 00:11:43,624
+Pour quels motifs ?
+
+234
+00:11:43,620 --> 00:11:45,210
+Espionnage,
+
+235
+00:11:46,164 --> 00:11:47,470
+et assassinat.
+
+236
+00:11:55,680 --> 00:11:57,704
+C'est un cauchemar politique.
+
+237
+00:11:57,771 --> 00:11:59,997
+Je vous demande d'être patiente, Ziva.
+
+238
+00:12:00,148 --> 00:12:02,019
+Il nous faut du temps pour régler ça.
+
+239
+00:12:02,020 --> 00:12:03,838
+Vous me retiendriez contre mon gré, Michael ?
+
+240
+00:12:03,838 --> 00:12:06,014
+Je ferai ce qui est le mieux pour vous.
+
+241
+00:12:09,160 --> 00:12:10,549
+Votre père...
+
+242
+00:12:10,876 --> 00:12:13,420
+il trouvera une solution à ça, Ziva.
+
+243
+00:12:15,260 --> 00:12:17,428
+Comme il l'a fait pour mon frère Ari ?
+
+244
+00:12:18,890 --> 00:12:20,951
+Escortez-la jusqu'aux quartiers des invités.
+
+245
+00:12:21,010 --> 00:12:23,846
+Et n'oubliez pas de lui confisquer ses armes.
+
+246
+00:12:24,340 --> 00:12:26,039
+Je suis désolée.
+
+247
+00:12:26,320 --> 00:12:27,746
+Moi de même.
+
+248
+00:12:31,550 --> 00:12:33,216
+C'est à vous que je parlais.
+
+249
+00:12:36,731 --> 00:12:39,023
+Vous avez déjà été attaché par une femme auparavant ?
+
+250
+00:12:41,300 --> 00:12:42,730
+Ça vous a plu ?
+
+251
+00:12:44,200 --> 00:12:46,304
+Alors, aujourd'hui n'est pas votre jour de chance.
+
+252
+00:12:52,120 --> 00:12:53,189
+Très professionnel.
+
+253
+00:12:53,190 --> 00:12:55,181
+Votre directeur nous a fichu dehors tous les deux, DiNozzo.
+
+254
+00:12:55,210 --> 00:12:57,239
+Seulement parce que vous ne pouviez pas vous la boucler.
+
+255
+00:12:57,240 --> 00:13:00,369
+Eh bien, votre officier de liaison du Mossad a tué 2 agents du FBI aujourd'hui.
+
+256
+00:13:00,370 --> 00:13:02,296
+Désolé que ça me fasse chier.
+
+257
+00:13:02,329 --> 00:13:04,003
+- Où est votre preuve ?
+- La preuve ?
+
+258
+00:13:04,137 --> 00:13:05,208
+La voiture abandonnée
+
+259
+00:13:05,241 --> 00:13:06,580
+sur la scène de crime,
+
+260
+00:13:06,630 --> 00:13:09,170
+le syrien était sur leur liste des personnes les plus recherchées,
+
+261
+00:13:09,220 --> 00:13:12,133
+elle a disparu, et, oh ouais, son frère
+
+262
+00:13:12,183 --> 00:13:13,940
+était un terroriste du Hamas.
+
+263
+00:13:13,990 --> 00:13:16,124
+Là d'où je viens, on appelle cela des coïncidences.
+
+264
+00:13:16,158 --> 00:13:18,484
+Vraiment ? C'était dans quoi çà, Narnia ?
+
+265
+00:13:19,860 --> 00:13:22,003
+C'est un film fantastique. Les Chroniques de Narnia...
+
+266
+00:13:22,000 --> 00:13:23,090
+Je sais ce que c'est !
+
+267
+00:13:24,210 --> 00:13:25,892
+Histoire potable, excellents effets spéciaux.
+
+268
+00:13:25,942 --> 00:13:27,399
+Ils déchiraient vraiment.
+
+269
+00:13:27,432 --> 00:13:28,520
+Ce n'est pas où je veux en venir.
+
+270
+00:13:28,570 --> 00:13:29,289
+Il y a six mois,
+
+271
+00:13:29,290 --> 00:13:32,993
+vous étiez convaincu que j'avais tué une femme et haché ses jambes.
+
+272
+00:13:33,026 --> 00:13:34,616
+Je ne suis toujours pas convaincu que vous ne l'ayez pas fait.
+
+273
+00:13:34,666 --> 00:13:35,838
+Exactement.
+
+274
+00:13:35,855 --> 00:13:40,068
+Donc Ziva David s'est faite piéger. Par qui ?
+
+275
+00:13:40,490 --> 00:13:42,813
+Eh bien, c'est ce que j'ai l'intention de découvrir.
+
+276
+00:13:43,840 --> 00:13:45,457
+Bonne chance alors.
+
+277
+00:13:47,190 --> 00:13:48,432
+Vous deux.
+
+278
+00:13:48,449 --> 00:13:49,972
+Par ici, tout de suite.
+
+279
+00:13:50,020 --> 00:13:52,239
+Directeur, s'il vous plait pouvez-vous dire à l'agent Slacks...
+
+280
+00:13:52,240 --> 00:13:54,047
+Sacks. C'est Sacks.
+
+281
+00:13:54,114 --> 00:13:55,909
+S'il vous plaît pouvez-vous dire à l'agent Slacks*
+
+282
+00:13:55,909 --> 00:13:55,909
+* "Slacks" signifie littéralement salopette et "slack" veut dire négligent.
+
+283
+00:13:55,910 --> 00:13:58,466
+que nous allons nous charger de cette affaire nous-même ?
+
+284
+00:13:58,767 --> 00:14:00,789
+Je viens d'assurer à votre directeur que le FBI
+
+285
+00:14:00,790 --> 00:14:05,252
+aura l'entière coopération du NCIS sur cette affaire.
+
+286
+00:14:05,960 --> 00:14:07,059
+Merci, Madame..
+
+287
+00:14:07,060 --> 00:14:10,520
+Si Ziva tente de contacter, vous ou quiconque de votre équipe,
+
+288
+00:14:10,553 --> 00:14:12,139
+je veux immédiatement en être informée
+
+289
+00:14:12,140 --> 00:14:15,966
+ainsi que l'agent Sachs.
+
+290
+00:14:16,043 --> 00:14:16,887
+C'est complètement débi...
+
+291
+00:14:16,880 --> 00:14:20,703
+Ceci... est un ordre de votre directeur, agent DiNozzo.
+
+292
+00:14:20,786 --> 00:14:22,577
+C'est assez clair pour vous ?
+
+293
+00:14:22,644 --> 00:14:24,498
+Comme du cristal, Madame.
+
+294
+00:14:29,979 --> 00:14:33,142
+Je vous donne ma parole
+
+295
+00:14:33,159 --> 00:14:35,954
+que je essayerai d'avoir l'esprit ouvert.
+
+296
+00:14:36,100 --> 00:14:37,580
+- Ouais ?
+- Ouais.
+
+297
+00:14:38,170 --> 00:14:39,179
+Ok.
+
+298
+00:14:39,180 --> 00:14:42,791
+- Écoutez, hum, à propos de ce qui s'est passé entre nous tout à l'heure...
+- Sans rancune.
+
+299
+00:14:42,870 --> 00:14:43,749
+J'ai saisi.
+
+300
+00:14:43,750 --> 00:14:46,749
+Non, j'allais dire que je ne peux toujours pas vous encadrer, Sacks.
+
+301
+00:14:46,766 --> 00:14:48,373
+Moi non plus, DiNozzo.
+
+302
+00:14:48,440 --> 00:14:49,640
+Moi non plus.
+
+303
+00:14:49,820 --> 00:14:50,900
+Tony ?
+
+304
+00:14:52,650 --> 00:14:54,768
+La question que vous m'avez posée tout à l'heure :
+
+305
+00:14:54,950 --> 00:14:56,726
+Que ferait Gibbs ?
+
+306
+00:14:56,961 --> 00:14:59,722
+Gibbs n'est pas là, vous si.
+
+307
+00:15:07,360 --> 00:15:08,299
+Gibbs...
+
+308
+00:15:09,994 --> 00:15:12,187
+C'est vraiment, vraiment mauvais.
+
+309
+00:15:12,640 --> 00:15:14,582
+Ziva a disparu
+
+310
+00:15:14,616 --> 00:15:17,304
+et tout le monde dit qu'elle est exactement comme son frère.
+
+311
+00:15:17,337 --> 00:15:18,994
+J'ai vraiment, vraiment
+
+312
+00:15:19,061 --> 00:15:20,777
+besoin que tu appelles.
+
+313
+00:15:21,480 --> 00:15:22,350
+S'il te plaît.
+
+314
+00:15:25,620 --> 00:15:27,162
+Gibbs ?
+
+315
+00:15:27,570 --> 00:15:28,780
+Abby, c'est Ziva.
+
+316
+00:15:29,770 --> 00:15:31,032
+Ziva.
+
+317
+00:15:31,400 --> 00:15:32,739
+Est-ce que ça va ?
+
+318
+00:15:32,773 --> 00:15:34,655
+Non, et ne prononce pas mon nom si fort.
+
+319
+00:15:34,722 --> 00:15:35,576
+Désolée.
+
+320
+00:15:35,820 --> 00:15:37,283
+Où es-tu ?
+
+321
+00:15:37,620 --> 00:15:39,731
+Dans un endroit sûr pour le moment.
+
+322
+00:15:39,764 --> 00:15:40,835
+Le FBI était ici
+
+323
+00:15:40,852 --> 00:15:43,011
+et Tony flippait
+
+324
+00:15:43,061 --> 00:15:43,709
+et le Directeur...
+
+325
+00:15:43,710 --> 00:15:45,779
+Abby, j'ai besoin que tu me rendes un service.
+
+326
+00:15:45,823 --> 00:15:46,839
+Je t'écoute.
+
+327
+00:15:46,840 --> 00:15:49,649
+D'abord, tu ne dois dire à personne que je t'ai parlé.
+
+328
+00:15:49,699 --> 00:15:50,969
+A part à Tony, c'est çà ?
+
+329
+00:15:50,970 --> 00:15:53,319
+Non. Pas même à Tony.
+
+330
+00:15:53,590 --> 00:15:56,323
+Si je lui parle, il aura des ennuis avec le FBI.
+
+331
+00:15:56,373 --> 00:15:58,114
+Tu as besoin de quoi ?
+
+332
+00:16:00,600 --> 00:16:02,010
+Un numéro de téléphone.
+
+333
+00:16:04,850 --> 00:16:07,616
+O.K. Je te rappellerai à ce numéro.
+
+334
+00:16:08,950 --> 00:16:10,078
+Abby,
+
+335
+00:16:11,500 --> 00:16:12,530
+C'était qui ?
+
+336
+00:16:13,760 --> 00:16:14,886
+Où ça ?
+
+337
+00:16:15,622 --> 00:16:16,939
+Au téléphone.
+
+338
+00:16:19,187 --> 00:16:21,467
+C'était... C'étaient les nonnes.
+
+339
+00:16:21,551 --> 00:16:22,689
+Les nonnes ?
+
+340
+00:16:22,690 --> 00:16:24,856
+Ouais, tu sais les nonnes avec leurs...
+
+341
+00:16:24,873 --> 00:16:26,128
+grands chapeaux blancs et leurs...
+
+342
+00:16:26,195 --> 00:16:27,249
+Leurs tuniques.
+
+343
+00:16:27,250 --> 00:16:28,559
+Ouais, ça s'appelle bien des tuniques ?
+
+344
+00:16:28,560 --> 00:16:29,609
+Grands chapeaux blancs.
+
+345
+00:16:29,610 --> 00:16:33,940
+Oui. Elles, elles ont appelé pour dire que l'entraînement de bowling était annulé.
+
+346
+00:16:34,091 --> 00:16:35,296
+Elles font du bowling ?
+
+347
+00:16:35,346 --> 00:16:38,050
+Qu'est-ce qu'il y a McGee ? Tu fais une sorte de croisade anti-nonnes ou quoi ?
+
+348
+00:16:38,340 --> 00:16:39,459
+Pardon ? Attends, non...
+
+349
+00:16:39,460 --> 00:16:41,547
+O.K., on laisse les nonnes tranquilles.
+
+350
+00:16:42,360 --> 00:16:43,379
+Il faut que je contacte Gibbs.
+
+351
+00:16:43,380 --> 00:16:45,639
+Si on veut sortir Ziva de tout ça,
+
+352
+00:16:45,672 --> 00:16:46,915
+je vais avoir besoin de ses conseils.
+
+353
+00:16:46,965 --> 00:16:49,224
+Aux dernières nouvelles, il était encore au Mexique.
+
+354
+00:16:49,291 --> 00:16:51,701
+Il doit bien y avoir un moyen de le contacter.
+
+355
+00:17:00,190 --> 00:17:02,727
+Oh zut !
+
+356
+00:17:03,650 --> 00:17:04,590
+Hé.
+
+357
+00:17:05,080 --> 00:17:06,079
+Tu as dis quelque chose ?
+
+358
+00:17:06,689 --> 00:17:07,777
+Ça fait quatre mois
+
+359
+00:17:07,810 --> 00:17:12,250
+et tu sais toujours pas ce que veut dire siesta bizut ?
+
+360
+00:17:12,317 --> 00:17:14,593
+Le toit ne va pas se réparer tout seul Mike.
+
+361
+00:17:14,660 --> 00:17:17,564
+La saison des tempêtes tropicales commence
+dans quelques semaines.
+
+362
+00:17:17,640 --> 00:17:20,559
+Ça t'est jamais arrivé de penser que j'aime la pluie ?
+
+363
+00:17:20,610 --> 00:17:21,701
+Ouais,
+
+364
+00:17:21,835 --> 00:17:24,580
+mais peut-être pas dans ta maison.
+
+365
+00:17:26,170 --> 00:17:29,376
+T'as pas un bateau ou quelque chose à construire ?
+
+366
+00:17:29,670 --> 00:17:31,239
+Ouais, le problème Mike,
+
+367
+00:17:31,240 --> 00:17:35,941
+c'est que j'utilise tout mon bon bois pour réparer
+ta maison qui pourrit.
+
+368
+00:17:36,190 --> 00:17:38,317
+J'ai une meilleure idée.
+
+369
+00:17:39,010 --> 00:17:41,342
+Pourquoi tu ne l'utiliserais pas pour faire la tienne,
+
+370
+00:17:41,392 --> 00:17:43,568
+quelque part à côté.
+
+371
+00:17:45,830 --> 00:17:49,685
+Tu as juste à dire un mot, et je serai parti.
+
+372
+00:17:50,330 --> 00:17:52,238
+Ne me tente pas Jethro.
+
+373
+00:17:52,310 --> 00:17:54,497
+Je suis pas encore assez soûl.
+
+374
+00:17:54,590 --> 00:17:55,559
+Mais jusqu'à maintenant,
+
+375
+00:17:55,560 --> 00:17:58,539
+je pensais que ton prochain projet était un joli,
+
+376
+00:17:58,540 --> 00:18:02,325
+petit spa. Grand comme ça.
+
+377
+00:18:02,360 --> 00:18:03,730
+Juste là.
+
+378
+00:18:05,580 --> 00:18:08,108
+Tu le veux en teck ou en séquoia ?
+
+379
+00:18:08,400 --> 00:18:10,133
+<i>Hola, gentlemen.</i>
+
+380
+00:18:10,200 --> 00:18:13,505
+Gentlemen ? Ce n'est pas à nous qu'elle doit parler.
+
+381
+00:18:13,539 --> 00:18:14,945
+Vous ? Non.
+
+382
+00:18:15,012 --> 00:18:17,271
+<i>Señor Gibbs, si.</i>
+
+383
+00:18:17,656 --> 00:18:20,514
+- J'espère que vous ne le faites pas trop travailler.
+- Nan.
+
+384
+00:18:20,590 --> 00:18:22,099
+Il vit ici gratuitement.
+
+385
+00:18:22,100 --> 00:18:23,643
+Qu'est-ce qu'il attend ?
+
+386
+00:18:23,710 --> 00:18:25,786
+Peut-être qu'il nous le dira un jour.
+
+387
+00:18:26,160 --> 00:18:26,979
+Hé.
+
+388
+00:18:27,786 --> 00:18:29,777
+Combien je te dois ?
+
+389
+00:18:30,560 --> 00:18:32,610
+25 dollars.
+
+390
+00:18:32,710 --> 00:18:34,449
+- Et vous avez un appel.
+- O.K.
+
+391
+00:18:34,450 --> 00:18:36,225
+Pas vous.
+
+392
+00:18:36,700 --> 00:18:39,484
+Leroy Jethro.
+
+393
+00:18:40,187 --> 00:18:41,493
+Qui est-ce ?
+
+394
+00:18:41,543 --> 00:18:42,832
+Une femme.
+
+395
+00:18:42,890 --> 00:18:45,066
+<i>Et elle semble muy triste.</i>
+
+396
+00:18:45,910 --> 00:18:47,889
+C'est sûrement cette femme, ta directrice,
+
+397
+00:18:47,890 --> 00:18:50,472
+sur le point de faire une dépression nerveuse.
+
+398
+00:18:52,460 --> 00:18:53,640
+Ouais. Gibbs.
+
+399
+00:18:54,030 --> 00:18:54,869
+<i>Hola.</i>
+
+400
+00:18:55,484 --> 00:18:57,367
+Comment c'est le Mexique ?
+
+401
+00:18:57,434 --> 00:18:58,740
+Ziva.
+
+402
+00:18:58,980 --> 00:19:00,413
+Comment tu as eu ce numéro ?
+
+403
+00:19:00,497 --> 00:19:03,957
+C'est Abby, et si ça peut aider, j'ai dû la forcer.
+
+404
+00:19:04,024 --> 00:19:06,166
+Non, ça n'aide pas. Qu'est-ce qui va pas ?
+
+405
+00:19:06,570 --> 00:19:08,401
+Pourquoi ça n'irait pas ?
+
+406
+00:19:08,467 --> 00:19:10,995
+Je ne peux pas seulement parler à un vieil ami ?
+
+407
+00:19:11,030 --> 00:19:13,124
+Garder un peu le contact ?
+
+408
+00:19:13,208 --> 00:19:14,614
+Aujourd'hui, Ziva.
+
+409
+00:19:15,140 --> 00:19:16,210
+O.K.
+
+410
+00:19:19,950 --> 00:19:22,057
+J'ai peut-être quelques petits ennuis.
+
+411
+00:19:22,191 --> 00:19:23,430
+Ah ouais ?
+
+412
+00:19:24,450 --> 00:19:25,769
+Quel genre de "petits" ?
+
+413
+00:19:25,770 --> 00:19:27,673
+Je fuis en ce moment...
+
+414
+00:19:27,873 --> 00:19:31,275
+le FBI, le NCIS, le mossad et mon père.
+
+415
+00:19:31,342 --> 00:19:32,618
+Bon dieu, qu'est-ce que t'as fait ?
+
+416
+00:19:32,652 --> 00:19:33,970
+Je n'ai rien fait Gibbs.
+
+417
+00:19:34,640 --> 00:19:36,249
+Je jure que je n'ai rien fait.
+
+418
+00:19:36,250 --> 00:19:37,744
+Où est DiNozzo ?
+
+419
+00:19:37,777 --> 00:19:39,133
+Il ne peut pas m'aider.
+
+420
+00:19:39,200 --> 00:19:40,629
+Tu devrais parler à Jenny.
+
+421
+00:19:40,630 --> 00:19:41,829
+Jenny peut t'aider.
+
+422
+00:19:41,830 --> 00:19:43,007
+Je ne peux pas...
+
+423
+00:19:43,074 --> 00:19:44,889
+Ziva, écoute je suis à la retraite.
+
+424
+00:19:44,890 --> 00:19:46,439
+Je suis à 5000 km de toi.
+
+425
+00:19:46,440 --> 00:19:49,170
+Tu crois que je peux faire quelque chose
+qu'ils ne peuvent pas ?
+
+426
+00:19:50,230 --> 00:19:52,110
+Honnêtement je ne sais pas.
+
+427
+00:19:53,670 --> 00:19:56,141
+J'espérais peut-être que...
+
+428
+00:19:58,070 --> 00:19:59,540
+tu me sauves.
+
+429
+00:20:07,250 --> 00:20:08,419
+Deux jours...
+
+430
+00:20:08,420 --> 00:20:09,749
+Ils vont encore rester combien de temps ?
+
+431
+00:20:09,750 --> 00:20:11,549
+L'officier David a été là pendant un an.
+
+432
+00:20:11,550 --> 00:20:13,849
+Qui sait à quel point elle a mis en péril notre sécurité ?
+
+433
+00:20:13,850 --> 00:20:15,406
+Tu as dis quoi, bizut ?
+
+434
+00:20:15,456 --> 00:20:16,929
+Allez, McGee.
+
+435
+00:20:16,996 --> 00:20:18,749
+Tu crois que l'on n'espionne pas nos alliés aussi ?
+
+436
+00:20:18,750 --> 00:20:20,109
+Ça arrive tout le temps.
+
+437
+00:20:20,110 --> 00:20:21,393
+Agent Lee.
+
+438
+00:20:21,678 --> 00:20:22,189
+Monsieur ?
+
+439
+00:20:22,190 --> 00:20:23,219
+La ferme et garde un oeil sur les fédéraux.
+
+440
+00:20:23,220 --> 00:20:25,862
+McGee, tu viens avec moi, on doit aller quelque part.
+
+441
+00:20:26,300 --> 00:20:28,966
+On a bientôt fini, DiNozzo, dans...
+
+442
+00:20:29,016 --> 00:20:30,958
+cinq ou six heures.
+
+443
+00:20:33,610 --> 00:20:37,715
+Premièrement, tout ça est basé sur le volontariat.
+
+444
+00:20:37,820 --> 00:20:39,590
+Ziva est une fugitive.
+
+445
+00:20:39,900 --> 00:20:41,709
+Celui qui est pris en train de l'aider
+
+446
+00:20:41,710 --> 00:20:45,339
+ou de l'assister d'une quelconque façon aura de graves ennuis.
+
+447
+00:20:45,355 --> 00:20:47,841
+- Palmer ?
+- Par sérieux,
+
+448
+00:20:47,890 --> 00:20:50,272
+vous voulez dire, on pourrait être renvoyé ?
+
+449
+00:20:50,320 --> 00:20:51,529
+Il veut dire M. Palmer,
+
+450
+00:20:51,530 --> 00:20:54,255
+qu'au lieu d'être à l'école de médecine le mois prochain,
+
+451
+00:20:54,305 --> 00:20:57,025
+vous serez plus vraisemblablement en prison.
+
+452
+00:20:57,092 --> 00:20:58,330
+Oh.
+
+453
+00:20:59,880 --> 00:21:00,899
+J'en suis.
+
+454
+00:21:00,900 --> 00:21:02,999
+Danger, intrigue, une demoiselle en détresse...
+
+455
+00:21:03,000 --> 00:21:05,585
+Je suis impatient d'y être.
+
+456
+00:21:05,610 --> 00:21:06,841
+Moi aussi.
+
+457
+00:21:08,780 --> 00:21:09,909
+Je suis pas vraiment le genre
+
+458
+00:21:09,910 --> 00:21:12,581
+à s'accommoder à la prison, les gars.
+
+459
+00:21:12,615 --> 00:21:14,975
+Personne ne va dire du mal de toi
+si tu restes en dehors, Palmer.
+
+460
+00:21:15,008 --> 00:21:15,778
+C'est vrai ?
+
+461
+00:21:15,845 --> 00:21:17,639
+Non, ils le feront sûrement,
+
+462
+00:21:17,640 --> 00:21:19,853
+comme je vais le faire.
+
+463
+00:21:20,339 --> 00:21:21,249
+D'accord, mais je veux un nom de code,
+
+464
+00:21:21,250 --> 00:21:22,949
+quelque chose qui sonne bien.
+
+465
+00:21:23,000 --> 00:21:23,903
+O.K.
+
+466
+00:21:24,460 --> 00:21:27,728
+Personne ne doit apprendre tout ça,
+en particulier le directeur.
+
+467
+00:21:28,070 --> 00:21:29,803
+On est tous d'accord ?
+
+468
+00:21:31,350 --> 00:21:34,548
+D'accord, alors cherchons comment la trouver.
+
+469
+00:21:34,620 --> 00:21:37,079
+McGee, Je veux que tu suives ses traces électroniques.
+
+470
+00:21:37,080 --> 00:21:39,869
+Téléphone portable, ordinateur, grille-pain si tu veux.
+
+471
+00:21:39,870 --> 00:21:42,778
+Ducky, essaye de parler à tes contacts au FBI.
+
+472
+00:21:42,828 --> 00:21:45,280
+Je veux tout savoir sur cette scène de crime à Georgetown.
+
+473
+00:21:45,297 --> 00:21:47,640
+Palmer, ça sonne bien "Poumon Noir" ?
+
+474
+00:21:47,940 --> 00:21:50,016
+On dirait une horrible façon de mourir.
+
+475
+00:21:50,083 --> 00:21:51,119
+Je parle de ton nom de code.
+
+476
+00:21:51,120 --> 00:21:52,340
+J'aime bien. Oui.
+
+477
+00:21:52,450 --> 00:21:56,150
+Alors tu seras en charge du ravitaillement, Poumon Noir.
+
+478
+00:21:56,184 --> 00:21:59,824
+ce qui inclut les repas, et à cette heure-ci, sûrement le dîner.
+
+479
+00:21:59,874 --> 00:22:02,736
+- Abby, je veux que tu ailles...
+- J'ai parlé à Ziva hier.
+
+480
+00:22:03,930 --> 00:22:06,119
+Tu ne fais pas de bowling avec les nonnes.
+
+481
+00:22:06,186 --> 00:22:07,199
+J'aurais dû le voir venir.
+
+482
+00:22:07,200 --> 00:22:08,897
+Mais si.
+
+483
+00:22:09,590 --> 00:22:11,784
+Ziva m'a fait promettre de ne rien dire.
+
+484
+00:22:11,818 --> 00:22:15,420
+Pourquoi Ziva ne voudrait pas que l'on sache
+que tu fais du bowling avec des nonnes ?
+
+485
+00:22:15,487 --> 00:22:17,869
+Elle voulait dire que Ziva ne voulait pas
+que l'on ait des problèmes, Ducky.
+
+486
+00:22:17,870 --> 00:22:19,860
+C'est un peu tard pour ça.
+
+487
+00:22:19,927 --> 00:22:21,416
+Où est-elle ?
+
+488
+00:22:23,410 --> 00:22:25,308
+J'ai juste son numéro de téléphone.
+
+489
+00:22:32,080 --> 00:22:33,870
+Ça ne répond pas.
+
+490
+00:22:34,170 --> 00:22:36,155
+Abby, tu es sûre que c'est...
+
+491
+00:22:36,205 --> 00:22:37,079
+Ziva.
+
+492
+00:22:37,343 --> 00:22:39,050
+Dis à Abby que je vais la tuer.
+
+493
+00:22:39,452 --> 00:22:41,000
+Nous aussi on t'aime.
+
+494
+00:22:41,033 --> 00:22:42,071
+Je vais raccrocher.
+
+495
+00:22:42,121 --> 00:22:42,729
+Non, tu ne le fais pas.
+
+496
+00:22:42,730 --> 00:22:44,364
+Tu vas plutôt me dire ce qui se passe.
+
+497
+00:22:44,414 --> 00:22:46,314
+Ton téléphone pourrait être sur écoute, Tony.
+
+498
+00:22:46,364 --> 00:22:47,089
+Alors je vais venir te voir.
+
+499
+00:22:47,090 --> 00:22:48,889
+J'essaye aussi de joindre Gibbs
+
+500
+00:22:48,890 --> 00:22:50,447
+en ce moment, mais sans succès.
+
+501
+00:22:50,481 --> 00:22:51,881
+Gibbs ?
+
+502
+00:22:51,947 --> 00:22:53,521
+Pourquoi tu ne l'as pas dit plus tôt.
+
+503
+00:22:54,609 --> 00:22:55,679
+DiNozzo,
+
+504
+00:22:56,299 --> 00:23:00,968
+tu as dix secondes pour me dire pourquoi je suis pas au Mexique à construire mon spa en teck.
+
+505
+00:23:02,900 --> 00:23:04,010
+Neuf...
+
+506
+00:23:09,640 --> 00:23:11,520
+La cible était Abdul Wazir.
+
+507
+00:23:11,590 --> 00:23:14,097
+Un Syrien recherché pour crimes contre Israël.
+
+508
+00:23:14,130 --> 00:23:16,980
+Éliminé par cet agent du mossad, Namir Eschel,
+
+509
+00:23:17,047 --> 00:23:18,620
+mon ancien coéquipier
+
+510
+00:23:18,637 --> 00:23:21,156
+quand j'étais à Paris.
+
+511
+00:23:21,250 --> 00:23:22,812
+Il est censé être mort.
+
+512
+00:23:23,880 --> 00:23:25,122
+Apparemment il va mieux.
+
+513
+00:23:25,172 --> 00:23:27,181
+Ça fait une bonne couverture d'être mort.
+
+514
+00:23:28,730 --> 00:23:29,549
+Je pourrais être d'accord,
+
+515
+00:23:29,550 --> 00:23:33,323
+mais mon père soutient qu'il ne savait rien
+de ses activités.
+
+516
+00:23:33,357 --> 00:23:34,445
+Je le croirais bien.
+
+517
+00:23:36,020 --> 00:23:36,859
+Combien de fois je vais devoir te dire que,
+
+518
+00:23:36,860 --> 00:23:40,277
+- je ne crois pas aux...
+- Aux coïncidences ? Je sais.
+
+519
+00:23:40,294 --> 00:23:41,901
+Heureusement pour toi, moi non plus.
+
+520
+00:23:41,968 --> 00:23:44,085
+Et d'après le FBI, je devrais être celui qui
+
+521
+00:23:44,168 --> 00:23:45,309
+pointe cette arme sur toi.
+
+522
+00:23:45,310 --> 00:23:47,315
+Tu as été piégée.
+
+523
+00:23:48,400 --> 00:23:50,679
+Le seul officier de liaison du mossad à Washington
+
+524
+00:23:50,680 --> 00:23:54,118
+est comme par hasard témoin d'une opération typique du Metsada* ?
+
+525
+00:23:54,119 --> 00:23:54,120
+[*]Metsada : Organisation du mossad qui gère les opérations d'assassinat, de sabotage...
+
+526
+00:24:01,170 --> 00:24:02,817
+Mon dieu, je suis une idiote.
+
+527
+00:24:02,867 --> 00:24:04,591
+Il m'a amenée sur la scène.
+
+528
+00:24:04,708 --> 00:24:06,156
+Eschel m'a tendu un piège.
+
+529
+00:24:06,239 --> 00:24:07,639
+*Insulte en Hebreu*
+
+530
+00:24:07,640 --> 00:24:09,424
+Mais la question c'est pourquoi ?
+
+531
+00:24:10,020 --> 00:24:11,650
+J'ai pensé que vous pourriez avoir besoin de ça.
+
+532
+00:24:14,070 --> 00:24:15,479
+Je parlais du portable du NCIS.
+
+533
+00:24:15,480 --> 00:24:16,139
+Ça c'est mon...
+
+534
+00:24:16,140 --> 00:24:17,788
+café, patron.
+
+535
+00:24:18,910 --> 00:24:21,521
+Est-ce que je ressemble encore à ton patron ?
+
+536
+00:24:22,880 --> 00:24:25,684
+Peut-être, si tu te rases et...
+
+537
+00:24:25,810 --> 00:24:28,111
+passes chez le coiffeur... Ça ferait pas de mal.
+
+538
+00:24:28,445 --> 00:24:30,369
+Ce petit sourire, ça me déstabilise aussi.
+
+539
+00:24:30,378 --> 00:24:33,023
+Ça fait du bien de te revoir, McGee.
+
+540
+00:24:33,340 --> 00:24:34,299
+DiNozzo.
+
+541
+00:24:35,237 --> 00:24:36,219
+J'ai dit quoi ?
+
+542
+00:24:36,220 --> 00:24:37,446
+Tu l'as appelé McGee.
+
+543
+00:24:39,790 --> 00:24:41,819
+C'est sûrement parce que si je l'avais nommé responsable,
+
+544
+00:24:41,820 --> 00:24:45,078
+tu ne serais pas parmi les dix personnes les plus recherchées par le FBI.
+
+545
+00:24:47,470 --> 00:24:49,241
+Mais tu te souviens...
+
+546
+00:24:49,870 --> 00:24:50,949
+Que je t'ai nommé responsable ?
+
+547
+00:24:50,950 --> 00:24:52,999
+Ouais, je m'en souviens, DiNozzo.
+
+548
+00:24:53,000 --> 00:24:54,869
+Ce que j'avais oublié c'est ton goût de café.
+
+549
+00:24:54,870 --> 00:24:56,630
+Ça pue.
+
+550
+00:24:57,032 --> 00:24:59,124
+J'aime le sucre. C'est ma faiblesse.
+
+551
+00:24:59,141 --> 00:24:59,994
+Quel est notre plan ?
+
+552
+00:25:00,044 --> 00:25:02,359
+Ça va assez mal comme ça pour le NCIS, Tony.
+Tu ne peux...
+
+553
+00:25:02,360 --> 00:25:05,178
+Je ne me souviens pas de vous avoir
+demandé votre avis, officier David.
+
+554
+00:25:05,250 --> 00:25:06,182
+Tu vois ?
+
+555
+00:25:06,220 --> 00:25:08,149
+Il est totalement insupportable depuis que tu es parti.
+
+556
+00:25:08,150 --> 00:25:09,806
+C'est vrai, Tony ?
+
+557
+00:25:10,430 --> 00:25:11,239
+Quand j'ai besoin de l'être.
+
+558
+00:25:11,563 --> 00:25:12,467
+Ouais ?
+
+559
+00:25:13,550 --> 00:25:15,830
+Peut-être que tu étais approprié pour ce boulot.
+
+560
+00:25:18,870 --> 00:25:20,111
+Notre plan
+
+561
+00:25:20,360 --> 00:25:23,291
+est de trouver ce type avant qu'il ne quitte le pays.
+
+562
+00:25:23,860 --> 00:25:25,899
+Comment fait-on un avis de recherche
+
+563
+00:25:25,900 --> 00:25:28,070
+sans que le FBI s'en aperçoive ?
+
+564
+00:25:28,187 --> 00:25:30,145
+<i>Je savais que tu me demanderais ça, McGee.</i>
+
+565
+00:25:30,170 --> 00:25:31,869
+Tu vois ? Je savais que tu me demanderais ça, McGee.
+
+566
+00:25:32,137 --> 00:25:33,175
+Et ?
+
+567
+00:25:33,492 --> 00:25:35,039
+Et je... je ne sais pas.
+
+568
+00:25:35,040 --> 00:25:36,039
+Des suggestions ?
+
+569
+00:25:36,040 --> 00:25:38,119
+Nous pourrions parler de Eschel au FBI
+
+570
+00:25:38,120 --> 00:25:39,239
+et les laisser le chercher.
+
+571
+00:25:39,240 --> 00:25:40,839
+Quand ils nous demanderont comment on sait...
+
+572
+00:25:40,840 --> 00:25:42,848
+Ils sauront que l'on a parlé à Ziva.
+
+573
+00:25:43,720 --> 00:25:45,183
+McGee.
+
+574
+00:25:45,250 --> 00:25:46,711
+Tony, et si on ment ?
+
+575
+00:25:46,712 --> 00:25:48,529
+Sacks se prend pour le nombril du monde,
+
+576
+00:25:48,530 --> 00:25:51,250
+c'est un trou du cul égoïste...
+
+577
+00:25:51,430 --> 00:25:53,660
+...mais ce n'est pas un idiot. Il saura.
+
+578
+00:25:53,750 --> 00:25:55,258
+Non, je veux dire
+
+579
+00:25:55,342 --> 00:25:56,619
+mentir sur l'avis de recherche.
+
+580
+00:25:56,620 --> 00:26:00,689
+Plutôt que de chercher un méchant espion du Mossad recherché pour meurtre,
+
+581
+00:26:00,790 --> 00:26:03,451
+on fait un avis pour violences conjugales.
+
+582
+00:26:04,230 --> 00:26:06,309
+C'est sournois, intrigant...
+
+583
+00:26:06,310 --> 00:26:08,798
+Et ça m'excite au plus haut point.
+
+584
+00:26:09,210 --> 00:26:11,865
+Bien, je suis heureux de voir que finalement
+je déteins sur lui.
+
+585
+00:26:11,880 --> 00:26:13,254
+<i>Fais-le.</i>
+
+586
+00:26:20,660 --> 00:26:22,572
+C'est l'une de nos anciennes maisons sécurisées.
+
+587
+00:26:23,080 --> 00:26:28,120
+On se gare sur une voie d'accès pourrie 200 m derrière elle
+et on entre par l'arrière.
+
+588
+00:26:28,670 --> 00:26:30,229
+Tu sais qu'il ne va pas être là.
+
+589
+00:26:30,330 --> 00:26:32,735
+C'est le premier endroit où le Mossad va essayer
+de le retrouver.
+
+590
+00:26:32,802 --> 00:26:35,145
+Le Mossad ne connaît pas cet endroit en particulier.
+
+591
+00:26:35,990 --> 00:26:37,790
+J'ai installé celui-ci pour Ari.
+
+592
+00:26:38,050 --> 00:26:39,580
+Comment Eschel le connaît ?
+
+593
+00:26:39,631 --> 00:26:41,529
+Quand Ari a infiltré le NCIS il y a 3 ans,
+
+594
+00:26:41,530 --> 00:26:44,865
+Eschel faisait partie de son équipe auxiliaire.
+
+595
+00:26:46,260 --> 00:26:48,965
+Un agent du FBI a été tué, d'ailleurs.
+
+596
+00:26:49,970 --> 00:26:52,225
+Finissons-en.
+
+597
+00:26:52,292 --> 00:26:54,350
+J'ai une plage qui m'attend à Mexico.
+
+598
+00:27:04,510 --> 00:27:06,617
+Fait un seul geste et on te tire dessus !
+
+599
+00:27:10,730 --> 00:27:12,100
+R.A.S.
+
+600
+00:27:17,980 --> 00:27:20,230
+Il est mort. La rigidité cadavérique est déjà là.
+
+601
+00:27:20,280 --> 00:27:22,087
+Comment sais-tu qu'il ne fait pas semblant ?
+
+602
+00:27:22,140 --> 00:27:23,979
+Bien, tire lui dessus si tu ne me crois pas.
+
+603
+00:27:26,184 --> 00:27:27,753
+Tu ferais mieux d'espérer que ça ne soit pas Eschel.
+
+604
+00:27:28,360 --> 00:27:30,213
+Pourquoi ? Tu veux le tuer toi-même maintenant ?
+
+605
+00:27:31,480 --> 00:27:33,552
+Mais je ne le ferai pas et toi non plus.
+
+606
+00:27:33,602 --> 00:27:34,419
+On le capture vivant.
+
+607
+00:27:34,420 --> 00:27:37,786
+On le tue, il est impossible de prouver que tu n'étais pas dans le coup.
+
+608
+00:27:39,160 --> 00:27:40,840
+Il te rappelle quelqu'un ?
+
+609
+00:27:41,780 --> 00:27:43,251
+Il n'est pas du Mossad.
+
+610
+00:27:44,330 --> 00:27:46,790
+Eschel essaie manifestement de boucler son travail.
+
+611
+00:27:46,874 --> 00:27:48,949
+Ouais, bien, tu en fais partie.
+
+612
+00:27:48,950 --> 00:27:51,482
+Déploie-toi, commence à regarder autour.
+
+613
+00:27:51,600 --> 00:27:52,579
+Pour faire quoi exactement ?
+
+614
+00:27:52,580 --> 00:27:55,507
+N'importe quoi qui nous aiderait à trouver où il est allé.
+
+615
+00:27:55,523 --> 00:27:56,427
+Bien.
+
+616
+00:28:01,460 --> 00:28:02,699
+Elle ressemble un peu à son frère,
+
+617
+00:28:02,700 --> 00:28:04,105
+tu ne trouves pas ?
+
+618
+00:28:04,420 --> 00:28:06,147
+Plutôt à son père.
+
+619
+00:28:06,930 --> 00:28:08,302
+Qui est l'homme ?
+
+620
+00:28:08,368 --> 00:28:10,176
+Quelqu'un qui ne devrait pas être avec elle.
+
+621
+00:28:10,240 --> 00:28:13,624
+L'agent spécial retraité Leroy Jethro Gibbs.
+
+622
+00:28:23,590 --> 00:28:24,440
+Sacks.
+
+623
+00:28:26,540 --> 00:28:27,910
+Qui est-ce ?
+
+624
+00:28:29,030 --> 00:28:31,062
+Comment je sais si c'est sérieux ?
+
+625
+00:28:36,830 --> 00:28:37,941
+On a un tuyau, les gars.
+
+626
+00:28:37,974 --> 00:28:39,548
+Une maison à Fairfax.
+
+627
+00:29:01,669 --> 00:29:02,845
+Il n'y a rien ici.
+
+628
+00:29:03,012 --> 00:29:05,774
+Eschel a toujours été bon pour couvrir ses arrières.
+
+629
+00:29:12,400 --> 00:29:14,213
+Qu'est-ce qu'il y a ?
+
+630
+00:29:18,740 --> 00:29:20,770
+Il nous a eus.
+
+631
+00:29:21,490 --> 00:29:22,514
+***
+Impossible.
+
+632
+00:29:22,564 --> 00:29:24,706
+J'ai placé cette caméra moi-même.
+
+633
+00:29:42,970 --> 00:29:44,039
+On doit la faire exploser maintenant.
+
+634
+00:29:44,040 --> 00:29:46,366
+Non, on attend le FBI, Faatin.
+
+635
+00:29:46,416 --> 00:29:49,259
+On doit croire que Ziva s'est tuée elle-même
+plutôt que de se rendre.
+
+636
+00:29:49,260 --> 00:29:51,856
+Et si elle part avant qu'ils n'arrivent là-bas, Namir ?
+
+637
+00:29:52,770 --> 00:29:54,266
+Je vais la retarder.
+
+638
+00:29:59,770 --> 00:30:01,039
+Il nous regardait.
+
+639
+00:30:01,040 --> 00:30:03,676
+Ça a pu être laissé depuis qu'Ari était...
+
+640
+00:30:04,090 --> 00:30:06,086
+Il nous regardait.
+
+641
+00:30:08,880 --> 00:30:09,960
+Quoi ?
+
+642
+00:30:10,010 --> 00:30:11,659
+Je croyais que tu étais parti en retraite.
+
+643
+00:30:11,660 --> 00:30:12,877
+Ouais ?
+
+644
+00:30:13,200 --> 00:30:14,835
+Je croyais que tu étais mort.
+
+645
+00:30:15,170 --> 00:30:17,052
+Pour le Mossad, je le suis.
+
+646
+00:30:17,052 --> 00:30:18,429
+Nous savons que tu es vivant maintenant.
+
+647
+00:30:18,429 --> 00:30:19,797
+Je projette de régler ça.
+
+648
+00:30:20,120 --> 00:30:22,023
+Pauvre directeur David.
+
+649
+00:30:22,100 --> 00:30:25,356
+Premièrement, son fils est un traître et maintenant sa fille.
+
+650
+00:30:25,423 --> 00:30:26,149
+À cette heure-ci demain,
+
+651
+00:30:26,150 --> 00:30:28,084
+il travaillera dans un kibboutz.
+
+652
+00:30:28,318 --> 00:30:30,661
+A moins, bien sûr, qu'il se tue avant.
+
+653
+00:30:31,140 --> 00:30:32,539
+Est-ce vrai ?
+
+654
+00:30:32,870 --> 00:30:34,399
+As-tu tué Ari Haswari ?
+
+655
+00:30:35,521 --> 00:30:36,459
+Il nous retarde.
+
+656
+00:30:36,941 --> 00:30:39,036
+- Pourquoi ?
+- Je suis la fin de son travail, tu te souviens ?
+
+657
+00:30:39,090 --> 00:30:40,049
+Il a appelé le FBI.
+
+658
+00:30:40,050 --> 00:30:41,570
+Ce n'est pas ce qui m'inquiète.
+
+659
+00:30:41,623 --> 00:30:44,757
+Quand notre maison sécurisée a été compromise
+à Paris, Eschel l'a faite sauter.
+
+660
+00:31:01,130 --> 00:31:03,030
+Shalom Ziva.
+
+661
+00:31:16,470 --> 00:31:18,554
+Nous ne sommes toujours pas sûrs de ce qu'il s'est passé, DiNozzo.
+
+662
+00:31:18,607 --> 00:31:20,710
+Ou si elle y était encore quand l'endroit a explosé.
+
+663
+00:31:21,100 --> 00:31:22,008
+Il y a des corps ?
+
+664
+00:31:22,048 --> 00:31:23,327
+Non, tout a brûlé
+
+665
+00:31:23,367 --> 00:31:26,581
+Nous ne serons même pas capables de traiter la scène avant au moins demain.
+
+666
+00:31:26,835 --> 00:31:29,064
+- Qu'est-ce qui vous fait penser qu'elle était là ?
+- Un tuyau.
+
+667
+00:31:29,105 --> 00:31:30,042
+De qui ?
+
+668
+00:31:30,618 --> 00:31:31,649
+Anonyme.
+
+669
+00:31:31,650 --> 00:31:33,679
+J'imagine que c'est probablement quelqu'un
+
+670
+00:31:33,680 --> 00:31:35,712
+dans le Mossad qui essaie de bien faire...
+
+671
+00:31:35,779 --> 00:31:37,228
+Quelqu'un essaie de terminer le boulot.
+
+672
+00:31:37,938 --> 00:31:38,599
+Bien, d'après ce que l'on sait,
+
+673
+00:31:38,600 --> 00:31:41,396
+elle a fait exploser la maison pour couvrir ses arrières.
+
+674
+00:31:41,449 --> 00:31:43,501
+Bien, elle était juste en train de chercher le type qui l'a piégée.
+
+675
+00:31:43,622 --> 00:31:45,714
+Ça vous dérangerait de me dire comment vous savez ça ?
+
+676
+00:31:45,767 --> 00:31:46,920
+Parce que c'est ce que j'aurais fait.
+
+677
+00:31:54,950 --> 00:31:55,929
+C'est pas bon, Ducky.
+
+678
+00:31:56,706 --> 00:31:58,350
+Tu as réussi à les appeler, n'est-ce pas ?
+
+679
+00:31:58,970 --> 00:32:00,689
+Je tombe sur la messagerie de Gibbs.
+
+680
+00:32:00,837 --> 00:32:01,759
+Je ne pense pas qu'il ait appris à l'utiliser.
+
+681
+00:32:02,474 --> 00:32:04,599
+Et le numéro qu'Abby avait pour Ziva ?
+
+682
+00:32:04,783 --> 00:32:05,961
+Ça ne décroche pas.
+
+683
+00:32:06,028 --> 00:32:07,638
+Alors, il ne te reste qu'une seule chose à faire.
+
+684
+00:32:07,679 --> 00:32:08,295
+Je sais.
+
+685
+00:32:08,340 --> 00:32:10,059
+On fera savoir au directeur qu'ils sont probablement morts et
+
+686
+00:32:10,060 --> 00:32:11,859
+on démissionnera pour désobéissance à un ordre direct.
+
+687
+00:32:11,913 --> 00:32:14,818
+Tu ne feras rien de la sorte, Anthony DiNozzo.
+
+688
+00:32:19,410 --> 00:32:20,209
+Et pourquoi ça ?
+
+689
+00:32:20,210 --> 00:32:23,026
+Parce que l'homme qui a fait ça est toujours dehors
+
+690
+00:32:23,039 --> 00:32:25,667
+et je serais maudit si nous le laissons partir comme ça.
+
+691
+00:32:26,042 --> 00:32:28,372
+C'est ce que Gibbs ferait, vrai ?
+
+692
+00:32:29,660 --> 00:32:30,869
+J'ai une information pour toi, Ducky.
+
+693
+00:32:31,077 --> 00:32:32,069
+Je ne suis pas Gibbs.
+
+694
+00:32:32,255 --> 00:32:34,360
+Non. Tu ne l'es pas.
+
+695
+00:32:34,930 --> 00:32:36,372
+Gibbs est parti.
+
+696
+00:32:36,530 --> 00:32:38,032
+Tu es toujours là.
+
+697
+00:32:38,250 --> 00:32:39,970
+Pourquoi je n'étais pas avec Ziva ?
+
+698
+00:32:40,064 --> 00:32:41,879
+Je n'ai pas assumé mes responsabilités envers lui.
+
+699
+00:32:41,880 --> 00:32:43,853
+sans même y penser.
+
+700
+00:32:45,650 --> 00:32:47,669
+Gibbs est l'un des agents les plus compétents...
+
+701
+00:32:47,670 --> 00:32:50,671
+Était, Ducky ! Tu ne l'as pas vu.
+
+702
+00:32:50,764 --> 00:32:51,899
+Je veux dire, il ne ressemble même plus à Gibbs.
+
+703
+00:32:51,900 --> 00:32:53,770
+Je pense qu'il est devenu indigène là-bas.
+
+704
+00:32:53,797 --> 00:32:54,440
+Euh, Tony...
+
+705
+00:32:54,500 --> 00:32:56,639
+Ses cheveux sont longs et en pétard
+
+706
+00:32:56,640 --> 00:32:58,179
+et il a cette espèce de barbe irrégulière.
+
+707
+00:32:58,180 --> 00:33:00,177
+Il ressemble à un pirate ou quelque chose comme ça.
+
+708
+00:33:00,230 --> 00:33:01,609
+Ses yeux étaient injectés de sang,
+
+709
+00:33:01,610 --> 00:33:04,439
+probablement parce qu'il boit de la gnôle
+du matin au soir avec Franks.
+
+710
+00:33:04,460 --> 00:33:07,224
+Ils appellent bien ce tord-boyau "Oeil rouge"
+pour une raison
+
+711
+00:33:10,790 --> 00:33:13,533
+Le vol dans lequel j'étais a mis toute la nuit pour venir ici.
+
+712
+00:33:14,517 --> 00:33:16,700
+Oh, chef, très bien.
+
+713
+00:33:17,870 --> 00:33:19,289
+Bien, très bien, merci Dieu.
+
+714
+00:33:19,599 --> 00:33:21,165
+Ouais, remercie Ziva.
+
+715
+00:33:21,550 --> 00:33:23,409
+Je me suis déjà fait sauter deux fois, Tony.
+
+716
+00:33:23,410 --> 00:33:25,242
+Je ne crois pas que j'ai une troisième chance pour moi.
+
+717
+00:33:26,030 --> 00:33:27,239
+Place 73.
+
+718
+00:33:27,240 --> 00:33:29,419
+Le cadeau est à l'arrière pour autopsie et Abby.
+
+719
+00:33:29,420 --> 00:33:30,829
+Sois discret.
+
+720
+00:33:31,100 --> 00:33:31,999
+Salut Duck.
+
+721
+00:33:32,295 --> 00:33:33,269
+Bienvenue à la maison, Jethro.
+
+722
+00:33:33,270 --> 00:33:35,083
+Oh, ce n'est pas la bonne personne.
+
+723
+00:33:35,431 --> 00:33:36,729
+Je ne fais que visiter.
+
+724
+00:33:36,730 --> 00:33:38,424
+Tu ferais mieux de dire à Palmer que
+
+725
+00:33:38,477 --> 00:33:40,030
+ça va être une longue nuit.
+
+726
+00:33:47,100 --> 00:33:49,051
+Cette vue m'a vraiment manquée.
+
+727
+00:33:52,680 --> 00:33:54,698
+La vue du port n'est pas mal non plus...
+
+728
+00:33:57,840 --> 00:34:00,954
+J'avais le sentiment que je te reverrais bientôt, Jethro.
+
+729
+00:34:01,322 --> 00:34:02,367
+Comment va-t-elle ?
+
+730
+00:34:02,675 --> 00:34:03,892
+Elle a peur,
+
+731
+00:34:04,241 --> 00:34:05,913
+bien qu'elle ne l'admette jamais.
+
+732
+00:34:05,967 --> 00:34:07,419
+Le NCIS ne peut rien pour elle.
+
+733
+00:34:07,487 --> 00:34:09,536
+Eh bien c'est pour ça que je suis là.
+Je ne suis pas du NCIS
+
+734
+00:34:09,695 --> 00:34:10,723
+je suis à la retraite,
+tu te souviens ?
+
+735
+00:34:10,804 --> 00:34:12,494
+Je ne devrais même pas te parler.
+
+736
+00:34:12,516 --> 00:34:15,538
+Si on te le demande, dis juste qu'on est deux
+anciens partenaires qui se sont retrouvés.
+
+737
+00:34:15,680 --> 00:34:18,019
+Mon agence a hébergé
+
+738
+00:34:18,020 --> 00:34:20,319
+un agent étranger pendant un an,
+
+739
+00:34:20,320 --> 00:34:24,168
+que j'avais personnellement recommandé
+car on en avait besoin.
+
+740
+00:34:24,288 --> 00:34:25,768
+Elle n'a rien fait.
+
+741
+00:34:25,808 --> 00:34:27,160
+Tu crois que je ne le sais pas ?
+
+742
+00:34:27,200 --> 00:34:29,892
+Je ne fais que rapporter ce qui se dit dans le coin.
+
+743
+00:34:29,972 --> 00:34:33,276
+Je me suis donnée 24 heures avant qu'ils ne demandent ma démission.
+
+744
+00:34:33,390 --> 00:34:34,941
+Ne la leur donne pas.
+
+745
+00:34:35,035 --> 00:34:36,039
+Elle a été piégée.
+
+746
+00:34:36,093 --> 00:34:37,097
+Par qui ?
+
+747
+00:34:37,150 --> 00:34:39,498
+Un ancien agent du Mossad.
+
+748
+00:34:39,725 --> 00:34:42,657
+Prétendant prendre sa revanche
+sur le père de Ziva.
+
+749
+00:34:42,698 --> 00:34:44,157
+Qu'est-ce que tu en penses ?
+
+750
+00:34:45,160 --> 00:34:47,238
+Mes tripes me disent que c'est plus gros que ça.
+
+751
+00:34:48,260 --> 00:34:49,309
+Je suis d'accord.
+
+752
+00:34:49,310 --> 00:34:53,036
+Ça dépasse le niveau du directeur
+du NCIS ou du Mossad.
+
+753
+00:34:53,786 --> 00:34:56,065
+Cet incident pourrait compromettre les relations
+
+754
+00:34:56,087 --> 00:34:57,898
+entre nos deux pays pour des années.
+
+755
+00:34:57,951 --> 00:35:00,388
+Je crois que quelqu'un l'a engagé
+justement pour ça.
+
+756
+00:35:00,469 --> 00:35:02,139
+Je peux imaginer une dizaine de pays
+
+757
+00:35:02,140 --> 00:35:04,988
+et une douzaine de groupes terroristes
+qui payeraient la note.
+
+758
+00:35:05,028 --> 00:35:06,889
+Oh, ouais, moi aussi.
+
+759
+00:35:06,929 --> 00:35:08,951
+C'est pourquoi j'ai besoin d'un service.
+
+760
+00:35:09,232 --> 00:35:10,129
+Je t'écoute.
+
+761
+00:35:10,678 --> 00:35:11,842
+Il est tard.
+
+762
+00:35:12,670 --> 00:35:15,524
+Rentre chez toi, rattrape un peu de sommeil.
+
+763
+00:35:15,910 --> 00:35:17,529
+Pour te laisser faire...
+
+764
+00:35:17,951 --> 00:35:19,029
+Ouais.
+
+765
+00:35:19,940 --> 00:35:21,577
+C'est à peu près ça.
+
+766
+00:35:23,400 --> 00:35:24,480
+Merci.
+
+767
+00:35:25,360 --> 00:35:28,200
+- Jethro, c'est bon de...
+- Je ne suis pas de retour, Jen.
+
+768
+00:35:28,267 --> 00:35:30,624
+Je rends juste service à une amie.
+
+769
+00:35:31,180 --> 00:35:34,225
+Je voulais seulement parler de ta coiffure.
+
+770
+00:35:35,380 --> 00:35:37,542
+C'est bon de te revoir avec les cheveux longs.
+
+771
+00:35:37,636 --> 00:35:40,501
+Ça me rappelle notre planque en Serbie.
+
+772
+00:35:40,700 --> 00:35:41,964
+La Serbie ?
+
+773
+00:35:42,473 --> 00:35:45,677
+Tu te souviens de cette petite
+ferme où on était caché ?
+
+774
+00:35:46,410 --> 00:35:49,131
+Toute une semaine, avec rien d'autre à faire que...
+
+775
+00:35:50,135 --> 00:35:52,232
+Non, je ne m'en souviens pas, Jen.
+
+776
+00:35:53,290 --> 00:35:56,329
+Ma mémoire est un peu floue sur certains points.
+
+777
+00:36:27,220 --> 00:36:29,773
+On a fait correspondre les empreintes du mort.
+
+778
+00:36:30,050 --> 00:36:31,699
+Balash Sassnio.
+
+779
+00:36:31,700 --> 00:36:33,759
+Arrêté il y a cinq ans pour conduite dangereuse.
+
+780
+00:36:33,760 --> 00:36:35,239
+Un sans-papier venu d'Iran.
+
+781
+00:36:35,240 --> 00:36:37,761
+Son visa d'étudiant est épuisé depuis l'année dernière, patron.
+
+782
+00:36:37,806 --> 00:36:38,993
+Bon boulot, McGee.
+
+783
+00:36:39,127 --> 00:36:40,769
+Et pour l'appel d'Eschel, Abs ?
+
+784
+00:36:40,770 --> 00:36:43,369
+J'ai isolé la zone d'où venait l'appel.
+
+785
+00:36:43,370 --> 00:36:44,597
+Bien joué, Abs.
+
+786
+00:36:44,650 --> 00:36:46,558
+Pas tout à fait, Tony.
+
+787
+00:36:46,652 --> 00:36:49,658
+La zone représente la totalité de la ville
+de Woodbridge en Virginie.
+
+788
+00:36:49,711 --> 00:36:50,729
+Il peut y être n'importe où.
+
+789
+00:36:50,769 --> 00:36:52,001
+Super. On n'a rien.
+
+790
+00:36:52,041 --> 00:36:56,543
+Eh bien, un ex-agent du Mossad travaillant avec
+un étudiant iranien, ce n'est pas rien Gibbs.
+
+791
+00:36:56,750 --> 00:36:59,141
+Sauf si ça ne nous aide pas à trouver Eschel à temps.
+
+792
+00:36:59,470 --> 00:37:01,748
+McGee, l'avis de recherche qu'on a lancé hier.
+
+793
+00:37:02,120 --> 00:37:03,462
+Des résultats ?
+
+794
+00:37:03,837 --> 00:37:06,642
+Tu as complètement oublié, hein ?
+
+795
+00:37:07,030 --> 00:37:08,650
+Celle-là est pour moi, patron.
+
+796
+00:37:12,900 --> 00:37:14,779
+On a plusieurs touches.
+
+797
+00:37:15,034 --> 00:37:17,209
+Six touches qui correspondent à la description générale.
+
+798
+00:37:17,210 --> 00:37:19,365
+Trois dans le Delaware, un en Pennsylvanie,
+
+799
+00:37:19,420 --> 00:37:20,199
+deux en Virginie.
+
+800
+00:37:20,200 --> 00:37:22,518
+Le plus probable, un policier du coin a vu un homme
+
+801
+00:37:22,572 --> 00:37:25,156
+correspondant parfaitement au profil, à l'hôtel Freemont.
+
+802
+00:37:25,223 --> 00:37:26,099
+Où ça, McGee ?
+
+803
+00:37:26,307 --> 00:37:27,593
+Woodbridge en Virginie.
+
+804
+00:37:30,480 --> 00:37:31,999
+Je te le dis, Gibbs, ne l'appelle pas.
+
+805
+00:37:32,000 --> 00:37:33,029
+Elle ne nous attendra pas.
+
+806
+00:37:33,030 --> 00:37:34,717
+Sauf si je lui demande de le faire.
+
+807
+00:37:41,330 --> 00:37:42,230
+Vous l'avez trouvé ?
+
+808
+00:37:42,510 --> 00:37:44,541
+L'hôtel Freemont à Woodbridge.
+
+809
+00:37:44,648 --> 00:37:45,519
+On va passer te chercher.
+
+810
+00:37:45,520 --> 00:37:46,456
+Pas le temps, Gibbs.
+
+811
+00:37:46,536 --> 00:37:48,389
+Il n'y restera pas plus de 24 heures.
+
+812
+00:37:48,390 --> 00:37:51,470
+- Je vous y retrouve là-bas.
+- Ziva, ce n'est pas à débattre.
+
+813
+00:37:51,510 --> 00:37:53,441
+On y va ensemble ou on n'y va pas...
+
+814
+00:37:55,691 --> 00:37:57,129
+Laisse-moi deviner, elle y va sans nous ?
+
+815
+00:37:57,130 --> 00:37:58,308
+Si elle le tue,
+
+816
+00:37:58,470 --> 00:38:00,489
+on ne pourra pas prouver que les Israéliens
+n'étaient pas derrière ça.
+
+817
+00:38:00,490 --> 00:38:01,629
+Ouais je sais, allons-y.
+
+818
+00:38:01,630 --> 00:38:03,519
+- Hé !
+- Hé ! Non.
+
+819
+00:38:03,520 --> 00:38:05,729
+C'est mon équipe à présent, Gibbs. Mes règles.
+
+820
+00:38:05,730 --> 00:38:07,209
+Et la première règle de DiNozzo ?
+
+821
+00:38:07,210 --> 00:38:09,880
+Je ne reste pas sur le banc quand mes agents ont des ennuis.
+
+822
+00:38:10,000 --> 00:38:11,406
+Ça te pose problème ?
+
+823
+00:38:11,607 --> 00:38:13,409
+Alors laisse-moi te rappeler qui a le badge
+et qui est un civil.
+
+824
+00:38:13,410 --> 00:38:14,079
+T'as fini ?
+
+825
+00:38:14,080 --> 00:38:15,296
+Ouais.
+
+826
+00:38:16,190 --> 00:38:18,328
+J'allais dire...
+
+827
+00:38:18,382 --> 00:38:20,979
+"Va chercher McGee. On se retrouve là-bas."
+
+828
+00:38:22,970 --> 00:38:25,753
+Tu sais, je peux t'arrêter pour agression sur un agent fédéral.
+
+829
+00:38:25,953 --> 00:38:27,279
+Je le sais.
+
+830
+00:38:29,220 --> 00:38:30,874
+D'accord.
+
+831
+00:38:31,530 --> 00:38:33,003
+Pour être sûr.
+
+832
+00:38:41,500 --> 00:38:45,416
+J'imagine que le reste de mon argent sera versé
+sur mon compte dans peu de temps ?
+
+833
+00:38:45,510 --> 00:38:46,594
+Bien sûr.
+
+834
+00:38:49,390 --> 00:38:50,939
+Pourrais-tu ?
+
+835
+00:38:56,470 --> 00:38:59,612
+Doucement, c'est délicat.
+
+836
+00:39:08,080 --> 00:39:09,437
+Désolée,
+
+837
+00:39:09,464 --> 00:39:12,470
+mais personne ne doit savoir que mon pays
+est derrière ça, Eschel.
+
+838
+00:39:19,650 --> 00:39:20,953
+Et sans toi,
+
+839
+00:39:21,168 --> 00:39:22,734
+personne ne le saura.
+
+840
+00:39:51,920 --> 00:39:53,237
+Qui t'a engagée ?
+
+841
+00:39:53,558 --> 00:39:55,071
+Mossad.
+
+842
+00:39:55,160 --> 00:39:56,725
+Menteuse.
+Qui ?
+
+843
+00:39:57,046 --> 00:40:00,782
+Vas-y, tue-moi.
+Tu ne me feras jamais parler.
+
+844
+00:40:02,580 --> 00:40:03,871
+Je te crois.
+
+845
+00:40:04,407 --> 00:40:05,907
+Alors, tue-moi.
+
+846
+00:40:06,390 --> 00:40:08,216
+Fais la fierté de ton père.
+
+847
+00:40:08,471 --> 00:40:09,850
+Juive.
+
+848
+00:40:13,790 --> 00:40:14,679
+Qu'est-ce que tu fais ?
+
+849
+00:40:14,680 --> 00:40:17,371
+Tu ne seras pas une martyre.
+Tu es en état d'arrestation.
+
+850
+00:40:17,451 --> 00:40:19,694
+Le temps passé avec les Américains t'a rendue trop douce.
+
+851
+00:40:19,730 --> 00:40:21,836
+Tu n'aurais pas dû jeter ton couteau.
+
+852
+00:40:29,610 --> 00:40:31,045
+Debout.
+
+853
+00:40:38,460 --> 00:40:39,609
+Tu fais plus la dure,
+
+854
+00:40:39,610 --> 00:40:41,130
+hein ?
+
+855
+00:40:51,170 --> 00:40:54,683
+Je t'ai dit de te lever !
+
+856
+00:40:56,850 --> 00:40:57,689
+Qui es-tu ?
+
+857
+00:40:57,690 --> 00:40:59,483
+VEVAK.
+
+858
+00:40:59,563 --> 00:41:00,919
+Les services secrets iraniens ?
+
+859
+00:41:00,946 --> 00:41:03,349
+Oui et on te remercie.
+
+860
+00:41:03,403 --> 00:41:06,241
+Les Américains ne feront plus jamais confiance à ton pays.
+
+861
+00:41:08,270 --> 00:41:10,077
+C'était plus facile que je ne pensais.
+
+862
+00:41:10,460 --> 00:41:12,059
+Te faire parler.
+
+863
+00:41:22,450 --> 00:41:23,499
+Ziva, ça va ?
+
+864
+00:41:24,125 --> 00:41:25,496
+Je vais bien, McGee.
+
+865
+00:41:27,430 --> 00:41:29,058
+Tu aurais dû attendre.
+
+866
+00:41:31,730 --> 00:41:32,920
+Qui est-elle ?
+
+867
+00:41:33,582 --> 00:41:34,929
+Services secrets iraniens.
+
+868
+00:41:35,309 --> 00:41:36,608
+Ils étaient derrière tout ça.
+
+869
+00:41:36,715 --> 00:41:38,258
+Et comment vas-tu le prouver ?
+
+870
+00:41:38,804 --> 00:41:40,990
+Je suis au NCIS depuis un an.
+
+871
+00:41:41,392 --> 00:41:43,313
+Je ne suis plus qu'une simple tueuse.
+
+872
+00:41:46,940 --> 00:41:48,648
+Je suis une enquêtrice.
+
+873
+00:41:51,310 --> 00:41:52,998
+Je peux rentrer maintenant ?
+
+874
+00:41:53,590 --> 00:41:57,232
+<i>Le FBI annonce avoir appréhendé le terroriste iranien</i>
+
+875
+00:41:57,272 --> 00:42:00,319
+<i>que l'on croit responsable de la mort de deux de leurs agents.</i>
+
+876
+00:42:00,359 --> 00:42:03,323
+<i>Deux autres terroristes ont été tués lors d'affrontements</i>
+
+877
+00:42:03,363 --> 00:42:05,920
+<i>avec les autorités fédérales en Virginie du nord...</i>
+
+878
+00:42:05,990 --> 00:42:07,889
+Autorités fédérales ?
+
+879
+00:42:08,304 --> 00:42:09,361
+Ils parlent de nous.
+
+880
+00:42:09,442 --> 00:42:10,771
+Quatre putains de lettres.
+
+881
+00:42:10,838 --> 00:42:11,780
+N-C-I-S.
+
+882
+00:42:11,890 --> 00:42:14,349
+C'est soit cette version Tony, soit le FBI vous inculpe
+
+883
+00:42:14,350 --> 00:42:16,856
+pour entrave à leur enquête.
+
+884
+00:42:17,525 --> 00:42:19,574
+Ça me va "autorités fédérales".
+
+885
+00:42:20,980 --> 00:42:23,189
+Bienvenue chez vous, Ziva.
+
+886
+00:42:23,563 --> 00:42:27,115
+Eh bien, je ne serais pas là sans l'aide de Gibbs.
+
+887
+00:42:27,302 --> 00:42:28,253
+Et moi.
+
+888
+00:42:29,498 --> 00:42:32,303
+C'est vrai, mais principalement Gibbs.
+
+889
+00:42:32,880 --> 00:42:34,686
+En parlant de lui...
+
+890
+00:42:35,570 --> 00:42:37,066
+Il est dans la salle.
+
+891
+00:42:45,060 --> 00:42:47,219
+Où est-il McGee ?
+Le labo d'Abby ?
+
+892
+00:42:48,450 --> 00:42:50,536
+Gibbs est parti, madame.
+
+893
+00:42:51,045 --> 00:42:52,679
+Il devait prendre un avion.
+
+894
+00:42:52,680 --> 00:42:54,292
+Tu en es sûr, McGee ?
+
+895
+00:42:54,439 --> 00:42:56,217
+Oui j'en suis sûr, Tony.
+
+896
+00:42:56,595 --> 00:42:59,165
+Il ne m'a même pas dit au revoir.
+
+897
+00:43:01,160 --> 00:43:04,200
+Directeur, il voulait que je vous donne ça.
+
+898
+00:43:09,890 --> 00:43:11,357
+Jolie photo.
+
+899
+00:43:11,438 --> 00:43:12,817
+Elle a été prise où ?
+
+900
+00:43:12,857 --> 00:43:14,156
+En Serbie.
+
+901
+00:43:14,825 --> 00:43:15,659
+Quand ?
+
+902
+00:43:16,489 --> 00:43:18,792
+Dans une ancienne vie, Ziva.
+
+903
+00:43:19,934 --> 00:43:27,033
+www.Team-NCIS.com
+

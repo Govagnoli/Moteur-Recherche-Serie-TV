@@ -1,0 +1,4131 @@
+1
+00:00:18,364 --> 00:00:19,661
+- Bonjour.
+- Salut.
+
+2
+00:00:19,930 --> 00:00:21,169
+Essaie celui-là.
+
+3
+00:00:22,873 --> 00:00:24,513
+- Emily.
+- Oui ?
+
+4
+00:00:25,149 --> 00:00:25,856
+Viens ici.
+
+5
+00:00:25,874 --> 00:00:27,743
+Ils n'ont pas encore appelé notre numéro.
+
+6
+00:00:27,972 --> 00:00:29,168
+Je sais.
+
+7
+00:00:29,612 --> 00:00:31,354
+Du calme agent Fornell.
+
+8
+00:00:32,276 --> 00:00:33,306
+Elle va bien.
+
+9
+00:00:35,914 --> 00:00:39,754
+Je ne m'attendais pas à vous revoir avant... 2067 ?
+
+10
+00:00:41,281 --> 00:00:42,858
+J'ai eu un sursis.
+
+11
+00:00:44,079 --> 00:00:46,329
+Vous n'allez pas utiliser ça
+devant votre fille.
+
+12
+00:00:46,886 --> 00:00:48,311
+Je n'ai pas besoin d'une arme pour vous descendre.
+
+13
+00:00:48,349 --> 00:00:51,006
+- Vous ne blesseriez pas un homme innocent.
+- Je n'en vois pas.
+
+14
+00:00:51,089 --> 00:00:53,287
+C'est là où l'agent Gibbs et vous avez eu tout faux.
+
+15
+00:00:54,700 --> 00:00:56,633
+L'Agent Gibbs a pris sa retraite.
+
+16
+00:00:56,714 --> 00:00:59,235
+Je sais. Pourquoi pensez-vous que je vous parle ?
+
+17
+00:00:59,293 --> 00:01:01,956
+Je n'en ai aucune idée. Pourquoi ne pas m'éclairer ?
+
+18
+00:01:02,019 --> 00:01:04,829
+Je vous l'ai dit. Vous avez arrêté le mauvais type.
+
+19
+00:01:04,862 --> 00:01:06,935
+Et s'il y a un minimum de décence
+
+20
+00:01:06,998 --> 00:01:08,410
+dans votre petite cervelle
+
+21
+00:01:09,427 --> 00:01:12,008
+Vous rouvrirez mon affaire et trouverez le bon.
+
+22
+00:01:18,061 --> 00:01:19,345
+Maintenant, je vais sortir d'ici.
+
+23
+00:01:19,892 --> 00:01:21,201
+Vous voudrez me suivre.
+
+24
+00:01:21,338 --> 00:01:22,915
+Mais vous réalisez quelque chose.
+
+25
+00:01:23,169 --> 00:01:25,341
+Et c'est ce qui va tuer
+ce projet dans l'œuf.
+
+26
+00:01:25,387 --> 00:01:26,706
+- Vraiment ?
+- Ouais.
+
+27
+00:01:26,738 --> 00:01:27,922
+Qu'est-ce que c'est ?
+
+28
+00:01:28,691 --> 00:01:30,179
+Je pourrais ne pas être seul.
+
+29
+00:01:35,132 --> 00:01:36,899
+- A bientôt ma jolie.
+- Bye.
+
+30
+00:01:44,028 --> 00:01:44,256
+T
+
+31
+00:01:44,256 --> 00:01:44,484
+Te
+
+32
+00:01:44,484 --> 00:01:44,712
+Tea
+
+33
+00:01:44,712 --> 00:01:44,940
+Team
+
+34
+00:01:44,940 --> 00:01:45,168
+Team-
+
+35
+00:01:45,168 --> 00:01:45,396
+Team-N
+
+36
+00:01:45,396 --> 00:01:45,624
+Team-NC
+
+37
+00:01:45,624 --> 00:01:45,852
+Team-NCI
+
+38
+00:01:45,852 --> 00:01:47,583
+La Team-NCIS.com présente :
+
+39
+00:01:47,512 --> 00:01:52,584
+NCIS Saison 4 Episode 2
+Escaped
+
+40
+00:01:52,757 --> 00:01:54,750
+Script : FRM
+
+41
+00:01:55,595 --> 00:02:00,130
+Synch : BadGOne & Pit for www.Team-NCIS.com
+
+42
+00:01:58,825 --> 00:02:05,711
+Traduction :  ShalimarFox, g.snake,
+Zepoulp, Leda, samylo
+
+43
+00:02:06,261 --> 00:02:11,116
+Relecture : Moustou, Mickey, T|T|
+
+44
+00:02:11,850 --> 00:02:27,878
+www.Team-NCIS.com
+
+45
+00:03:13,753 --> 00:03:16,118
+.. le sous-sol a besoin de travaux. Mais si cette pièce n'est  pas
+
+46
+00:03:16,151 --> 00:03:18,517
+faite pour devenir une cave a vin...
+
+47
+00:03:18,555 --> 00:03:19,979
+...Je ne vois pas à quoi elle pourrait servir.
+
+48
+00:03:20,030 --> 00:03:21,200
+Regardez.
+
+49
+00:03:21,235 --> 00:03:23,053
+Je reviens tout de suite.
+
+50
+00:03:26,353 --> 00:03:28,972
+- D'abord ma femme, maintenant ma maison ?
+- Non.
+
+51
+00:03:29,252 --> 00:03:30,714
+J'ai retenu la leçon.
+
+52
+00:03:30,905 --> 00:03:32,596
+J'en ai marre de récupérer tes restes.
+
+53
+00:03:34,370 --> 00:03:36,625
+Tu vas avoir besoin d'une boîte
+plus grande pour ce bateau.
+
+54
+00:03:36,657 --> 00:03:39,488
+Tu as fait tout ce chemin pour me donner
+des conseils d'emballage Tobias ?
+
+55
+00:03:39,561 --> 00:03:41,239
+En fait je suis venu pour te prévenir
+
+56
+00:03:41,277 --> 00:03:44,825
+Le quartier maître Derrick Paulson
+s'est échappé de prison hier.
+
+57
+00:03:48,882 --> 00:03:49,784
+Non.
+
+58
+00:03:50,081 --> 00:03:51,654
+Je ne t'ai encore rien demandé.
+
+59
+00:03:53,385 --> 00:03:55,308
+Tu l'as attrapé la dernière fois.
+
+60
+00:03:55,832 --> 00:03:57,994
+Je me disais que tu pourrais
+vouloir l'attraper à nouveau.
+
+61
+00:03:58,093 --> 00:03:59,264
+Tu as mal pensé.
+
+62
+00:04:01,926 --> 00:04:03,558
+Il est venu pour me voir, Jethro.
+
+63
+00:04:04,130 --> 00:04:05,434
+Quand j'étais avec Emily.
+
+64
+00:04:11,620 --> 00:04:12,701
+Elle va bien ?
+
+65
+00:04:12,726 --> 00:04:13,774
+Pour l'instant.
+
+66
+00:04:14,359 --> 00:04:17,133
+Il voulait juste me dire
+que j'ai arrêté le mauvais type,
+
+67
+00:04:17,191 --> 00:04:20,282
+et m'a fortement suggéré de
+rouvrir son affaire pour le prouver.
+
+68
+00:04:20,330 --> 00:04:22,619
+Il risque beaucoup pour quelque chose
+qui ne peut se produire.
+
+69
+00:04:22,668 --> 00:04:23,684
+Tu crois ?
+
+70
+00:04:24,812 --> 00:04:25,818
+Je ne sais pas à quoi il joue.
+
+71
+00:04:25,837 --> 00:04:27,109
+Mais je n'arriverais pas à dormir
+
+72
+00:04:27,141 --> 00:04:29,075
+tant que ce fils de pute ne sera pas derrière les barreaux.
+
+73
+00:04:29,125 --> 00:04:30,637
+Tu n'as pas besoin de moi pour le trouver.
+
+74
+00:04:32,368 --> 00:04:33,247
+Besoin ?
+
+75
+00:04:35,330 --> 00:04:38,167
+Un tueur reconnu coupable
+était à deux pouces de ma fille !
+
+76
+00:04:38,223 --> 00:04:39,280
+Lui donnant ses crayons.
+
+77
+00:04:39,330 --> 00:04:40,305
+Il l'a touchée !
+
+78
+00:04:41,656 --> 00:04:43,795
+Nous sommes bien
+au delà du besoin, Jethro.
+
+79
+00:04:51,408 --> 00:04:52,773
+Joli bronzage.
+
+80
+00:05:01,597 --> 00:05:02,960
+Ce n'est pas si mal en fait, McGee.
+
+81
+00:05:03,010 --> 00:05:05,253
+Pour une espionne,
+tu es une horrible menteuse.
+
+82
+00:05:05,301 --> 00:05:06,110
+Ziva a raison.
+
+83
+00:05:06,150 --> 00:05:07,510
+On le remarque à peine.
+
+84
+00:05:07,669 --> 00:05:08,924
+Mais...
+Mais ?
+
+85
+00:05:09,274 --> 00:05:12,067
+Je ne laisserais pas l'agent DiNozzo
+le voir si j'étais toi.
+
+86
+00:05:12,167 --> 00:05:13,312
+Laisser l'Agent DiNozzo
+voir quoi ?
+
+87
+00:05:13,844 --> 00:05:14,639
+Rien.
+
+88
+00:05:15,565 --> 00:05:16,916
+Pourquoi marmonnes-tu, McGee ?
+
+89
+00:05:16,964 --> 00:05:18,156
+Je ne marmonne pas.
+
+90
+00:05:21,876 --> 00:05:23,088
+Bien, tu viens juste de dire,
+
+91
+00:05:23,138 --> 00:05:25,888
+"les mimes ne grondent pas"
+ou "je ne marmonne pas".
+
+92
+00:05:25,938 --> 00:05:27,773
+Et je ne vois aucun mime.
+
+93
+00:05:30,880 --> 00:05:31,913
+Agent Lee,
+
+94
+00:05:31,945 --> 00:05:33,765
+pourquoi l'Agent McGee
+marmonne ?
+
+95
+00:05:33,924 --> 00:05:36,133
+Il a sur-blanchi ses dents, monsieur.
+
+96
+00:05:37,977 --> 00:05:40,467
+Apparemment, il s'est endormi
+en portant son plateau
+
+97
+00:05:40,517 --> 00:05:42,785
+de blanchissant, monsieur.
+
+98
+00:05:42,849 --> 00:05:44,450
+Tu ne regardes pas Friends, n'est-ce pas ?
+
+99
+00:05:44,513 --> 00:05:45,643
+La même chose est arrivée à Ross.
+
+100
+00:05:45,705 --> 00:05:47,784
+Tu aurais pu profiter de l'erreur de notre ami
+
+101
+00:05:47,815 --> 00:05:50,867
+Mais tu as choisi
+de lire à la place.
+
+102
+00:05:50,931 --> 00:05:52,246
+Laisse-moi mieux voir les dégâts.
+
+103
+00:05:56,249 --> 00:05:58,189
+En tant que chef d'équipe,
+
+104
+00:05:58,239 --> 00:06:00,960
+Je dois être informé
+de tout ce qui pourrait
+
+105
+00:06:00,976 --> 00:06:02,637
+affecter la capacité d'un agent
+
+106
+00:06:02,687 --> 00:06:05,851
+à remplir ses fonctions.
+
+107
+00:06:05,901 --> 00:06:07,219
+Et en quoi le fait d'avoir
+des dents honteusement blanches
+
+108
+00:06:07,269 --> 00:06:10,052
+à un rapport avec l'exécution
+de ses devoirs ?
+
+109
+00:06:10,102 --> 00:06:11,761
+Tu as dit que ce n'était pas bien méchant.
+
+110
+00:06:11,811 --> 00:06:13,051
+Elle mentait.
+
+111
+00:06:13,131 --> 00:06:14,895
+- Ouvre ta bouche
+- Non.
+
+112
+00:06:14,939 --> 00:06:15,878
+- Laisse-moi voir tes Freedents.
+- Non.
+
+113
+00:06:15,944 --> 00:06:16,930
+Laisse-moi les voir.
+
+114
+00:06:16,944 --> 00:06:18,659
+- Non.
+- Ouvre ta...
+
+115
+00:06:18,911 --> 00:06:19,567
+Gibbs.
+
+116
+00:06:23,277 --> 00:06:24,250
+Qu'est ce qu'il...?
+
+117
+00:06:24,329 --> 00:06:25,203
+Je n'en ai aucune idée.
+
+118
+00:06:27,944 --> 00:06:30,043
+Agent Gibbs !
+Je veux dire, monsieur...
+
+119
+00:06:33,030 --> 00:06:34,374
+Juste quand je m'habituais
+
+120
+00:06:34,406 --> 00:06:37,219
+à ce que ma porte soit traitée
+comme une porte.
+
+121
+00:06:37,537 --> 00:06:39,341
+Je te rappellerai, Todd.
+
+122
+00:06:39,579 --> 00:06:41,534
+J'ai besoin d'une réintégration provisoire.
+
+123
+00:06:41,582 --> 00:06:42,715
+Je suppose que tu es là
+
+124
+00:06:42,770 --> 00:06:45,345
+à cause de l'ex-quartier maître
+Derrick Paulson.
+
+125
+00:06:45,361 --> 00:06:47,423
+J'ai lu le rapport de
+l'Agent Fornell.
+
+126
+00:06:47,820 --> 00:06:51,393
+Pourquoi ce soudain, si temporaire
+
+127
+00:06:51,409 --> 00:06:52,826
+intérêt pour un voleur de banque ?
+
+128
+00:06:52,855 --> 00:06:55,946
+Si tu as lu le rapport de Fornell,
+Jen, alors tu le sais déjà.
+
+129
+00:06:56,010 --> 00:06:56,900
+Nous perdons du temps.
+
+130
+00:06:56,964 --> 00:06:58,744
+Ce n'est pas si simple, Jethro.
+
+131
+00:06:58,807 --> 00:06:59,872
+Tu es parti.
+
+132
+00:06:59,920 --> 00:07:02,201
+J'apprécie
+ce que tu as fait pour Ziva,
+
+133
+00:07:02,439 --> 00:07:04,168
+mais ce n'est pas comme
+une inscription à une salle de gym
+
+134
+00:07:04,218 --> 00:07:05,121
+où tu peux aller et venir.
+
+135
+00:07:05,169 --> 00:07:07,768
+Non, je ne peux pas
+mais je ne suis pas directeur du NCIS.
+
+136
+00:07:07,791 --> 00:07:09,411
+Et le directeur du NCIS
+
+137
+00:07:09,461 --> 00:07:11,216
+a déjà transmis ton dossier de retraite
+
+138
+00:07:11,280 --> 00:07:12,599
+aux ressources humaines de la marine.
+
+139
+00:07:12,631 --> 00:07:13,537
+Retire-le.
+
+140
+00:07:13,585 --> 00:07:15,450
+Ça ne fonctionne pas comme ça, Jethro.
+
+141
+00:07:15,500 --> 00:07:17,312
+Ça prendrait des semaines pour te réintégrer.
+
+142
+00:07:17,344 --> 00:07:19,281
+Et ça même si tu réussissais
+à passer ton...
+
+143
+00:07:19,331 --> 00:07:20,999
+Mon évaluation psy ?
+
+144
+00:07:21,834 --> 00:07:26,395
+Ou tu parles de mon examen de compétence
+pour l'utilisation d'armes à feu ?
+
+145
+00:07:27,015 --> 00:07:28,096
+Non.
+
+146
+00:07:28,622 --> 00:07:30,831
+Je ne suis pas inquiète pour celui-ci.
+
+147
+00:07:33,723 --> 00:07:34,884
+Attends.
+
+148
+00:07:40,916 --> 00:07:42,425
+Laisse-moi au moins...
+
+149
+00:07:45,147 --> 00:07:46,717
+...valider ton stationnement.
+
+150
+00:07:50,186 --> 00:07:52,315
+C'est étrange.
+
+151
+00:07:52,757 --> 00:07:55,474
+Je pourrais jurer avoir transmis ceci.
+
+152
+00:07:56,802 --> 00:07:58,884
+Ton dossier de retraite.
+
+153
+00:08:00,377 --> 00:08:04,280
+J'ai dû accidentellement
+
+154
+00:08:04,327 --> 00:08:07,681
+le confondre avec tes congés en retard.
+
+155
+00:08:09,043 --> 00:08:10,449
+En l'occurrence, il semble,
+
+156
+00:08:10,499 --> 00:08:12,815
+qu'il reste 6 jours
+
+157
+00:08:12,942 --> 00:08:15,263
+avant qu'il ne soit enregistré.
+
+158
+00:08:21,425 --> 00:08:23,985
+Allez, ne me dites pas que
+vous n'écoutez pas aux portes, Cynthia.
+
+159
+00:08:24,035 --> 00:08:25,399
+Tous les assistants de direction
+écoutent aux portes.
+
+160
+00:08:25,449 --> 00:08:26,821
+Il arrive.
+Il arrive.
+
+161
+00:08:29,273 --> 00:08:30,290
+Hey, Gibbs.
+
+162
+00:08:30,322 --> 00:08:31,975
+Tu passais simplement dans le quartier...
+
+163
+00:08:32,023 --> 00:08:34,089
+ou tu viens récupérer ton bureau ?
+
+164
+00:08:35,745 --> 00:08:36,650
+Allons-y.
+
+165
+00:08:46,697 --> 00:08:48,716
+Tu devrais être là depuis une demi-heure.
+
+166
+00:08:48,732 --> 00:08:49,950
+Ouais, je dépose simplement Emily
+
+167
+00:08:50,000 --> 00:08:52,495
+- chez ma mère.
+- Tu veux que j'envoie un agent ?
+
+168
+00:08:52,542 --> 00:08:54,084
+Tu en as combien en réserve ?
+
+169
+00:08:54,518 --> 00:08:55,742
+Ok, j'ai une idée.
+
+170
+00:08:55,790 --> 00:08:58,555
+Peut-être a-t'il de nouveau perdu la mémoire
+et il a oublié qu'il a démissionné.
+
+171
+00:08:58,603 --> 00:09:00,316
+Ne serait-il pas assis à son ancien bureau
+si c'était le cas ?
+
+172
+00:09:00,395 --> 00:09:02,231
+Si Gibbs voulait qu'on sache ce qu'il fait,
+
+173
+00:09:02,281 --> 00:09:03,957
+il nous le dirait.
+Oh, bien sûr.
+
+174
+00:09:04,007 --> 00:09:05,287
+Parce qu'il sait pertinemment
+
+175
+00:09:05,311 --> 00:09:06,673
+que nous ne le découvririons pas par
+nous-mêmes.
+
+176
+00:09:06,744 --> 00:09:09,978
+Gibbs est de retour...
+en assignation provisoire.
+
+177
+00:09:10,225 --> 00:09:11,344
+L'affaire Paulson.
+
+178
+00:09:11,410 --> 00:09:12,373
+Paulson ?
+
+179
+00:09:12,462 --> 00:09:14,905
+Second maître Derrick Paulson :
+Il a cambriolé une banque,
+
+180
+00:09:14,955 --> 00:09:16,815
+tué 2 de ses complices,
+l'argent n'a jamais été retrouvée.
+
+181
+00:09:16,889 --> 00:09:18,431
+La cellule de Paulson.
+
+182
+00:09:18,462 --> 00:09:19,568
+Je veux voir ce qu'il y avait à l'intérieur.
+
+183
+00:09:19,603 --> 00:09:21,077
+J'ai déjà expédié son contenu.
+
+184
+00:09:21,127 --> 00:09:22,895
+Peut-être que tes techniciens trouveront
+quelque chose qui a échappé aux miens.
+
+185
+00:09:22,945 --> 00:09:24,213
+Au revoir, papa !
+
+186
+00:09:24,263 --> 00:09:25,260
+Je suis inquiet.
+
+187
+00:09:25,595 --> 00:09:27,335
+Elle ira bien, Tobias.
+
+188
+00:09:27,385 --> 00:09:28,935
+Paulson n'en a pas après elle.
+
+189
+00:09:29,668 --> 00:09:31,037
+J'ai détruit sa vie, Jethro.
+
+190
+00:09:31,276 --> 00:09:32,958
+On ne sait pas après qui il en a.
+
+191
+00:09:38,950 --> 00:09:39,675
+Quelque chose ?
+
+192
+00:09:39,783 --> 00:09:40,905
+Ouais.
+
+193
+00:09:41,117 --> 00:09:43,845
+C'est le recours d'un prisonnier évadé.
+
+194
+00:09:43,893 --> 00:09:45,288
+Le gars connaissant bien ses droits.
+
+195
+00:09:48,950 --> 00:09:51,371
+Je le savais ! Je le savais !
+
+196
+00:09:52,968 --> 00:09:55,511
+Je n'ai plus besoin de ça
+maintenant que tu es là.
+
+197
+00:09:55,559 --> 00:09:57,017
+Je savais que tu reviendrais.
+
+198
+00:09:57,049 --> 00:09:58,194
+Je ne suis pas de retour.
+
+199
+00:09:58,225 --> 00:10:00,669
+Bien sûr que tu es de retour.
+Je sens ton badge.
+
+200
+00:10:00,844 --> 00:10:02,576
+C'est ton badge, pas vrai ?
+
+201
+00:10:04,412 --> 00:10:06,081
+Tu es de retour.
+
+202
+00:10:06,282 --> 00:10:09,160
+Réintégration,
+seulement temporaire, Abs.
+
+203
+00:10:10,146 --> 00:10:12,609
+Jusqu'à ce que je trouve Paulson.
+
+204
+00:10:14,270 --> 00:10:15,325
+Nous verrons bien.
+
+205
+00:10:15,375 --> 00:10:16,829
+Alors, que puis-je faire pour toi
+
+206
+00:10:16,845 --> 00:10:19,389
+agent temporairement réintégré Gibbs ?
+
+207
+00:10:19,439 --> 00:10:21,255
+Examine le contenu
+de la cellule de Paulson.
+
+208
+00:10:21,304 --> 00:10:22,702
+Je cherche quoi ?
+
+209
+00:10:22,718 --> 00:10:25,253
+Oh, bien sûr.
+N'importe quoi qui puisse t'aider à le trouver.
+
+210
+00:10:25,301 --> 00:10:27,895
+Je veux savoir ce qu'il
+fabriquait avant de s'évader.
+
+211
+00:10:27,923 --> 00:10:31,396
+A moins que tous les trois ayez d'autres suggestions.
+
+212
+00:10:34,209 --> 00:10:35,115
+Euh...
+
+213
+00:10:36,987 --> 00:10:37,827
+Hey...
+
+214
+00:10:38,398 --> 00:10:39,769
+Nous étions, nous étions seulement, euh,
+
+215
+00:10:39,836 --> 00:10:41,470
+en train d'espionner comme
+des petites filles.
+
+216
+00:10:41,537 --> 00:10:43,194
+Mais nous avons des suggestions.
+
+217
+00:10:43,591 --> 00:10:44,437
+Les archives de la prison montrent
+
+218
+00:10:44,465 --> 00:10:47,369
+qu'une seule et unique personne venait
+rendre visite à Paulson en prison.
+
+219
+00:10:47,484 --> 00:10:50,278
+Mickey Stokes, 72 ans.
+Un ancien marine.
+
+220
+00:10:50,328 --> 00:10:51,799
+Et comme Paulson n'a aucune famille,
+
+221
+00:10:51,849 --> 00:10:53,939
+nous pouvons supposer
+qu'il va tenter de contacter Mickey.
+
+222
+00:10:54,007 --> 00:10:55,455
+Et j'ai déjà une adresse.
+
+223
+00:10:55,541 --> 00:10:56,873
+Tony, Ziva, vous venez avec moi.
+
+224
+00:10:56,940 --> 00:10:58,412
+McGee, reste ici et...
+
+225
+00:10:58,571 --> 00:10:59,107
+McGee, reste ici, aide Abby.
+
+226
+00:10:59,174 --> 00:11:00,153
+Aide Abby...
+
+227
+00:11:01,374 --> 00:11:03,264
+... examine les effets personnels de Paulson
+
+228
+00:11:03,327 --> 00:11:05,028
+Puis gargarise-toi avec ça.
+
+229
+00:11:05,457 --> 00:11:07,650
+Avant de tous nous rendre aveugle.
+
+230
+00:11:18,114 --> 00:11:20,303
+Gibbs semblait affreusement
+calme dans la voiture.
+
+231
+00:11:20,367 --> 00:11:22,784
+Ce n'est pas comme si tu lui avais donné
+une occasion de parler, Tony.
+
+232
+00:11:22,840 --> 00:11:25,207
+Quoi, tu crains qu'il veuille récupérer
+son ancien boulot ?
+
+233
+00:11:25,274 --> 00:11:26,806
+Non. je le mettais au parfum
+
+234
+00:11:26,873 --> 00:11:28,067
+sur les dernières procédures.
+
+235
+00:11:28,419 --> 00:11:30,073
+Pourquoi avez-vous mis autant de temps, les Cow-boys ?
+
+236
+00:11:30,123 --> 00:11:31,881
+Il vous attend depuis environ une heure.
+
+237
+00:11:31,931 --> 00:11:33,865
+Hey, enlevez vos chaussures !
+
+238
+00:11:35,760 --> 00:11:36,523
+R.A.S.
+
+239
+00:11:37,206 --> 00:11:38,192
+R.A.S.
+
+240
+00:11:38,382 --> 00:11:39,495
+Où est-il ?
+
+241
+00:11:39,764 --> 00:11:41,577
+Je n'ai jamais dit qu'il était ici.
+
+242
+00:11:44,112 --> 00:11:44,895
+Gibbs.
+
+243
+00:11:44,945 --> 00:11:46,585
+Je ne m'attendais pas
+à entendre votre voix.
+
+244
+00:11:46,635 --> 00:11:47,584
+J'ai entendu dire que vous avez démissionné.
+
+245
+00:11:47,652 --> 00:11:48,571
+J'ai pris ma retraite.
+
+246
+00:11:48,618 --> 00:11:49,937
+A votre âge,
+
+247
+00:11:49,953 --> 00:11:50,671
+c'est démissionner.
+
+248
+00:11:50,712 --> 00:11:51,889
+Et pourquoi ne viendriez-vous pas vous rendre,
+
+249
+00:11:51,939 --> 00:11:53,716
+vous pourriez m'en parler en personne.
+
+250
+00:11:53,843 --> 00:11:55,537
+Me rendre pour quoi faire ?
+
+251
+00:11:55,569 --> 00:11:57,126
+Je suis un homme innocent.
+
+252
+00:11:57,324 --> 00:11:58,891
+Votre disque est rayé.
+
+253
+00:11:59,256 --> 00:12:01,402
+Donc vous n'allez pas rouvrir mon dossier ?
+
+254
+00:12:01,434 --> 00:12:03,704
+Nous savons tous les deux ce que je vais trouver
+si je le fais, alors pourquoi ne pas
+
+255
+00:12:03,821 --> 00:12:05,371
+me dire ce que vous voulez vraiment.
+
+256
+00:12:05,387 --> 00:12:07,994
+Je l'ai déjà, agent Gibbs.
+
+257
+00:12:08,943 --> 00:12:10,449
+Alors que veut-il vraiment ?
+
+258
+00:12:10,239 --> 00:12:11,832
+Notre voiture.
+
+259
+00:12:22,636 --> 00:12:24,162
+Ils semblent être proches.
+
+260
+00:12:24,941 --> 00:12:25,895
+Eh bien, on dit que le chemin
+
+261
+00:12:25,910 --> 00:12:27,993
+qui mène au cœur d'un homme
+passe par son estomac.
+
+262
+00:12:29,797 --> 00:12:31,449
+*Meals on Wheels.
+
+263
+00:12:31,688 --> 00:12:34,120
+On dirait que Paulson y était bénévole.
+
+264
+00:12:34,247 --> 00:12:37,434
+Volontaire pour mettre... des repas sur des roues ?
+
+265
+00:12:39,428 --> 00:12:41,622
+Ils apportent de la nourriture
+aux personnes âgées, Ziva.
+
+266
+00:12:41,689 --> 00:12:43,541
+Bien sûr que je l'ai aidé !
+
+267
+00:12:43,589 --> 00:12:45,222
+Derrick était comme un fils pour moi.
+
+268
+00:12:45,253 --> 00:12:47,590
+J'étais aussi proche de lui qu'une famille.
+
+269
+00:12:47,606 --> 00:12:50,085
+Que feriez-vous si votre fils
+avait des problèmes ?
+
+270
+00:12:50,117 --> 00:12:53,359
+Je lui dirais de se rendre
+avant qu'il ne soit blessé.
+
+271
+00:12:53,872 --> 00:12:56,691
+Je suis content de ne pas vous
+avoir eu comme père, Fornell.
+
+272
+00:12:57,038 --> 00:12:58,900
+Enlevez vos chaussures !
+
+273
+00:13:04,209 --> 00:13:05,553
+Et je ne le laisserais certainement pas
+
+274
+00:13:05,603 --> 00:13:06,457
+voler ma voiture.
+
+275
+00:13:06,521 --> 00:13:08,873
+Ce n'est pas la mienne. C'était celle de Dinozzo.
+
+276
+00:13:08,941 --> 00:13:11,129
+Il veut seulement
+que vous rouvriez son dossier !
+
+277
+00:13:11,179 --> 00:13:13,884
+Avez-vous lu mes lettres ces quatre dernières années ?
+
+278
+00:13:13,932 --> 00:13:16,455
+Vous autres rigolos avez pris le mauvais gars.
+
+279
+00:13:16,502 --> 00:13:18,648
+Paulson a profité de vous, Mickey.
+
+280
+00:13:18,847 --> 00:13:21,664
+Il vous apportait de la nourriture seulement parce que
+vous habitiez à coté de la banque qu'il avait ciblé.
+
+281
+00:13:21,750 --> 00:13:25,030
+Vous avez gaspillé vos économies
+à défendre la mauvaise personne.
+
+282
+00:13:25,061 --> 00:13:25,904
+Hey !
+
+283
+00:13:25,951 --> 00:13:27,537
+Pas mon ordinateur !
+
+284
+00:13:27,569 --> 00:13:29,905
+J'ai un rendez-vous en ligne ce soir.
+
+285
+00:13:30,970 --> 00:13:32,313
+Où est-il, Mickey ?
+
+286
+00:13:34,236 --> 00:13:35,540
+Il n'en sait rien.
+
+287
+00:13:36,461 --> 00:13:37,534
+T'en es sûr ?
+
+288
+00:13:37,947 --> 00:13:40,172
+Tu veux le faire tomber pour complicité
+
+289
+00:13:41,410 --> 00:13:43,803
+Il a hébergé Paulson,
+il lui a donné de l'argent.
+
+290
+00:13:43,853 --> 00:13:44,889
+Je dis que nous devons l'utiliser comme appât.
+
+291
+00:13:44,952 --> 00:13:48,338
+Je donne un passe à Mickey, et je laisse un homme
+au cas où Paulson revienne ?
+
+292
+00:13:54,608 --> 00:13:55,927
+C'est toi le patron.
+
+293
+00:13:59,789 --> 00:14:00,586
+Ouais ?
+
+294
+00:14:01,457 --> 00:14:02,204
+Où ?
+
+295
+00:14:02,877 --> 00:14:04,196
+Quelque chose à l'intérieur ?
+
+296
+00:14:06,552 --> 00:14:09,397
+La police vient de retrouver la voiture à 800m d'ici.
+
+297
+00:14:09,477 --> 00:14:11,449
+La seule chose qui manque est mon ordinateur portable.
+
+298
+00:14:11,499 --> 00:14:13,335
+Et tout ce que nous avons sur Paulson.
+
+299
+00:14:13,367 --> 00:14:14,996
+Je vous l'ai dit, il...
+il veut seulement
+
+300
+00:14:15,046 --> 00:14:16,112
+travailler sur son dossier.
+
+301
+00:14:16,172 --> 00:14:18,644
+Sauf qu'il a tous
+ses dossiers depuis le procès.
+
+302
+00:14:18,699 --> 00:14:20,243
+Peut-être que les nôtres renferment
+quelque chose qu'il n'a pas.
+
+303
+00:14:20,293 --> 00:14:21,813
+C'est le cas.
+Les adresses
+
+304
+00:14:21,863 --> 00:14:23,597
+des personnes qui ont témoigné contre lui.
+
+305
+00:14:23,647 --> 00:14:25,277
+Il n'est une menace pour personne !
+
+306
+00:14:25,314 --> 00:14:27,731
+Il est en fuite et désarmé.
+
+307
+00:14:27,842 --> 00:14:29,374
+Conservez-vous une arme dans cette maison ?
+
+308
+00:14:29,424 --> 00:14:30,471
+Oh, génial.
+
+309
+00:14:30,521 --> 00:14:32,813
+Maintenant vous voulez l'épingler pour un autre crime ?
+
+310
+00:14:34,254 --> 00:14:35,712
+Seulement mon vieux Colt.
+
+311
+00:14:35,766 --> 00:14:36,687
+Où est-il ?
+
+312
+00:14:51,267 --> 00:14:54,566
+Paulson peut en avoir après une demi-douzaine de témoins.
+
+313
+00:14:54,633 --> 00:14:57,267
+Je n'ai jamais vu un condamné intenter
+autant de recours.
+
+314
+00:14:57,333 --> 00:14:59,133
+C'est un abus du système.
+
+315
+00:14:59,200 --> 00:15:00,488
+On a tous le droit de faire appel
+
+316
+00:15:00,538 --> 00:15:02,570
+Pas si l'on en croit l'agent Gibbs.
+
+317
+00:15:02,622 --> 00:15:04,700
+J'ai parcouru son dossier.
+
+318
+00:15:04,748 --> 00:15:07,651
+Il semble préférer une façon plus biblique
+
+319
+00:15:07,701 --> 00:15:09,099
+d'appréhender la chose.
+
+320
+00:15:09,181 --> 00:15:09,966
+Si vous voulez mon avis,
+
+321
+00:15:10,016 --> 00:15:12,166
+l'agence tourne mieux sans lui.
+
+322
+00:15:13,136 --> 00:15:14,054
+Oh.
+
+323
+00:15:14,133 --> 00:15:16,228
+Je vous apprécie, Michelle,
+donc je vais faire
+
+324
+00:15:16,278 --> 00:15:17,658
+comme si vous n'aviez rien dit.
+
+325
+00:15:17,689 --> 00:15:20,044
+C'est une chance pour le NCIS que Gibbs soit de retour.
+
+326
+00:15:20,111 --> 00:15:21,719
+Sauf qu'il ne reste pas.
+
+327
+00:15:21,744 --> 00:15:23,035
+Vous réalisez...
+
+328
+00:15:23,085 --> 00:15:25,831
+Vous pouvez me tuer sans laisser
+aucune preuve scientifique derrière vous?
+
+329
+00:15:25,847 --> 00:15:27,469
+Ouais, vous l'avez déjà dit.
+
+330
+00:15:27,519 --> 00:15:29,415
+Bien, alors.
+C'est réglé.
+
+331
+00:15:29,486 --> 00:15:30,846
+Gibbs reste.
+
+332
+00:15:31,553 --> 00:15:32,705
+Il est obligé.
+
+333
+00:15:32,833 --> 00:15:34,009
+Pas vrai, Gibbs ?
+
+334
+00:15:42,659 --> 00:15:43,907
+Qu'est ce que tu as pour moi, Abby ?
+
+335
+00:15:43,939 --> 00:15:45,710
+Les empreintes digitales de Paulson
+sur la boîte du revolver
+
+336
+00:15:45,777 --> 00:15:47,091
+et sur l'ordinateur de Mickey.
+
+337
+00:15:47,141 --> 00:15:50,512
+Et il a aussi visité des douzaines
+de sites de recherche de personnes.
+
+338
+00:15:50,562 --> 00:15:51,841
+Je pense qu'il cherchait quelqu'un.
+
+339
+00:15:51,941 --> 00:15:52,983
+Ouais, je suis au courant.
+
+340
+00:15:53,033 --> 00:15:55,213
+Pas encore de nom,
+mais j'utilise
+
+341
+00:15:55,263 --> 00:15:57,278
+le serveur central du FBI pour décrypter
+l'historique des recherches
+
+342
+00:15:58,441 --> 00:16:00,623
+Oh. Tu as toujours eu un excellent timing.
+
+343
+00:16:02,157 --> 00:16:03,214
+Mickey ?
+
+344
+00:16:03,309 --> 00:16:05,335
+Où est ce diable de
+Mickey, clocharde ?
+
+345
+00:16:05,385 --> 00:16:07,282
+Mickey n'est pas ici.
+
+346
+00:16:07,803 --> 00:16:09,254
+C'est la cybercopine
+de Mickey.
+
+347
+00:16:09,304 --> 00:16:10,905
+Elle essaye de
+pénétrer mon pare-feu.
+
+348
+00:16:10,955 --> 00:16:12,519
+Russell Nash.
+
+349
+00:16:12,567 --> 00:16:13,862
+Apparemment, il est...
+
+350
+00:16:13,912 --> 00:16:15,263
+Le seul complice que Paulson n'a pas tué.
+
+351
+00:16:15,413 --> 00:16:17,598
+Oui, et le seul
+qu'il aurait peut-être dû.
+
+352
+00:16:17,645 --> 00:16:19,379
+Nash a porté réclamation
+et a témoigné contre Paulson.
+
+353
+00:16:19,445 --> 00:16:20,578
+Paulson a pris perpétuité
+
+354
+00:16:20,645 --> 00:16:23,251
+et Nash s'en est sorti avec 18 mois.
+
+355
+00:16:23,301 --> 00:16:24,785
+Libéré sur parole.
+
+356
+00:16:24,835 --> 00:16:26,101
+N'a rien fait depuis.
+
+357
+00:16:26,151 --> 00:16:28,406
+Donc, si l'argent n'a jamais
+été trouvé, alors peut-être que
+
+358
+00:16:28,469 --> 00:16:29,665
+Paulson recherche Nash
+
+359
+00:16:29,715 --> 00:16:30,678
+car il croit que c'est
+Nash qui a le butin.
+
+360
+00:16:30,726 --> 00:16:32,120
+Ou bien Paulson recherche
+
+361
+00:16:32,170 --> 00:16:35,407
+quelque chose de plus...
+biblique.
+
+362
+00:16:37,846 --> 00:16:38,498
+<i>Merci.</i>
+
+363
+00:16:38,548 --> 00:16:40,139
+Je vais prévenir l'agent
+Gibbs immédiatement
+
+364
+00:16:40,187 --> 00:16:41,528
+et on se verra samedi.
+
+365
+00:16:41,578 --> 00:16:42,766
+O.K.
+
+366
+00:16:44,929 --> 00:16:46,868
+Alors, est-ce que le FBI a pu
+prévenir tous les témoins ?
+
+367
+00:16:46,900 --> 00:16:48,187
+Tous excepté un.
+
+368
+00:16:48,251 --> 00:16:50,285
+Est-ce ton troisième
+Caf-POW, McGee ?
+
+369
+00:16:50,905 --> 00:16:52,812
+Mon quatrième.
+Comment sont-elles ?
+
+370
+00:16:53,411 --> 00:16:55,586
+Tu devrais essayer les myrtilles.
+
+371
+00:16:55,741 --> 00:16:57,250
+Quelque chose d'intéressant
+sur notre ligne directe de tuyaux ?
+
+372
+00:16:57,343 --> 00:16:58,300
+Y'en a-t-il jamais ?
+
+373
+00:16:58,339 --> 00:17:00,636
+La moitié des visiteurs ne sait
+pas ce que c'est un tuyau.
+
+374
+00:17:00,649 --> 00:17:01,871
+Tu as parlé à Gibbs depuis ?
+
+375
+00:17:01,971 --> 00:17:03,028
+À quel sujet ?
+
+376
+00:17:03,060 --> 00:17:04,381
+Tu ne te demandes pas
+pourquoi il est de retour ?
+
+377
+00:17:04,431 --> 00:17:06,092
+Il aide Fornell comme il t'a aidé.
+
+378
+00:17:06,159 --> 00:17:08,339
+On prend une petite pause, DiNozzo ?
+
+379
+00:17:08,389 --> 00:17:10,856
+Oh, je crois que tu sais exactement
+ce que je fais,
+
+380
+00:17:10,989 --> 00:17:12,723
+Agent Gibbs.
+
+381
+00:17:12,819 --> 00:17:13,913
+Pourquoi crois-tu qu'il est de retour ?
+
+382
+00:17:13,922 --> 00:17:16,157
+Je ne sais pas, mais j'espère
+que c'est plus que pour aider Fornell.
+
+383
+00:17:16,210 --> 00:17:19,764
+C'est que je commence à être malade
+de ces "feux de camps".
+
+384
+00:17:19,816 --> 00:17:20,885
+Que le spectacle commence.
+
+385
+00:17:21,114 --> 00:17:22,613
+Je n'aimerais pas que Tony
+sache que tu as dit ça.
+
+386
+00:17:22,647 --> 00:17:23,870
+Dit quoi, agent McGee ?
+
+387
+00:17:23,920 --> 00:17:25,403
+Oui, je disais juste à McGee
+que le FBI a réussi...
+
+388
+00:17:25,503 --> 00:17:28,664
+à prévenir tous les témoins du procès
+de Paulson, excepté pour l'un d'eux ?
+
+389
+00:17:28,714 --> 00:17:30,986
+Exact ! Le seul qu'ils n'ont
+pas pu trouver est...
+
+390
+00:17:31,036 --> 00:17:32,317
+Russell Nash.
+
+391
+00:17:36,044 --> 00:17:38,762
+J'ai encore beaucoup
+à apprendre, Maître.
+
+392
+00:17:39,070 --> 00:17:40,733
+"Feu de camp" !
+
+393
+00:17:43,236 --> 00:17:44,531
+Nous y voilà.
+
+394
+00:17:44,581 --> 00:17:45,970
+Quelque chose de nouveau
+que j'adore faire.
+
+395
+00:17:46,020 --> 00:17:48,180
+Je trouve que cela soude le groupe,
+bien mieux que...
+
+396
+00:17:48,241 --> 00:17:50,321
+tu sais, gueuler dans les gradins.
+
+397
+00:17:52,232 --> 00:17:53,964
+Non pas qu'il y est
+quelque chose de mal à ça.
+
+398
+00:17:54,855 --> 00:17:57,012
+Concentrons-nous sur Russell Nash.
+
+399
+00:17:57,382 --> 00:17:58,237
+L'homme de l'intérieur.
+
+400
+00:17:58,287 --> 00:17:59,698
+Il travaillait pour la banque
+que Paulson a braqué.
+
+401
+00:17:59,761 --> 00:18:00,980
+Notre seul témoin manquant.
+
+402
+00:18:01,030 --> 00:18:01,835
+Selon Abby,
+
+403
+00:18:01,885 --> 00:18:03,264
+Paulson est après lui.
+
+404
+00:18:03,321 --> 00:18:05,118
+- Si nous trouvons Nash...
+- Nous trouvons Paulson.
+
+405
+00:18:06,861 --> 00:18:08,129
+Feu de camp terminé.
+
+406
+00:18:08,272 --> 00:18:09,985
+<i>Enfin la dernière question.</i>
+
+407
+00:18:10,026 --> 00:18:11,687
+"Avec vos propres mots,
+dites-moi la différence
+
+408
+00:18:11,737 --> 00:18:13,752
+entre l'éthique et la morale."
+
+409
+00:18:13,816 --> 00:18:16,701
+Eh bien, l'homme pourvu d'éthique
+sait qu'il ne devrait pas tromper sa femme,
+
+410
+00:18:16,748 --> 00:18:20,642
+tandis que l'homme faisant preuve de
+morale ne le voudrait pas réellement.
+
+411
+00:18:20,976 --> 00:18:23,161
+Vous allez réussir
+vos examens, Docteur.
+
+412
+00:18:23,861 --> 00:18:24,787
+De retour à l'école ?
+
+413
+00:18:24,837 --> 00:18:25,670
+Je n'ai jamais arrêté.
+
+414
+00:18:25,732 --> 00:18:28,514
+Le docteur va obtenir un diplôme
+de psychologie criminelle.
+
+415
+00:18:28,577 --> 00:18:29,950
+Oui, grâce à cela, je serai
+capable d'ajouter
+
+416
+00:18:30,004 --> 00:18:33,055
+l'autopsie psychologique à mon arsenal.
+
+417
+00:18:33,135 --> 00:18:35,030
+Je serais non seulement capable
+de découvrir le comment
+
+418
+00:18:35,078 --> 00:18:40,232
+mais aussi le pourquoi
+du décès de nos patients.
+
+419
+00:18:40,282 --> 00:18:44,829
+Je veux dire, ce qui nous motive
+peut être vraiment délicat à trouver.
+
+420
+00:18:45,433 --> 00:18:46,748
+Je me demandais
+quand tu allais
+
+421
+00:18:46,800 --> 00:18:48,512
+descendre et venir me voir.
+
+422
+00:18:48,608 --> 00:18:49,879
+J'ai été occupé.
+
+423
+00:18:50,038 --> 00:18:51,675
+Ou bien tu m'évitais.
+
+424
+00:18:52,812 --> 00:18:54,306
+Je me demande bien
+
+425
+00:18:54,369 --> 00:18:56,288
+pourquoi ce serait ça.
+
+426
+00:18:56,320 --> 00:18:57,433
+Je ne reste pas.
+
+427
+00:18:57,496 --> 00:18:58,674
+Je ne pensais pas que tu restais.
+
+428
+00:18:58,724 --> 00:19:01,985
+Je sais que quand Leroy
+Jethro Gibbs s'est fait une raison,
+
+429
+00:19:02,035 --> 00:19:03,810
+sa raison est faite.
+
+430
+00:19:04,621 --> 00:19:05,813
+Donc...
+
+431
+00:19:07,386 --> 00:19:08,765
+Pourquoi es-tu ici ?
+
+432
+00:19:08,797 --> 00:19:10,839
+L'affaire Paulson,
+qu'est-ce que tu en sais ?
+
+433
+00:19:10,889 --> 00:19:14,177
+J'ai pris la liberté
+de consulter les rapports du légiste
+
+434
+00:19:14,241 --> 00:19:16,186
+sur les meurtres des deux
+complices de Paulson.
+
+435
+00:19:16,229 --> 00:19:17,292
+Quelque chose t'a frappé ?
+
+436
+00:19:17,362 --> 00:19:19,740
+C'est le cas le plus discutable
+que je n’ai jamais vu,
+
+437
+00:19:19,790 --> 00:19:21,769
+d'un point de vue
+pathologique, pourquoi ?
+
+438
+00:19:22,186 --> 00:19:25,339
+Suspectes-tu une mystification
+au sein de cette supercherie ?
+
+439
+00:19:25,386 --> 00:19:25,950
+Non.
+
+440
+00:19:25,974 --> 00:19:27,470
+Pourtant tu es en bas
+en train de me demander
+
+441
+00:19:27,520 --> 00:19:29,271
+s'il y a quelque chose qui
+cloche à propos de l'affaire.
+
+442
+00:19:29,321 --> 00:19:33,702
+Tes fameuses tripes guident-elles
+encore ton instinct ?
+
+443
+00:19:33,718 --> 00:19:36,516
+J'ai déjà eu ce moment, et ça
+me disait que Paulson était coupable.
+
+444
+00:19:36,579 --> 00:19:39,601
+Et quand Leroy Jethro Gibbs
+s'est fait une raison,
+
+445
+00:19:39,651 --> 00:19:41,053
+sa raison est faite.
+
+446
+00:19:41,551 --> 00:19:44,053
+Dommage pour
+le Quartier-maître Paulson.
+
+447
+00:19:44,133 --> 00:19:46,135
+Espérons que
+les choses se passent
+
+448
+00:19:46,167 --> 00:19:48,440
+mieux pour toi au Mexique.
+
+449
+00:19:57,120 --> 00:19:58,311
+Rien sur l'avis de recherche
+de Russel Nash
+
+450
+00:19:58,361 --> 00:20:00,819
+mais on a eu quelque chose d'autre sur Paulson par la voie officieuse.
+
+451
+00:20:00,865 --> 00:20:02,616
+- Quoi ?
+- Paulson.
+
+452
+00:20:03,593 --> 00:20:04,823
+Salut, Jethro.
+
+453
+00:20:04,927 --> 00:20:06,781
+Vous avez un réseau d'indics
+pour me trouver,
+
+454
+00:20:06,831 --> 00:20:10,153
+mais rien de cela à l'époque
+de mon affaire. Pas cool.
+
+455
+00:20:10,470 --> 00:20:12,564
+Je vais devoir m'en occuper.
+
+456
+00:20:13,359 --> 00:20:14,194
+Mais pour l'instant,
+
+457
+00:20:14,244 --> 00:20:16,514
+j'appelais juste pour vous remercier
+pour la voiture.
+
+458
+00:20:16,543 --> 00:20:19,625
+J'ai laissé un gage
+d'amitié en retour.
+
+459
+00:20:19,689 --> 00:20:21,549
+Je suis sûr que vous
+allez bientôt le trouver.
+
+460
+00:20:22,592 --> 00:20:24,735
+Il a appelé sa propre ligne
+de renseignements.
+
+461
+00:20:25,228 --> 00:20:26,817
+Je commence à
+aimer ce type.
+
+462
+00:20:26,865 --> 00:20:29,217
+Nous aurons bientôt une adresse
+grâce au traçage de l'appel.
+
+463
+00:20:29,281 --> 00:20:30,083
+Nous l'avons !
+
+464
+00:20:30,187 --> 00:20:31,859
+C'est dans le centre. 4242...
+
+465
+00:20:31,924 --> 00:20:33,438
+Boulevard Adams ?
+
+466
+00:20:35,476 --> 00:20:36,938
+Tu y as déjà été, patron ?
+
+467
+00:20:36,988 --> 00:20:37,509
+Oui.
+
+468
+00:20:37,609 --> 00:20:40,232
+C'est là que Paulson a tué
+ses deux complices.
+
+469
+00:20:48,442 --> 00:20:49,718
+Est-ce que Gibbs se rend compte
+
+470
+00:20:49,768 --> 00:20:51,239
+que notre mandat n'est pas
+encore officiellement arrivé ?
+
+471
+00:20:51,255 --> 00:20:53,273
+Ouais, je pense qu'il l'a compris à la
+cinquième fois que tu lui as dit, Lee.
+
+472
+00:20:53,329 --> 00:20:54,369
+J'ai mis mes équipes devant.
+
+473
+00:20:54,495 --> 00:20:55,762
+Une idée sur le jeu
+qu'il joue en ce moment ?
+
+474
+00:20:55,828 --> 00:20:57,028
+Pas la moindre.
+
+475
+00:20:57,095 --> 00:20:57,731
+O.K., McGee, Ziva,
+
+476
+00:20:57,781 --> 00:20:58,777
+Sortie de secours, Lee...
+
+477
+00:20:58,877 --> 00:21:00,322
+Surveille les voitures.
+
+478
+00:21:06,314 --> 00:21:07,739
+Rentrez.
+
+479
+00:21:10,765 --> 00:21:12,493
+J'imagine que tu préfèrerais
+siroter un bon verre
+
+480
+00:21:12,543 --> 00:21:13,639
+dans un bar sur la plage que
+d'être ici en ce moment.
+
+481
+00:21:13,689 --> 00:21:14,945
+Ça m'a traversé l'esprit.
+
+482
+00:21:14,995 --> 00:21:16,240
+Moi aussi.
+
+483
+00:21:18,095 --> 00:21:20,778
+On parie sur le cadeau que
+Paulson a laissé ?
+
+484
+00:21:20,810 --> 00:21:23,718
+Espérons que ce ne soit pas
+la tête de Russell sur une pique.
+
+485
+00:21:24,497 --> 00:21:25,895
+Agents fédéraux !
+
+486
+00:21:42,286 --> 00:21:44,233
+Il apparaît que
+l'ex quartier-maître Paulson
+
+487
+00:21:44,283 --> 00:21:45,227
+essaye de mettre en évidence
+
+488
+00:21:45,277 --> 00:21:46,818
+les anomalies dans
+cette scène de crime.
+
+489
+00:21:46,877 --> 00:21:48,906
+Ouais. Un point pour lui.
+
+490
+00:21:50,162 --> 00:21:51,310
+Pour quelqu'un de coupable,
+il s'applique avec attention
+
+491
+00:21:51,377 --> 00:21:53,957
+pour essayer de nous convaincre
+de son innocence.
+
+492
+00:21:54,032 --> 00:21:55,816
+Un autre point pour lui.
+
+493
+00:21:57,231 --> 00:21:58,590
+Personne n'a entendu les coups de feu ?
+
+494
+00:21:58,631 --> 00:22:00,243
+Eh bien, ce n'est pas vraiment
+
+495
+00:22:00,275 --> 00:22:02,516
+un endroit où il y a
+beaucoup de vis-à-vis.
+
+496
+00:22:04,097 --> 00:22:05,987
+Et le fait que l'ADN de
+Paulson a été trouvé
+
+497
+00:22:06,037 --> 00:22:07,604
+sous les ongles de la victime,
+
+498
+00:22:07,665 --> 00:22:09,341
+mais qu'il n'y a aucun
+autre signe de lutte ?
+
+499
+00:22:09,391 --> 00:22:12,163
+Tu as vu tout cela
+en un quart de seconde, Ziva
+
+500
+00:22:16,681 --> 00:22:18,525
+Pourquoi ne s'échappe-t-il pas ?
+
+501
+00:22:18,798 --> 00:22:20,305
+C'est une bonne question.
+
+502
+00:22:20,877 --> 00:22:22,166
+Qu'est-ce que ton instinct dit ?
+
+503
+00:22:22,216 --> 00:22:23,833
+Il y a quatre ans ?
+Que Paulson était coupable.
+
+504
+00:22:24,097 --> 00:22:25,352
+Je ne pensais pas à
+quatre ans auparavant.
+
+505
+00:22:25,402 --> 00:22:26,631
+Paulson n'en a pas après Nash
+
+506
+00:22:26,698 --> 00:22:27,731
+pour l'argent du braquage.
+
+507
+00:22:27,798 --> 00:22:29,097
+Il poursuit Nash car
+
+508
+00:22:29,114 --> 00:22:30,757
+c'est le seul qui
+peut le disculper.
+
+509
+00:22:30,807 --> 00:22:33,640
+Donc tes tripes t'avaient-elles
+induites en erreur il y a quatre ans
+
+510
+00:22:33,798 --> 00:22:35,222
+ou se trompent-elles maintenant ?
+
+511
+00:22:35,364 --> 00:22:37,633
+Notre boulot n'est pas de
+rouvrir l'affaire Paulson.
+
+512
+00:22:37,697 --> 00:22:39,080
+Simplement de l'attraper.
+
+513
+00:22:39,197 --> 00:22:41,492
+Paulson a déjà rouvert
+son affaire, Ziva.
+
+514
+00:22:41,571 --> 00:22:43,364
+Peu importe ce que
+nous devons faire,
+
+515
+00:22:43,431 --> 00:22:45,243
+si nous voulons anticiper
+son prochain mouvement.
+
+516
+00:22:45,531 --> 00:22:47,244
+Maintenant, nous devons
+rouvrir son affaire aussi.
+
+517
+00:22:48,097 --> 00:22:49,100
+Un garçon malin.
+
+518
+00:22:53,932 --> 00:22:56,398
+L'avocat commis d'office
+qui représentait Paulson
+
+519
+00:22:56,414 --> 00:22:57,667
+est en congé maternité.
+
+520
+00:22:57,712 --> 00:22:59,666
+- Le procureur ?
+- Réserviste pour la marine.
+
+521
+00:22:59,716 --> 00:23:01,241
+A été déployé en Irak
+il y a deux ans.
+
+522
+00:23:01,297 --> 00:23:03,119
+Tué par un appareil explosif improvisé
+le mois dernier.
+
+523
+00:23:03,169 --> 00:23:05,791
+À moins que l'on ne trouve quelqu'un
+qui connaisse bien l'affaire,
+
+524
+00:23:05,841 --> 00:23:08,151
+cela nous prendra des jours
+rien que pour le rattraper,
+
+525
+00:23:08,199 --> 00:23:10,742
+ce qui est insuffisant pour anticiper
+le prochain mouvement de Paulson.
+
+526
+00:23:10,901 --> 00:23:11,803
+Du calme.
+
+527
+00:23:11,866 --> 00:23:13,566
+Gibbs a amené Mickey Stokes.
+
+528
+00:23:13,598 --> 00:23:15,744
+Personne ne connaît Paulson
+mieux que lui.
+
+529
+00:23:15,998 --> 00:23:17,261
+Est-ce aussi un avocat ?
+
+530
+00:23:17,311 --> 00:23:18,752
+Nous ne pouvons pas
+tous être des avocats,
+
+531
+00:23:18,865 --> 00:23:19,932
+Agent Lee.
+
+532
+00:23:20,398 --> 00:23:21,504
+<i>Alors qu'est-ce qui vous
+a fait changer d'avis</i>
+
+533
+00:23:21,554 --> 00:23:22,757
+à propos de mon garçon ?
+
+534
+00:23:22,805 --> 00:23:25,121
+Le magicien d'Oz vous a-t-il
+finalement donné un coeur ?
+
+535
+00:23:25,171 --> 00:23:26,357
+Qui a dit que
+j'ai changé d'avis ?
+
+536
+00:23:26,389 --> 00:23:28,471
+Ce n'était sûrement
+pas un cerveau.
+
+537
+00:23:28,531 --> 00:23:31,332
+Si Paulson était manipulé,
+nous devons découvrir comment.
+
+538
+00:23:31,408 --> 00:23:32,880
+Peut-être était-ce
+un cerveau finalement.
+
+539
+00:23:33,131 --> 00:23:35,143
+De toute façon, merci.
+
+540
+00:23:35,243 --> 00:23:37,742
+J'ai attendu si longtemps
+pour que quelqu'un m'écoute.
+
+541
+00:23:37,821 --> 00:23:39,379
+Ne me remerciez pas maintenant.
+
+542
+00:23:39,601 --> 00:23:40,849
+Le jury a eu deux semaines,
+
+543
+00:23:40,899 --> 00:23:42,756
+et ils n'ont pas cru
+que Paulson a été manipulé.
+
+544
+00:23:42,998 --> 00:23:44,186
+Autrement, vous avez un jour
+
+545
+00:23:44,214 --> 00:23:46,481
+pour convaincre notre
+scientifique.**
+
+546
+00:23:46,523 --> 00:23:48,287
+Vous devez être Mickey.
+
+547
+00:23:48,698 --> 00:23:49,970
+Eh bien... Je serais
+
+548
+00:23:50,020 --> 00:23:52,094
+celui que vous voulez que je sois.
+
+549
+00:23:52,205 --> 00:23:54,367
+Mickey ira très bien.
+
+550
+00:23:54,891 --> 00:23:56,472
+J'aime votre uniforme.
+
+551
+00:23:56,504 --> 00:23:57,463
+Merci.
+
+552
+00:23:58,181 --> 00:24:00,242
+Mon chien a un collier
+comme celui-ci.
+
+553
+00:24:01,884 --> 00:24:03,550
+Ainsi, dans l'intérêt
+de la discussion, disons que
+
+554
+00:24:03,600 --> 00:24:05,523
+Derrick Paulson était manipulé.
+
+555
+00:24:05,573 --> 00:24:08,027
+Ce qui fait de Russell Nash
+ton premier suspect.
+
+556
+00:24:08,052 --> 00:24:10,046
+Exactement, directeur.
+
+557
+00:24:10,747 --> 00:24:12,112
+Hé, Gibbs.
+
+558
+00:24:12,414 --> 00:24:14,036
+Pourquoi tu ne viendrais
+pas nous rejoindre
+
+559
+00:24:14,086 --> 00:24:15,839
+pour un petit feu de camp ?
+
+560
+00:24:20,281 --> 00:24:20,888
+Où va-t-il ?
+
+561
+00:24:20,932 --> 00:24:22,465
+- Sous-sol.
+- Fornell.
+
+562
+00:24:22,521 --> 00:24:24,166
+- Whisky.
+- Pas ce soir.
+
+563
+00:24:24,264 --> 00:24:26,614
+Son agent immobilier procède
+à des fumigations dans sa maison.
+
+564
+00:24:26,665 --> 00:24:29,443
+Apparemment,
+Gibbs a des termites.
+
+565
+00:24:29,729 --> 00:24:31,131
+<i>J'allais te proposer le sofa,</i>
+
+566
+00:24:31,168 --> 00:24:33,353
+mais quand j'ai dit à Emily
+que tu restais cette nuit,
+
+567
+00:24:33,403 --> 00:24:35,094
+elle a insisté pour que
+tu prennes sa chambre.
+
+568
+00:24:35,194 --> 00:24:39,329
+Elle a même ajouté que tu peux dormir
+avec sa poupée "Raspberry Rumtart".
+
+569
+00:24:44,765 --> 00:24:45,891
+Papa, regarde.
+
+570
+00:24:46,064 --> 00:24:48,137
+Vous pouvez embrasser la mariée.
+
+571
+00:24:52,001 --> 00:24:54,624
+Ainsi, cela fait quatre épouses.
+
+572
+00:24:54,965 --> 00:24:56,516
+À moins qu'il n'y ait autre chose
+dont tu voulais me parler.
+
+573
+00:24:56,598 --> 00:24:58,433
+Il y a quelque chose
+que tu veux savoir, Tobias ?
+
+574
+00:25:06,071 --> 00:25:07,907
+Tu avais une famille, Jethro.
+
+575
+00:25:07,955 --> 00:25:10,450
+Je sais que tu aimes
+cacher ton jeu, mais...
+
+576
+00:25:11,164 --> 00:25:12,918
+Bon Dieu, je me suis marié avec
+ta deuxième femme.
+
+577
+00:25:12,968 --> 00:25:14,898
+- J'ai essayé de te prévenir.
+- Je sais, je sais.
+
+578
+00:25:14,965 --> 00:25:16,021
+Je ne t'ai pas écouté.
+
+579
+00:25:16,053 --> 00:25:18,162
+Si je l'avais fait, j'aurais peut-être
+encore une maison
+
+580
+00:25:18,212 --> 00:25:20,038
+avec une chambre d'ami pour toi.
+
+581
+00:25:27,431 --> 00:25:29,543
+Je sais qu'on n'a pas l'habitude.
+
+582
+00:25:33,565 --> 00:25:35,082
+Alors on a foiré ?
+
+583
+00:25:36,281 --> 00:25:37,903
+Attendons ce qu'Abby va dire.
+
+584
+00:25:37,932 --> 00:25:39,798
+On a foiré. Pas qu'un peu.
+
+585
+00:25:40,657 --> 00:25:42,071
+Je suis sûr que ce n'était pas la première fois,
+
+586
+00:25:42,119 --> 00:25:43,677
+et je sais que ça ne sera pas la dernière.
+
+587
+00:25:45,175 --> 00:25:46,367
+Pour moi, si.
+
+588
+00:25:48,081 --> 00:25:49,975
+Au moins, on peut toujours rectifier celle-ci.
+
+589
+00:25:53,798 --> 00:25:56,952
+Si Russell Nash a bien piégé Paulson,
+
+590
+00:25:57,002 --> 00:25:59,491
+il ne va pas se confesser quand Paulson le trouvera.
+
+591
+00:25:59,631 --> 00:26:00,879
+Il va tuer Paulson.
+
+592
+00:26:01,331 --> 00:26:02,352
+Je le sais.
+
+593
+00:26:02,559 --> 00:26:04,479
+Je t'avais dit qu'on avait merdé, pas vrai ?
+
+594
+00:26:07,418 --> 00:26:09,389
+C'est marrant comme les choses changent.
+
+595
+00:26:09,731 --> 00:26:11,296
+Quand j'étais petit,
+
+596
+00:26:12,197 --> 00:26:14,986
+j'ai toujours voulu être un agent du FBI.
+
+597
+00:26:15,097 --> 00:26:16,353
+Maintenant...
+
+598
+00:26:17,032 --> 00:26:19,937
+Il ne se passe pas un seul jour sans que
+je veuille redevenir un enfant.
+
+599
+00:26:20,531 --> 00:26:21,806
+Je n'en fais pas toute une histoire.
+
+600
+00:26:22,671 --> 00:26:24,081
+Pour moi,
+
+601
+00:26:24,081 --> 00:26:26,414
+quelqu'un qui ne veut pas quitter son travail ...
+
+602
+00:26:26,653 --> 00:26:28,369
+ne le fait pas bien.
+
+603
+00:26:29,855 --> 00:26:31,974
+<i>Ma mère va me tuer si elle voit ça.</i>
+
+604
+00:26:32,024 --> 00:26:34,765
+C'est du henné, ça partira dans quelque jours.
+
+605
+00:26:34,831 --> 00:26:35,769
+Ça fait bien.
+
+606
+00:26:35,965 --> 00:26:37,859
+Bon, j'aime les filles tatouées.
+
+607
+00:26:37,932 --> 00:26:38,738
+J'ai remarqué.
+
+608
+00:26:38,788 --> 00:26:40,347
+Est-ce qu'on peut en finir, s'il vous plaît ?
+
+609
+00:26:40,397 --> 00:26:41,684
+Va par là.
+
+610
+00:26:43,607 --> 00:26:47,334
+Peux-tu bouger un peu ?
+
+611
+00:26:49,142 --> 00:26:51,860
+D'accord, alors marcher en va-et-vient ?
+
+612
+00:26:52,321 --> 00:26:54,631
+Essayez ... de prendre la pose !
+
+613
+00:26:54,697 --> 00:26:56,197
+Une petite pose.
+
+614
+00:26:56,247 --> 00:26:57,776
+Allez, chaloupez les hanches, allez !
+
+615
+00:26:57,826 --> 00:26:59,970
+Donnez-nous quelque chose de dansant !
+
+616
+00:26:59,986 --> 00:27:01,067
+C'est parti !
+
+617
+00:27:01,365 --> 00:27:03,399
+Remuez le pelvis, regardez !
+
+618
+00:27:03,574 --> 00:27:06,045
+Comme si vous étiez sur scène.
+
+619
+00:27:06,095 --> 00:27:07,598
+Allez ! Les épaules !
+
+620
+00:27:07,665 --> 00:27:09,050
+Arrêtez !
+
+621
+00:27:11,859 --> 00:27:13,631
+Les épaules ?
+
+622
+00:27:13,698 --> 00:27:15,965
+Allez, faites-le !
+
+623
+00:27:16,031 --> 00:27:18,081
+D'accord mais c'est bien parce que c'est vous, Mickey !
+
+624
+00:27:19,831 --> 00:27:21,425
+Ouais !
+
+625
+00:27:30,197 --> 00:27:32,010
+Ce n'est pas ce à quoi ça ressemble.
+
+626
+00:27:32,064 --> 00:27:33,831
+Abby, éteins le musique s'il te plaît.
+
+627
+00:27:33,898 --> 00:27:35,142
+Maintenant, s'il te plaît.
+
+628
+00:27:35,221 --> 00:27:37,096
+Je suis tellement ...
+
+629
+00:27:37,798 --> 00:27:39,264
+Nous faisons notre travail, monsieur,
+
+630
+00:27:39,331 --> 00:27:40,426
+nous travaillions sur l'affaire Paulson.
+
+631
+00:27:40,458 --> 00:27:41,507
+Nous ...
+
+632
+00:27:41,666 --> 00:27:43,915
+Nous étions en train de faire des mesures
+
+633
+00:27:43,932 --> 00:27:46,347
+sur la réflectivité optique du henné.
+
+634
+00:27:46,398 --> 00:27:47,714
+Tu veux savoir pourquoi ?
+
+635
+00:27:48,302 --> 00:27:50,720
+Contente que tu t'intéresses.
+Nous sommes en train d'essayer de savoir
+
+636
+00:27:50,770 --> 00:27:52,458
+si des preuves ont été placées
+afin de piéger Paulson.
+
+637
+00:27:52,522 --> 00:27:54,305
+Comme l'ADN relevé, par exemple.
+
+638
+00:27:54,355 --> 00:27:57,334
+Il aurait facilement pu provenir de ... de ...
+
+639
+00:27:57,588 --> 00:27:59,815
+Pourquoi il me regarde comme ça ?
+
+640
+00:28:00,801 --> 00:28:02,867
+C'est le genre à aller à l'essentiel.
+
+641
+00:28:02,914 --> 00:28:04,531
+L'essentiel étant : plus Mickey
+
+642
+00:28:04,598 --> 00:28:06,259
+nous en disait, plus Paulson paraissait coupable.
+
+643
+00:28:06,300 --> 00:28:09,105
+Jusqu'à ce que nous regardions une vidéo du braquage.
+
+644
+00:28:09,153 --> 00:28:11,793
+Paulson a été identifié par son tatouage de marin.
+
+645
+00:28:11,887 --> 00:28:13,411
+Un particulier,
+
+646
+00:28:13,461 --> 00:28:15,697
+aussi unique qu'une empreinte et plutôt cool.
+
+647
+00:28:15,731 --> 00:28:16,980
+Avec les preuves convergentes,
+
+648
+00:28:17,030 --> 00:28:18,865
+c'était plus qu'assez pour convaincre le jury.
+
+649
+00:28:18,932 --> 00:28:20,187
+Tu penses que c'est un faux ?
+
+650
+00:28:20,235 --> 00:28:21,631
+C'est pour ça que nous prenions des photos.
+
+651
+00:28:21,698 --> 00:28:23,183
+Cela ressemble à un tatouage au henné.
+
+652
+00:28:23,215 --> 00:28:26,053
+Mais si Russell Nash s'était fait une copie
+pour piéger Paulson,
+
+653
+00:28:26,103 --> 00:28:28,482
+- Il y aurait une différence de couleur.
+- Peux-tu le prouver ?
+
+654
+00:28:28,532 --> 00:28:29,489
+Ouais, mais ...
+
+655
+00:28:29,548 --> 00:28:30,658
+J'aurais besoin de voir le tatouage
+
+656
+00:28:30,708 --> 00:28:32,090
+original de Paulson pour faire le test.
+
+657
+00:28:32,140 --> 00:28:33,741
+Il ne se laissera jamais faire.
+
+658
+00:28:33,773 --> 00:28:35,558
+Sauf s'il croit que vous voulez sérieusement
+
+659
+00:28:35,608 --> 00:28:37,159
+rouvrir son dossier.
+
+660
+00:28:37,209 --> 00:28:38,585
+Et il ne le croira pas
+
+661
+00:28:38,632 --> 00:28:41,655
+tant que vous n'aurez pas coffré
+ce salaud de Russell Nash.
+
+662
+00:28:41,705 --> 00:28:42,507
+On y travaille.
+
+663
+00:28:42,570 --> 00:28:43,939
+On a une piste pour ça aussi.
+
+664
+00:28:43,981 --> 00:28:45,613
+Le FBI a fait des recherches de routine
+
+665
+00:28:45,663 --> 00:28:47,461
+sur tous les copains de Nash.
+
+666
+00:28:48,145 --> 00:28:49,943
+Voici Gary Silverstin.
+
+667
+00:28:49,993 --> 00:28:51,505
+Un ancien colocataire de Russell Nash.
+
+668
+00:28:51,555 --> 00:28:53,521
+Il a travaillé pour une boîte de tatouage.
+
+669
+00:28:53,585 --> 00:28:55,873
+Ça pourrait être juste une coïncidence, mais...
+
+670
+00:28:56,873 --> 00:28:58,560
+Il me déteste.
+
+671
+00:28:58,710 --> 00:29:00,097
+Non, non, non !
+
+672
+00:29:00,164 --> 00:29:01,053
+Attention, Gary.
+
+673
+00:29:01,103 --> 00:29:02,697
+Je vous l'ai dit, cinq pas en arrière.
+
+674
+00:29:02,790 --> 00:29:04,269
+Pour l'assurance.
+
+675
+00:29:04,331 --> 00:29:06,383
+Tu es assuré pour faire agitateur ?
+
+676
+00:29:06,732 --> 00:29:08,619
+"Indicateur Humain."
+
+677
+00:29:08,631 --> 00:29:09,857
+Tu es un signal, Gary.
+
+678
+00:29:09,907 --> 00:29:11,032
+Ouais, celui du futur.
+
+679
+00:29:11,097 --> 00:29:11,711
+Tu sais quoi, mon pote ?
+
+680
+00:29:11,761 --> 00:29:13,506
+J'ai rapporté 10 000 dollars de plus
+
+681
+00:29:13,556 --> 00:29:14,992
+le mois dernier au Broadbus Burger.
+
+682
+00:29:15,042 --> 00:29:17,747
+Dans quelques années, ce sera sûrement
+aux J.O.
+
+683
+00:29:17,798 --> 00:29:20,779
+Tu penses que tu pourrais être heureux
+de faire tourner un panneau toute la journée ?
+
+684
+00:29:20,922 --> 00:29:21,991
+Je ne sais pas.
+
+685
+00:29:22,066 --> 00:29:23,798
+Je pense que tu te lasserais.
+
+686
+00:29:24,131 --> 00:29:26,064
+Tu vas devoir arrêter ça ... Arrête !
+
+687
+00:29:26,131 --> 00:29:27,273
+Je suis en état d'arrestation ?
+
+688
+00:29:27,331 --> 00:29:29,464
+- Non.
+- Alors, non, mon ami.
+
+689
+00:29:29,481 --> 00:29:30,856
+Je travaille à l'heure.
+
+690
+00:29:32,763 --> 00:29:34,305
+Gary...
+
+691
+00:29:34,949 --> 00:29:37,333
+Je peux imaginer beaucoup de raisons
+pour t'arrêter.
+
+692
+00:29:37,364 --> 00:29:38,477
+Des tas.
+
+693
+00:29:39,176 --> 00:29:40,498
+Bien, O.K.
+Qu'est-ce que tu veux savoir d'autre ?
+
+694
+00:29:40,535 --> 00:29:42,067
+Oui, j'ai travaillé dans une boutique de tatouage.
+
+695
+00:29:42,117 --> 00:29:43,235
+Oui, j'ai vécu avec Nash.
+
+696
+00:29:43,285 --> 00:29:44,655
+Non, je ne sais pas où il est.
+
+697
+00:29:44,705 --> 00:29:46,239
+Et je ne sais rien à propos
+d'un braquage de banque.
+
+698
+00:29:46,289 --> 00:29:48,053
+Tout ça s'est passé après qu'il soit parti.
+
+699
+00:29:48,148 --> 00:29:49,253
+C'est bon ?
+
+700
+00:29:49,373 --> 00:29:50,747
+Désolé, mon pote.
+
+701
+00:29:52,829 --> 00:29:54,959
+Bonne chance pour Beijing en 2008, Gary.
+
+702
+00:29:59,164 --> 00:30:00,836
+Ce que je dis c'est qu'un homme de ta droiture
+
+703
+00:30:00,886 --> 00:30:02,187
+et de ton ambition a besoin de certaines ...
+
+704
+00:30:02,237 --> 00:30:03,538
+Je ne reste pas, Ziva.
+
+705
+00:30:03,598 --> 00:30:05,238
+C'était si évident ?
+
+706
+00:30:09,639 --> 00:30:11,257
+Alors, comment ça s'est passé ?
+
+707
+00:30:11,307 --> 00:30:13,136
+Je te réponds dans 20 secondes.
+
+708
+00:30:13,938 --> 00:30:15,276
+Il téléphone déjà à quelqu'un.
+
+709
+00:30:15,376 --> 00:30:16,522
+Mets-le sur le haut-parleur.
+
+710
+00:30:16,572 --> 00:30:17,703
+<i>Salut, c'est Nash.</i>
+
+711
+00:30:17,803 --> 00:30:19,279
+<i>Laissez-moi un message après le bip.</i>
+
+712
+00:30:19,379 --> 00:30:20,765
+J'avais bien dit que ça marcherait.
+
+713
+00:30:20,781 --> 00:30:22,435
+<i>Salut, Nash, c'est Gary S.</i>
+
+714
+00:30:22,485 --> 00:30:24,521
+Je sais bien que tu m'avais dit de ne jamais t'appeler
+
+715
+00:30:24,571 --> 00:30:25,723
+mais il y avait des fédéraux ici
+
+716
+00:30:25,773 --> 00:30:28,084
+et ils posaient des questions sur ce tatouage.
+
+717
+00:30:28,116 --> 00:30:29,191
+C'est un préfixe de Baltimore.
+
+718
+00:30:29,228 --> 00:30:32,191
+En fait, je crois que c'étaient des fédéraux.
+Je n'ai jamais entendu parler d'un N-C-
+
+719
+00:30:32,241 --> 00:30:33,865
+- C-I-S...
+- Je l'ai.
+
+720
+00:30:33,932 --> 00:30:35,132
+82 West Pratt Street,
+
+721
+00:30:35,182 --> 00:30:36,242
+appartement 12.
+
+722
+00:30:36,289 --> 00:30:38,387
+Je connais, 65 kilomètres au nord d'ici.
+
+723
+00:30:39,989 --> 00:30:41,653
+Pas mal pour une période de pointe.
+
+724
+00:30:41,717 --> 00:30:44,562
+Sauf que tu pourrais faire ces 65 km
+en 30 minutes, patron.
+
+725
+00:30:44,820 --> 00:30:46,104
+Quelque chose ne va pas.
+
+726
+00:30:46,492 --> 00:30:47,844
+Peut-être que Paulson nous a pris de vitesse
+
+727
+00:30:47,888 --> 00:30:49,315
+et découvert amèrement que Nash
+
+728
+00:30:49,365 --> 00:30:51,273
+ne comptait pas changer son témoignage.
+
+729
+00:30:51,766 --> 00:30:53,812
+Restez où vous êtes, ne vous approchez pas plus.
+
+730
+00:30:53,932 --> 00:30:55,008
+Bien.
+
+731
+00:31:02,041 --> 00:31:02,979
+C'est Nash.
+
+732
+00:31:15,794 --> 00:31:18,639
+La fin n'est jamais plaisante.
+
+733
+00:31:18,750 --> 00:31:21,333
+Et certainement pas plus pour ce jeune homme.
+
+734
+00:31:21,683 --> 00:31:23,701
+Au moins on peut voir l'effet d'une belle chute.
+
+735
+00:31:23,749 --> 00:31:25,155
+Je doute qu'il l'ait appréciée,
+
+736
+00:31:25,255 --> 00:31:27,056
+sachant que sa mâchoire était brisée,
+
+737
+00:31:27,098 --> 00:31:28,763
+tout comme six de ses doigts
+
+738
+00:31:28,779 --> 00:31:31,020
+et son genou.
+
+739
+00:31:31,052 --> 00:31:33,587
+Et tout ça avant la chute.
+
+740
+00:31:33,937 --> 00:31:35,034
+Le tueur l'a d'abord battu.
+
+741
+00:31:35,097 --> 00:31:36,985
+Plutôt interrogé.
+
+742
+00:31:37,016 --> 00:31:38,732
+Les blessures sont trop méthodiques,
+
+743
+00:31:38,799 --> 00:31:40,632
+trop calculées pour être seulement dues
+à un passage à tabac.
+
+744
+00:31:40,699 --> 00:31:42,799
+Quiconque a fait ça voulait
+des informations.
+
+745
+00:31:42,865 --> 00:31:44,932
+Et quand il les a eues ...
+
+746
+00:31:44,999 --> 00:31:47,848
+Il a remercié sa victime avec ça.
+
+747
+00:31:47,912 --> 00:31:50,034
+Je suppose qu'on peut exclure le suicide.
+
+748
+00:31:50,113 --> 00:31:51,810
+Oui, à moins que M. Nash
+
+749
+00:31:51,873 --> 00:31:53,888
+ait été capable de se tirer dans le dos,
+
+750
+00:31:53,936 --> 00:31:56,002
+trois fois de suite.
+
+751
+00:31:56,145 --> 00:31:59,181
+On est vraiment obligés de faire ça maintenant ?
+
+752
+00:31:59,212 --> 00:32:01,302
+Les balles sont des Winchester à pointe creuse.
+
+753
+00:32:01,350 --> 00:32:03,524
+Winchester à pointe creuse.
+
+754
+00:32:03,778 --> 00:32:05,383
+Hé, Gibbs. Gibbs.
+
+755
+00:32:05,510 --> 00:32:06,269
+Cool, hein ?
+
+756
+00:32:06,333 --> 00:32:09,098
+Elles ont été tirées par le Colt
+que la police de Baltimore
+
+757
+00:32:09,162 --> 00:32:10,131
+a trouvé près de la scène de crime.
+
+758
+00:32:10,195 --> 00:32:12,126
+Abs, as-tu recherché le numéro de série ?
+
+759
+00:32:12,142 --> 00:32:15,540
+C'est le pistolet que Paulson a volé
+chez Mickey Stokes.
+
+760
+00:32:15,571 --> 00:32:17,367
+Il a essayé de l'essuyer mais j'ai trouvé
+
+761
+00:32:17,398 --> 00:32:19,066
+une empreinte partielle.
+
+762
+00:32:19,131 --> 00:32:21,799
+Donc le gentleman qui nous demandait
+de prouver son innocence,
+
+763
+00:32:21,865 --> 00:32:24,559
+vient de tuer le seul homme
+qui pouvait l'innocenter.
+
+764
+00:32:24,607 --> 00:32:26,265
+Nash n'a pas piégé Paulson,
+ils étaient partenaires,
+
+765
+00:32:26,332 --> 00:32:28,132
+jusqu'à ce que Nash le double.
+
+766
+00:32:28,179 --> 00:32:31,271
+Notre ex-quartier maître ne voulait pas
+se blanchir,
+
+767
+00:32:31,334 --> 00:32:32,881
+il cherchait l'argent.
+
+768
+00:32:32,924 --> 00:32:36,196
+Et il s'est servi de nous pour le conduire directement à la banque.
+
+769
+00:32:36,246 --> 00:32:37,446
+Il est malin.
+
+770
+00:32:37,509 --> 00:32:39,134
+Mais si ton instinct te dit que Paulson est innocent,
+
+771
+00:32:39,184 --> 00:32:40,831
+alors peut-être que nous loupons quelque chose.
+
+772
+00:32:40,899 --> 00:32:43,382
+La seule chose que je loupe en ce moment,
+
+773
+00:32:43,430 --> 00:32:46,004
+c'est du bon temps au restau de Carlos.
+
+774
+00:33:16,383 --> 00:33:18,068
+Mais tu fais partie de la sécurité, pas vrai ?
+
+775
+00:33:18,131 --> 00:33:19,665
+Ne laisse pas Gibbs quitter le bâtiment.
+
+776
+00:33:19,732 --> 00:33:20,899
+Je t'ai déja dit pourquoi, Tom !
+
+777
+00:33:20,966 --> 00:33:22,298
+- Abby.
+- Laisse tomber. Fausse alerte.
+
+778
+00:33:22,365 --> 00:33:23,632
+Gibbs, oh, mon Dieu !
+
+779
+00:33:23,699 --> 00:33:25,231
+J'aurais mis ma main à couper que tu étais
+
+780
+00:33:25,298 --> 00:33:26,432
+en route pour le Mexique.
+
+781
+00:33:26,498 --> 00:33:27,899
+- Désolée, mais tu risquais de partir.
+- Abby !
+
+782
+00:33:27,966 --> 00:33:29,732
+Nous allons résoudre cette affaire, Gibbs.
+
+783
+00:33:29,799 --> 00:33:31,423
+Nous le faisons toujours !
+
+784
+00:33:33,481 --> 00:33:34,355
+Tu l'as déja résolue.
+
+785
+00:33:34,403 --> 00:33:35,976
+Non, mais toi tu vas le faire.
+
+786
+00:33:36,040 --> 00:33:37,948
+Je veux savoir comment Paulson a su.
+
+787
+00:33:37,998 --> 00:33:39,847
+- A su quoi ?
+- Tout.
+
+788
+00:33:39,926 --> 00:33:41,992
+Tout ce que nous croyions savoir.
+
+789
+00:33:44,999 --> 00:33:47,265
+Russell Nash a caché l'argent
+du braquage quelque part.
+
+790
+00:33:47,332 --> 00:33:48,732
+Si Paulson le trouve avant nous...
+
+791
+00:33:48,799 --> 00:33:49,732
+On ne le retrouvera plus.
+
+792
+00:33:49,799 --> 00:33:50,732
+Alors, où est l'argent ?
+
+793
+00:33:50,799 --> 00:33:52,498
+Nash utilisait un faux nom.
+
+794
+00:33:52,565 --> 00:33:54,497
+Toutes les transactions se faisaient
+uniquement en espèces.
+
+795
+00:33:54,545 --> 00:33:55,332
+L'argent n'est pas dans une banque.
+
+796
+00:33:55,398 --> 00:33:57,231
+Confié, peut-être.
+
+797
+00:33:57,298 --> 00:33:58,465
+Une tierce personne pourrait le garder.
+
+798
+00:33:58,532 --> 00:33:59,665
+Je vais regarder toutes les biens enregistrés
+sous un alias.
+
+799
+00:33:59,732 --> 00:34:01,832
+Peut-être qu'il cache l'argent dans un matelas,
+quelque part.
+
+800
+00:34:02,277 --> 00:34:04,089
+Feu de camp terminé.
+
+801
+00:34:05,011 --> 00:34:06,477
+- Où est Gibbs ?
+- Je ne sais pas.
+
+802
+00:34:06,509 --> 00:34:07,478
+Un problème ?
+
+803
+00:34:07,542 --> 00:34:10,363
+En fait ouais, plein de choses ne vont pas, Ziva.
+
+804
+00:34:10,413 --> 00:34:11,709
+Mises à part les dents de McGee,
+
+805
+00:34:11,759 --> 00:34:13,565
+On a un homme mort qui ne devrait pas
+être mort,
+
+806
+00:34:13,632 --> 00:34:14,765
+Un homme innocent qui n'est pas
+vraiment innocent,
+
+807
+00:34:14,832 --> 00:34:16,842
+et une piste qui ne va pas tarder à refroidir
+
+808
+00:34:16,892 --> 00:34:19,165
+parce que notre suspect réussit à garder un temps d'avance sur nous
+
+809
+00:34:19,231 --> 00:34:21,179
+depuis que toute cette affaire a commencé !
+
+810
+00:34:21,243 --> 00:34:22,996
+Tu remarques ça seulement maintenant, DiNozzo ?
+
+811
+00:34:23,046 --> 00:34:24,771
+Oh non, ça revient tout le temps.
+
+812
+00:34:27,415 --> 00:34:29,325
+Attention, c'est assez facile à...
+
+813
+00:34:31,403 --> 00:34:32,563
+casser.
+
+814
+00:34:34,725 --> 00:34:36,909
+C'est un mouchard radio à ondes courtes.
+
+815
+00:34:36,959 --> 00:34:37,699
+Paulson l'a sûrement
+
+816
+00:34:37,765 --> 00:34:40,196
+mis dans ton dictaphone quand il a volé
+ta voiture.
+
+817
+00:34:40,260 --> 00:34:42,421
+Et j'ai gravé les feux de camp sur CD.
+
+818
+00:34:42,469 --> 00:34:45,115
+Le dictaphone a été dans mon labo presque toute la journée.
+
+819
+00:34:45,165 --> 00:34:48,104
+Au moins maintenant on sait comment Paulson a filé Russell Nash.
+
+820
+00:34:48,151 --> 00:34:49,121
+Voilà le petit mouchard.
+
+821
+00:34:49,163 --> 00:34:49,799
+Tu peux le tracer, Abby ?
+
+822
+00:34:49,865 --> 00:34:51,398
+C'est impossible sans encodeur privé.
+
+823
+00:34:51,465 --> 00:34:55,216
+Mais... Je crois savoir où on peut en trouver un.
+
+824
+00:34:57,386 --> 00:35:00,131
+L'équipe de Paulson a mis un mouchard au directeur général de la banque
+
+825
+00:35:00,198 --> 00:35:03,386
+pendant deux semaines avant le braquage.
+C'était un travail sur mesure, tout comme celui-là.
+
+826
+00:35:03,465 --> 00:35:04,332
+Les flics ont interrogé le fabricant de mouchards,
+
+827
+00:35:04,398 --> 00:35:06,358
+et l'ont blanchi.
+
+828
+00:35:06,421 --> 00:35:11,961
+Je parierais un Caf-POW que ça vient du même type.
+
+829
+00:35:12,310 --> 00:35:13,550
+Comment tu peux dire ça ?
+
+830
+00:35:14,917 --> 00:35:16,403
+Il a signé son nom.
+
+831
+00:35:17,376 --> 00:35:18,131
+<i>C'est un crime pour toute personne</i>
+
+832
+00:35:18,198 --> 00:35:19,732
+agissant sous couvert de la loi
+
+833
+00:35:19,799 --> 00:35:22,305
+de priver un citoyen de ses droits légaux.
+
+834
+00:35:22,338 --> 00:35:24,117
+Article 18 du code pénal américain.
+
+835
+00:35:24,164 --> 00:35:26,390
+Personne ne vous prive de vos droits.
+
+836
+00:35:26,421 --> 00:35:29,107
+On vous demande juste une copie de l'encodeur que vous avez fait.
+
+837
+00:35:29,171 --> 00:35:30,465
+Personne ne doit être forcé
+
+838
+00:35:30,532 --> 00:35:33,188
+dans n'importe quel crime d'être un témoin
+contre lui-même.
+
+839
+00:35:33,220 --> 00:35:34,786
+Ça doit être le cinquième amendement.
+
+840
+00:35:34,849 --> 00:35:36,407
+<i>Et personne ne vous a accusé de crime non plus.</i>
+
+841
+00:35:36,439 --> 00:35:38,727
+<i>Alors pourquoi votre voyou a confisqué mes dossiers ?</i>
+
+842
+00:35:38,775 --> 00:35:39,632
+Voyou ?
+
+843
+00:35:39,705 --> 00:35:41,265
+Je t'avais dit d'arrêter de rentrer la tête dans les épaules.
+
+844
+00:35:41,332 --> 00:35:43,376
+Comment tu peux savoir qu'il ne parlait pas de toi ?
+
+845
+00:35:43,424 --> 00:35:44,365
+Ça s'appelle un miroir, McGee.
+
+846
+00:35:44,432 --> 00:35:48,121
+Non, j'ai dit toutes les issues, pas toutes les autres issues.
+
+847
+00:35:48,264 --> 00:35:50,775
+Pour la même raison que vous ne passez pas
+chacune de vos dents au fil dentaire.
+
+848
+00:35:50,839 --> 00:35:52,539
+Où est cet encodeur, DiNozzo ?
+
+849
+00:35:53,086 --> 00:35:54,820
+C'est un peu la pagaille, patron.
+
+850
+00:35:54,979 --> 00:35:55,842
+Gibbs.
+
+851
+00:35:55,892 --> 00:35:57,899
+<i>Le code fédéral précise également</i>
+
+852
+00:35:58,043 --> 00:35:59,584
+que je n'ai pas seulement le droit
+
+853
+00:35:59,632 --> 00:36:01,498
+de garder le silence, mais aussi de garder
+
+854
+00:36:01,565 --> 00:36:02,866
+<i>toute information adéquate.</i>
+
+855
+00:36:02,882 --> 00:36:04,066
+Si ça continue, on va être obligé
+
+856
+00:36:04,131 --> 00:36:06,506
+de lâcher l'agent Lee.
+
+857
+00:36:12,741 --> 00:36:14,565
+- Maintenant ça devrait être rapide.
+- Ça vaudrait mieux.
+
+858
+00:36:14,632 --> 00:36:17,850
+On a un fugitif en fuite avec une avance
+plutôt importante.
+
+859
+00:36:18,527 --> 00:36:19,849
+<i>Le fugitif...</i>
+
+860
+00:36:19,929 --> 00:36:21,594
+Vous pouvez me fixer toute la journée, G-man*.
+
+861
+00:36:21,594 --> 00:36:21,594
+*G-man : personnage mystérieux dans le jeu vidéo Half-Life.
+
+862
+00:36:21,673 --> 00:36:22,738
+Je ne dirais rien.
+
+863
+00:36:22,778 --> 00:36:24,200
+Vous avez quelque chose à cacher ?
+
+864
+00:36:24,264 --> 00:36:26,374
+Comment, alors je refuse de parler et ça veut dire que je suis coupable ?
+
+865
+00:36:26,390 --> 00:36:29,198
+Vous avez déjà entendu parler de Miranda vs Arizona*, 1966 ?
+
+866
+00:36:29,198 --> 00:36:29,198
+*Miranda vs Arizona : Article obligeant la police à informer les suspects de leurs droits légaux.
+
+867
+00:36:29,265 --> 00:36:30,498
+Et là, pendant tout ce temps, comment j'ai pu
+
+868
+00:36:30,565 --> 00:36:33,093
+manquer ça ? C'est tellement évident.
+
+869
+00:36:33,872 --> 00:36:34,561
+Manquer quoi ?
+
+870
+00:36:34,611 --> 00:36:36,596
+Gibbs est clairement Tommy Lee Jones.
+
+871
+00:36:36,659 --> 00:36:38,201
+Je veux dire qu'il n'y a aucun doute là-dessus.
+
+872
+00:36:38,249 --> 00:36:41,141
+Ce qui me fait devenir comme Joey Pants*.
+Au début j'étais un peu...
+
+873
+00:36:41,141 --> 00:36:41,141
+*Joey Pants : acteur qui a joué dans "Le fugitif" avec Tommy Lee Jones, et dans "Matrix" dans le rôle de Cypher, qui signifie encodeur en français.
+
+874
+00:36:41,227 --> 00:36:42,190
+Qu'est-ce qui c'est passé ?
+
+875
+00:36:42,222 --> 00:36:45,349
+On a évité le mot "fugitif" ces deux derniers jours.
+
+876
+00:36:45,381 --> 00:36:47,646
+Il a fait le rapprochement tout seul.
+
+877
+00:36:47,678 --> 00:36:49,267
+<i>Regarde la ligne du dessous.</i>
+
+878
+00:36:49,283 --> 00:36:52,176
+Je fais marcher un magasin d'espionnage légal.
+
+879
+00:36:52,208 --> 00:36:54,729
+Je ne suis pas responsable de l'usage de mes produits
+
+880
+00:36:54,774 --> 00:36:55,510
+par ma clientèle.
+
+881
+00:36:55,560 --> 00:36:58,326
+Je n'ai plus à répondre à aucune
+
+882
+00:36:58,432 --> 00:37:01,366
+de vos questions, peu importe ce que vous dites.
+
+883
+00:37:12,203 --> 00:37:14,167
+Il y a une petite fille...
+
+884
+00:37:16,320 --> 00:37:18,577
+qui veut retourner chez elle voir son père.
+
+885
+00:37:18,891 --> 00:37:21,581
+Et ça ne pourra pas se faire sans votre aide.
+
+886
+00:37:26,664 --> 00:37:27,646
+Donc...
+
+887
+00:37:31,416 --> 00:37:32,719
+S'il vous plaît.
+
+888
+00:37:34,210 --> 00:37:35,302
+Gibbs a bien dit...
+
+889
+00:37:41,514 --> 00:37:45,356
+Qu'est-ce que... Vous voulez savoir quoi déjà ?
+
+890
+00:37:49,308 --> 00:37:51,469
+Le signal est fort, pas de mouvement.
+
+891
+00:37:51,952 --> 00:37:53,218
+Tu as vu la cible, Ziva ?
+
+892
+00:37:53,256 --> 00:37:55,554
+Oui, le suspect est dans la maison et il n'est pas seul.
+
+893
+00:37:55,605 --> 00:37:56,724
+Tu es sûre ?
+
+894
+00:37:56,876 --> 00:37:58,351
+J'ai entendu la voix de Paulson.
+
+895
+00:38:08,569 --> 00:38:11,741
+<i>Laisse-moi te donner un peu d'argent au cas
+où tu en aurais besoin.</i>
+
+896
+00:38:11,792 --> 00:38:12,545
+<i>Je n'en aurai pas besoin.</i>
+
+897
+00:38:12,593 --> 00:38:13,661
+En position, patron.
+
+898
+00:38:14,732 --> 00:38:16,859
+<i>Alors prends ça.</i>
+
+899
+00:38:16,899 --> 00:38:17,932
+- Revolver.
+- On y va, on y va.
+
+900
+00:38:17,999 --> 00:38:19,165
+<i>S'il te plaît, prends-le.</i>
+
+901
+00:38:21,102 --> 00:38:21,734
+Ne bougez pas !
+
+902
+00:38:22,385 --> 00:38:23,289
+Ne bougez pas !
+
+903
+00:38:27,821 --> 00:38:30,054
+Ne faites rien Derrick ou on tire.
+
+904
+00:38:34,900 --> 00:38:38,505
+Tony, McGee, baissez vos armes.
+
+905
+00:38:43,232 --> 00:38:44,618
+J'avais tort.
+
+906
+00:38:46,042 --> 00:38:48,413
+Je sais que vous êtes innocent, second-maître.
+
+907
+00:38:52,465 --> 00:38:53,861
+Mais pas vous, Mickey.
+
+908
+00:38:53,886 --> 00:38:54,726
+DiNozzo.
+
+909
+00:38:54,751 --> 00:38:56,665
+Vous êtes en état d'arrestation
+pour les meurtres de Russell Nash,
+
+910
+00:38:56,732 --> 00:38:59,549
+ses deux complices dans le braquage
+de la Banque de Virginie.
+
+911
+00:38:59,599 --> 00:39:00,837
+Et le meilleur pour la fin,
+
+912
+00:39:00,887 --> 00:39:02,878
+le braquage de la Banque de Virginie.
+
+913
+00:39:02,928 --> 00:39:04,652
+Vous avez pété un câble ?
+
+914
+00:39:04,702 --> 00:39:07,235
+D'abord, vous accusez Derrick à tort et maintenant moi.
+
+915
+00:39:07,265 --> 00:39:08,900
+On a aussi trouvé le mouchard que vous avez mis
+
+916
+00:39:08,950 --> 00:39:10,701
+dans le labo de notre agent médico-légale.
+
+917
+00:39:10,751 --> 00:39:12,824
+On était presque aussi surpris que vous,
+
+918
+00:39:12,874 --> 00:39:14,102
+quand le type à qui vous l'avez acheté
+
+919
+00:39:14,152 --> 00:39:17,046
+vous a montré sur la photo, au lieu de Paulson.
+
+920
+00:39:17,332 --> 00:39:19,732
+C'est ridicule.
+
+921
+00:39:20,200 --> 00:39:22,098
+Est-ce que j'ai l'air d'avoir cinq millions de dollars
+
+922
+00:39:22,165 --> 00:39:24,540
+qui traînent ici ?
+
+923
+00:39:24,604 --> 00:39:26,344
+S'il m'a piégé, où est l'argent ?
+
+924
+00:39:27,250 --> 00:39:28,623
+Ils ne savent pas de quoi ils parlent.
+
+925
+00:39:29,174 --> 00:39:30,397
+C'est ici.
+
+926
+00:39:31,708 --> 00:39:33,473
+Ça a toujours été ici.
+
+927
+00:39:34,093 --> 00:39:36,238
+C'est un bureau en bois de palissandre,
+
+928
+00:39:36,793 --> 00:39:38,680
+19ème siècle. Ça vaut 38 000 dollars.
+
+929
+00:39:39,387 --> 00:39:41,021
+Première édition de Huckleberry Finn
+
+930
+00:39:41,036 --> 00:39:42,117
+20 000 dollars.
+
+931
+00:39:42,742 --> 00:39:46,791
+On dirait que dans la chambre, vous avez
+une pendule de Chipendale-Mahogany.
+
+932
+00:39:47,998 --> 00:39:48,836
+Ça doit aller dans les cent mille !
+
+933
+00:39:49,836 --> 00:39:51,498
+McGee, on ne collectionne pas tout ça
+avec une pension de la marine.
+
+934
+00:39:55,141 --> 00:39:56,062
+Agent Gibbs.
+
+935
+00:39:56,531 --> 00:39:58,244
+Ne me parlez pas, je pense qu'il devrait
+vous tirer dessus.
+
+936
+00:40:04,955 --> 00:40:06,186
+À part qu'il n'a jamais été un tueur.
+
+937
+00:40:10,454 --> 00:40:11,604
+Et je ne crois pas que tu vas commencer
+maintenant.
+
+938
+00:40:20,161 --> 00:40:23,409
+Et manquer son procès ? Pour rien au monde...
+
+939
+00:40:25,304 --> 00:40:26,982
+Tu donnes du fil à retordre, McGee.
+
+940
+00:40:34,260 --> 00:40:34,996
+Antiques roadshow*.
+
+941
+00:40:34,996 --> 00:40:34,996
+* [Antiques roadshow] : Série documentaire où toute sorte d'antiquités sont estimées.
+
+942
+00:40:41,342 --> 00:40:45,894
+Je passais juste pour te dire que Derrick Paulson a été innocenté de toutes ses charges.
+
+943
+00:40:47,760 --> 00:40:49,625
+- Tu as sauvé la vie de ce gars.
+- Ouais patron.
+
+944
+00:40:51,164 --> 00:40:52,316
+Ne te sous-estime pas.
+
+945
+00:40:53,855 --> 00:40:56,545
+- Ou est-ce trop tard pour ça ?
+- C'est censé être un discours d'encouragement,
+
+946
+00:40:56,758 --> 00:40:57,853
+Pour que je reste, Jen.
+
+947
+00:41:05,266 --> 00:41:06,477
+Tu ne veux pas que je revienne.
+
+948
+00:41:08,792 --> 00:41:09,206
+Non je ne veux pas.
+
+949
+00:41:09,961 --> 00:41:12,340
+Ou tu n'es pas capable de t'occuper de moi,
+directeur ?
+
+950
+00:41:13,138 --> 00:41:13,923
+Non Jethro.
+
+951
+00:41:15,456 --> 00:41:17,253
+J'ai peur que tu ne sois pas capable
+de t'occuper de toi.
+
+952
+00:41:20,115 --> 00:41:21,700
+Tu es déjà tombé deux fois dans le coma.
+
+953
+00:41:22,991 --> 00:41:24,222
+Tu pourrais ne pas sortir d'un troisième.
+
+954
+00:41:25,629 --> 00:41:26,754
+Le fait est que tu es bon.
+
+955
+00:41:28,167 --> 00:41:28,790
+Le meilleur.
+
+956
+00:41:29,921 --> 00:41:32,930
+Quand on est aussi bon, comme tu l'es, quand on
+
+957
+00:41:33,078 --> 00:41:35,690
+peut faire la différence comme tu peux le faire, alors on ne démissionne pas.
+
+958
+00:41:52,764 --> 00:41:54,854
+Tu sais, avant tu étais quelqu'un de gentil, McGee.
+
+959
+00:41:55,259 --> 00:41:57,267
+Je pense que t'assoir au bureau de Tony affecte ta personnalité.
+
+960
+00:41:57,512 --> 00:42:00,248
+Pour le meilleur, McGee est sorti avec une fille tout seul.
+
+961
+00:42:00,288 --> 00:42:02,931
+- Ouais, à un enterrement.
+- Tu ne me l'avais pas dit.
+
+962
+00:42:03,017 --> 00:42:04,324
+Tu avais raison.
+
+963
+00:42:04,859 --> 00:42:06,236
+Car quand les femmes sont vulnérables,
+
+964
+00:42:07,510 --> 00:42:08,363
+il faut foncer.
+
+965
+00:42:27,597 --> 00:42:28,153
+Quoi ?
+
+966
+00:42:35,600 --> 00:42:40,557
+www. Team-NCIS.com
+
