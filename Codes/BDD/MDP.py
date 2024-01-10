@@ -1,12 +1,12 @@
 import bcrypt
 from Connexion import Connexion
-utilisateur = "utilisateur"
-administrateur = "administrateur"
+UTILISATEUR = "utilisateur"
+ADMINISTRATEUR = "administrateur"
 
 # Permet de créer un nouvel utilisateur dans la base de données.
 # Si le nom existe déjà alors la fonction lève l'erreur ValueError
 # Renvoie True si l'utilisateur à été ajouté et lève ConnectionError si une erreur à eu lieu lors de la connexion
-def creationCompte(username, mdp, role=utilisateur):
+def creationCompte(username, mdp, role=UTILISATEUR):
     connexion = Connexion("SAE_S5", "Utilisateur")
     collection = connexion.getCollection()
     nbrDocuments = collection.count_documents ({"identifiant": username})
