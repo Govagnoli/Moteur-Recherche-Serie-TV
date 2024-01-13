@@ -1,11 +1,11 @@
-import re
-import string
+from re import match, sub
+from string import punctuation
 from langdetect import detect
 import glob
 from tqdm import tqdm
-import os
-import spacy
-import string
+from os import listdir
+from os.path import join, basename
+from spacy import load
 
 DIR_SOUS_TITRES = "..\StockageFic\sous-titres"
 DIR_SOUS_TITRES_CLEAN_TRIER_LANGUE = "../StockageFic/Mots_VO_VF/"
@@ -33,25 +33,25 @@ def suppr_parasites_srt(input_file):
     for line in lines:
         line = line.strip()
         # Utiliser une expression régulière pour identifier les numéros de sous-titrage
-        if re.match(r'^\d+$', line):
+        if match(r'^\d+$', line):
             continue  # Ignorer les numéros de sous-titrage
         # Si la ligne est vide, cela signifie la fin d'un sous-titre, alors on ajoute le texte au résultat
         if not line:
             subtitle_text = ' '.join(subtitle_text)  # Convertir la liste en une seule chaîne de caractères
             # Supprimer la ponctuation du texte
-            subtitle_text = ''.join([char if char not in string.punctuation or char == "'" else ' ' for char in subtitle_text])
+            subtitle_text = ''.join([char if char not in punctuation or char == "'" else ' ' for char in subtitle_text])
             output_lines.append(subtitle_text)
             subtitle_text = []  # Réinitialiser le texte du sous-titre
         else:
             # Supprimer les timelines (horodatages) avec une expression régulière
-            line = re.sub(r'\d+:\d+:\d+,\d+ --> \d+:\d+:\d+,\d+', '', line)
-            line = re.sub(r'<.*?>', '', line)
+            line = sub(r'\d+:\d+:\d+,\d+ --> \d+:\d+:\d+,\d+', '', line)
+            line = sub(r'<.*?>', '', line)
             subtitle_text.append(line)
     return output_lines
 
 # Supprime la ponctuation d'un string "chaine"
 def supprimer_ponctuation(chaine):
-    return chaine.translate(str.maketrans('', '', string.punctuation))
+    return chaine.translate(str.maketrans('', '', punctuation))
 
 # input_file : fichier sub sur lequel on applique le traitement
 # Supprime les parasites d'un fichier sub (ponctuation et chiffre entre accolades)
@@ -62,8 +62,8 @@ def suppr_parasites_sub(input_file):
     for ligne in lignes:
         ligne = ligne.strip()
         if ligne:
-            ligne = re.sub(r'^{\d+}{\d+}', '', ligne)
-            ligne = re.sub(r'<.*?>', '', ligne)
+            ligne = sub(r'^{\d+}{\d+}', '', ligne)
+            ligne = sub(r'<.*?>', '', ligne)
             texte_retourne.append(ligne)
     # Supprimer la ponctuation du texte
     texte_retourne = [supprimer_ponctuation(ligne) for ligne in texte_retourne]
@@ -81,7 +81,7 @@ def transform_list_to_text(list):
 # Retourne le nombre de fichier srt dans un répertoire
 def nbrFic(cheminDir, extension):
   nbrFic = 0
-  for fichier in os.listdir(cheminDir):
+  for fichier in listdir(cheminDir):
     # Vérifiez si le fichier a l'extension .srt
     if fichier.endswith(extension):
         nbrFic += 1
@@ -92,9 +92,9 @@ def nbrFic(cheminDir, extension):
 # retourne une une liste de mot lemmatisé (traite l'anglais et le français uniquement)
 def lemmatize_words_with_pos(text, langue):
     if langue=="fr":
-        nlp = spacy.load("fr_core_news_sm")
+        nlp = load("fr_core_news_sm")
     else:
-        nlp = spacy.load("en_core_web_sm")
+        nlp = load("en_core_web_sm")
     doc = nlp(text)
     list_lemmatizer = [token.lemma_ for token in doc]
     # Supprime les indices vides
@@ -108,8 +108,8 @@ def parcoursFichierTrierParLangue(chemin_dir_serie, nom_dir, extension='*.srt'):
     total_iteration_Serie = nbrFic(chemin_dir_serie, extension[1:])
     sous_progress_bar = tqdm(total=total_iteration_Serie, desc="Chargement", unit="it")
     texteFinal =""
-    for chemin_fichier_srt in glob.glob(os.path.join(chemin_dir_serie, extension)):
-        fichier_srt = os.path.basename(chemin_fichier_srt)
+    for chemin_fichier_srt in glob.glob(join(chemin_dir_serie, extension)):
+        fichier_srt = basename(chemin_fichier_srt)
         chemin_fichier_clean = f"{DIR_SOUS_TITRES_CLEAN_TRIER_LANGUE}{nom_dir}_"
         if extension == "*.sub":
             texteFinal = suppr_parasites_sub(chemin_fichier_srt)
@@ -133,11 +133,11 @@ def parcoursFichierTrierParLangue(chemin_dir_serie, nom_dir, extension='*.srt'):
 # Parcours les fichier srt de chaque série, stock par série les mots en vf et en anglais. Les mots sont traité de tel sorte à ce qu'ils soient lémmatisés.
 # WARNING : fonction longue a exécuter (un fichier prend entre 1s et 1.40s à être traité)
 def Mots_EN_FR():
-    total_iterations = len(os.listdir(DIR_SOUS_TITRES))
+    total_iterations = len(listdir(DIR_SOUS_TITRES))
     progress_bar = tqdm(total=total_iterations, desc="Chargement", unit="it")
     # Liste des répertoires présent dans ../sous-titres
-    for nom_dir in os.listdir(DIR_SOUS_TITRES):
-        chemin_dir_serie = os.path.join(DIR_SOUS_TITRES, nom_dir)
+    for nom_dir in listdir(DIR_SOUS_TITRES):
+        chemin_dir_serie = join(DIR_SOUS_TITRES, nom_dir)
         # Parcours .srt
         print(f"\nParcours fichier .srt\n")
         parcoursFichierTrierParLangue(chemin_dir_serie, nom_dir)

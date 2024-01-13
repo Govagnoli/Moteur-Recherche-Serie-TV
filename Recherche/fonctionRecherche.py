@@ -1,9 +1,10 @@
-import os
-import numpy as np
+from os import getcwd
+from os.path import join
+from numpy import save
 import simplemma
-import pymongo
+from pymongo.errors import ConnectionFailure 
 import sys
-import pandas as pd
+from pandas import DataFrame, read_csv
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 sys.path.insert(0,"./Codes")
@@ -11,7 +12,7 @@ from BDD.Connexion import Connexion
 barre_de_recherche = "skyler"
 
 # CHEMIN_STOCKAGE_MATRIX_SIMILARITE = "..\../StockageFic\Matrix_Similarite\similarite.csv"
-CHEMIN_STOCKAGE_MATRIX_SIMILARITE = os.path.join("./StockageFic/Matrix_Similarite/similarite.csv")
+CHEMIN_STOCKAGE_MATRIX_SIMILARITE = join("../StockageFic/Matrix_Similarite/similarite.csv")
 
 # texteRecherche est le string recherché par l'utilisateur
 # La fonction va renvoyer la liste des mots lématisés rentrer par l'utilisateur
@@ -101,6 +102,8 @@ def deplacerTitreIndice0(titreADeplacer, titres):
         titres.pop(index)
         titres.insert(0, titreADeplacer)
         return titres
+    titres.insert(0, titreADeplacer)
+    return titres
 
 # Récupère toutes les données des 127 séries stocké dans la collection Series_mots et renvoie un dictionnaire
 def allSerieToMots():
@@ -109,7 +112,7 @@ def allSerieToMots():
         collection = connexion.getCollection()
         series_data = list(collection.find())  # Convertir le curseur en liste de dictionnaires
         return [dict(serie) for serie in series_data] # Convertir les objets MongoDB en dictionnaires Python
-    except pymongo.errors.ConnectionFailure as erreur:
+    except ConnectionFailure as erreur:
         print("Une erreur de connexion à la base de données s'est produite :", erreur)
     finally:
         connexion.closeConnexion()  # Fermez la connexion ici
@@ -121,17 +124,17 @@ def entrainementModelRecommandation(series_data=allSerieToMots()):
     series_texts = [' '.join(mot['mot'] for mot in serie["mots"]) for serie in series_data] # Concatène l'ensemble des mots des séries (lémmatisé)
     tfidf_matrix = tfidf_vectorizer.fit_transform(series_texts)
     similarities = cosine_similarity(tfidf_matrix, tfidf_matrix)
-    np.save(CHEMIN_STOCKAGE_MATRIX_SIMILARITE, similarities)
+    save(CHEMIN_STOCKAGE_MATRIX_SIMILARITE, similarities)
 
 # Fonction pour obtenir les séries recommandées en fonction de la série donnée
 def recommendations(titres_series, top_n=126):
     series_data = allSerieToMots()
-    similarites = pd.DataFrame()
+    similarites = DataFrame()
     try:
-        print(os.getcwd())
-        similarites = pd.read_csv(CHEMIN_STOCKAGE_MATRIX_SIMILARITE, index_col=0)
+        print(getcwd())
+        similarites = read_csv(CHEMIN_STOCKAGE_MATRIX_SIMILARITE, index_col=0)
     except Exception as e:
-        print(f"Erreur, matrice de similarité introuvable:")
+        print(f"Erreur, matrice de similarité introuvable:\n{e}")
     series_recommandees = {}
     for titre in titres_series:
         similarities_with_reference = similarites.loc[titre]

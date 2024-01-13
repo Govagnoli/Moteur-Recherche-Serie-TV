@@ -1,4 +1,5 @@
-import pymongo
+from pymongo import MongoClient
+from pymongo.errors import ConnectionFailure
 
 # Class Connexion (design pattern : Singleton)
 # Prend en paramètre Nomdb et NomCollection correspondant respectivement au nom de la base de données et au nom de la collection (en string) qu'on souhaite se connecter.
@@ -24,11 +25,11 @@ class Connexion:
     # initialise la connexion à la base de données
     def initialiserConnexion(self):
         try :
-            self.client = pymongo.MongoClient("mongodb://localhost:27017/")  # Remplacez l'URL par celle de votre base de données si nécessaire
+            self.client = MongoClient("mongodb://localhost:27017/")  # Remplacez l'URL par celle de votre base de données si nécessaire
             database = self.client[self.Nomdb]
             self.db = database
             self.collection = database[self.NomCollection]
-        except pymongo.errors.ConnectionFailure as erreur:
+        except ConnectionFailure as erreur:
             print("Une erreur de connexion à la base de données s'est produite :", erreur)
 
     # Permet de fermer une connexion

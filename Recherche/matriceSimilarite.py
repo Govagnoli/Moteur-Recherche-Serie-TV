@@ -1,13 +1,12 @@
-import pandas as pd
+from pandas import DataFrame
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 import sys
-import pymongo
-import numpy as np
-import os
+from pymongo.errors import ConnectionFailure
+from os.path import join
 sys.path.insert(0,".")
 from BDD.Connexion import Connexion
-CHEMIN_STOCKAGE_MATRIX_SIMILARITE_csv = os.path.join("../../StockageFic/Matrix_Similarite/similarite.csv")
+CHEMIN_STOCKAGE_MATRIX_SIMILARITE_csv = join("../../StockageFic/Matrix_Similarite/similarite.csv")
 
 # Retourne une liste de dictionnaires. Chaque dictionnaire correspond à une série stocké dans la base de données.
 # Un dictionnaire contient une clé titre et mots. Le titre référence le titre de la série et la clé mots (lémmatisé) contient une liste de mots associé à son poid TFIDF.
@@ -18,7 +17,7 @@ def allSerieToMots():
         collection = connexion.getCollection()
         series_data = list(collection.find())  #Récupère toute ma collection Series_Mots
         return [dict(serie) for serie in series_data] # Créer une liste de dictionnaire. Chaque dictionnaire contient le nom de la série ainsi que la liste mots de la série
-    except pymongo.errors.ConnectionFailure as erreur:
+    except ConnectionFailure as erreur:
         print("Une erreur de connexion à la base de données s'est produite :", erreur)
     finally:
         connexion.closeConnexion()  # Fermez la connexion ici
@@ -64,7 +63,7 @@ def creationMatriceSimilarite():
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform([" ".join(mots) for mots in lemmatized_texts])
     similarity_matrix = cosine_similarity(tfidf_matrix, tfidf_matrix)
-    similarity_df = pd.DataFrame(similarity_matrix, index=series_names, columns=series_names)
+    similarity_df = DataFrame(similarity_matrix, index=series_names, columns=series_names)
     similarity_df.to_csv(CHEMIN_STOCKAGE_MATRIX_SIMILARITE_csv)
    
 # creationMatriceSimilarite() Créer la matrice de similarité
