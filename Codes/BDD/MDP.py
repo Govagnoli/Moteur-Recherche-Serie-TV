@@ -1,12 +1,14 @@
-import bcrypt
-from Connexion import Connexion
-utilisateur = "utilisateur"
-administrateur = "administrateur"
+from bcrypt import gensalt, checkpw, hashpw
+import sys
+sys.path.insert(0,".")
+from BDD.Connexion import Connexion
+UTILISATEUR = "utilisateur"
+ADMINISTRATEUR = "administrateur"
 
 # Permet de créer un nouvel utilisateur dans la base de données.
 # Si le nom existe déjà alors la fonction lève l'erreur ValueError
 # Renvoie True si l'utilisateur à été ajouté et lève ConnectionError si une erreur à eu lieu lors de la connexion
-def creationCompte(username, mdp, role=utilisateur):
+def creationCompte(username, mdp, role=UTILISATEUR):
     connexion = Connexion("SAE_S5", "Utilisateur")
     collection = connexion.getCollection()
     nbrDocuments = collection.count_documents ({"identifiant": username})
@@ -15,19 +17,17 @@ def creationCompte(username, mdp, role=utilisateur):
     nouvel_utilisateur = {
         "identifiant": username,
         "mdp": str(hash_mdp(mdp)),
-        "role": role
+        "role": role,
+        "historique": []
     }
     insertion_user = collection.insert_one(nouvel_utilisateur)
-    if insertion_user.inserted_id:
-        return True
-    else:
+    if not insertion_user.inserted_id:
         raise ConnectionError("Erreur lors de la création du compte. Veuillez réessayer de nouveau.")
-
 # Hash un mot de passe (mdp) avec l'algorithme bcrypt
 # renvoi le mot de passe hashed
 def hash_mdp(mdp):
-    salt = bcrypt.gensalt()
-    hash_mdp= bcrypt.hashpw(mdp.encode('utf-8'), salt)
+    salt = gensalt()
+    hash_mdp= hashpw(mdp.encode('utf-8'), salt)
     return hash_mdp.decode('utf-8')
 
 # Permet d'authentifier un utilisateur en fonction de son identifiant (username) et son mot de passe (mdp)
@@ -39,10 +39,9 @@ def authentification(username, mdp):
     nbrDocuments = collection.count_documents({"identifiant": username})
     user_curseur = collection.find({"identifiant": username}, {"_id":0, "identifiant":1, "mdp": 1, "role":1})
     if(nbrDocuments<1):
-        return False
+        return None
     mdp_bdd_hash = str(user_curseur[0].get("mdp")).encode('utf-8')
-    print(f"mdp_bdd_hash : {mdp_bdd_hash}, mdp : {mdp}")
-    if bcrypt.checkpw(mdp, mdp_bdd_hash):
-        return True
+    if checkpw(mdp, mdp_bdd_hash):
+        return str(user_curseur[0].get("identifiant"))
     else:
-        return False
+        return None

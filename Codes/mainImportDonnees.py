@@ -1,6 +1,5 @@
 import sys
 sys.path.insert(0,".")
-from Recherche.fonctionRecherche import Connexion
 from CleanSRT.cleanSRT import Mots_EN_FR
 from Recherche.TFIDF import genererCSV_TFIDF
 from InsertDataSRT.export_concat import concatCSV
